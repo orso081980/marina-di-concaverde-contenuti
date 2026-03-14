@@ -17,7 +17,7 @@ hero:
     href: "mailto:mcv@marinadiconcaverde.it"
   secondaryCta:
     label: "Tariffe"
-    href: "/it/tariffe"
+    href: "/tariffe"
 textBlock:
   eyebrow: "Contatti"
   title: "Prenota o chiedi informazioni"
@@ -46,5 +46,4 @@ Via Ciclopi, Loc. Conca Verde - Santa Teresa Gallura (OT).
 
 Telefono: +39.348.3509574
 
-::ContactForm
-::
+::ContactForm ::

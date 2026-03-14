@@ -14,10 +14,10 @@ hero:
   imageAlt: "Vita notturna Gallura Costa Smeralda Sardegna"
   primaryCta:
     label: "Torna ai Dintorni"
-    href: "/it/dintorni"
+    href: "/dintorni"
   secondaryCta:
     label: "Mete Preferite"
-    href: "/it/dintorni/mete"
+    href: "/dintorni/mete"
 textBlock:
   eyebrow: "Vita Notturna"
   title: "La notte in Gallura non delude mai"

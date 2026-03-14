@@ -17,7 +17,7 @@ hero:
     href: "https://www.traghetti.com"
   secondaryCta:
     label: "Noleggio Auto"
-    href: "/it/servizi/ncc"
+    href: "/servizi/ncc"
 textBlock:
   eyebrow: "Traghetti"
   title: "In Sardegna via mare"

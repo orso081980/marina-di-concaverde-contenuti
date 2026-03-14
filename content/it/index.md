@@ -15,7 +15,7 @@ hero:
   imageAlt: "Porto Pozzo Sardegna"
   primaryCta:
     label: "Scopri il Residence"
-    href: "/it/residence"
+    href: "/residence"
   secondaryCta:
     label: "Tariffe"
     href: "/tariffe"
