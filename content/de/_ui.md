@@ -8,6 +8,7 @@ header:
 
 nav:
   exploreLabel: "Website erkunden"
+  childrenLabel: "Entdecken"
 
 footer:
   legalInfo: "Rechtliche Informationen"
