@@ -19,7 +19,7 @@ footer:
   social: "Follow us"
   rights: "All rights reserved"
   privacyLink: "Privacy Policy"
-  interventiLink: "Works"
+  interventiLink: "Design System"
 
 booking:
   title: "Book your stay"
