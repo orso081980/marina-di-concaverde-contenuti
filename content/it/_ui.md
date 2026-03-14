@@ -19,7 +19,7 @@ footer:
   social: "Seguici sui social"
   rights: "Tutti i diritti riservati"
   privacyLink: "Privacy Policy"
-  interventiLink: "Interventi"
+  interventiLink: "Design System"
 
 booking:
   title: "Prenota il tuo soggiorno"

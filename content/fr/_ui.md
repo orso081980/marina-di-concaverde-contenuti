@@ -19,7 +19,7 @@ footer:
   social: "Suivez-nous"
   rights: "Tous droits réservés"
   privacyLink: "Politique de confidentialité"
-  interventiLink: "Travaux"
+  interventiLink: "Design System"
 
 booking:
   title: "Réservez votre séjour"
