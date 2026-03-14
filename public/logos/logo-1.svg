@@ -1,0 +1,91 @@
+<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- ========================= -->
+  <!-- ICON (Sunset + Palm)     -->
+  <!-- ========================= -->
+  <defs>
+    <linearGradient id="sunGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F6C667"/>
+      <stop offset="100%" stop-color="#E9A93A"/>
+    </linearGradient>
+
+    <linearGradient id="seaGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#5FBF9F"/>
+      <stop offset="100%" stop-color="#1F7A5C"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(150,150)">
+    
+    <!-- Outer circle -->
+    <circle cx="0" cy="0" r="95" fill="#2E8B57"/>
+
+    <!-- Inner clipping circle -->
+    <clipPath id="circleClip">
+      <circle cx="0" cy="0" r="85"/>
+    </clipPath>
+
+    <g clip-path="url(#circleClip)">
+
+      <!-- Sun -->
+      <circle cx="0" cy="-10" r="45" fill="url(#sunGradient)"/>
+
+      <!-- Sea -->
+      <rect x="-100" y="0" width="200" height="100" fill="url(#seaGradient)"/>
+
+      <!-- Waves -->
+      <path d="M-85 20 Q-60 5 -35 20 T15 20 T65 20 T115 20"
+            fill="none"
+            stroke="#FFFFFF"
+            stroke-width="3"
+            opacity="0.8"/>
+
+      <path d="M-85 40 Q-60 25 -35 40 T15 40 T65 40 T115 40"
+            fill="none"
+            stroke="#FFFFFF"
+            stroke-width="2"
+            opacity="0.6"/>
+
+      <!-- Shore -->
+      <path d="M-100 70 Q-40 40 20 70 T120 70 L120 100 L-100 100 Z"
+            fill="#145A41"/>
+
+      <!-- Palm trunk -->
+      <path d="M-20 65 C-15 35 -5 10 0 -15"
+            stroke="#0B3D2E"
+            stroke-width="6"
+            fill="none"
+            stroke-linecap="round"/>
+
+      <!-- Palm leaves -->
+      <path d="M0 -15 
+               C-30 -30 -50 -10 -35 0 
+               C-20 -5 -10 -10 0 -15"
+            fill="#0B3D2E"/>
+
+      <path d="M0 -15 
+               C30 -35 55 -20 35 -5 
+               C20 -10 10 -12 0 -15"
+            fill="#0B3D2E"/>
+
+      <path d="M0 -15 
+               C-15 -45 10 -55 20 -30 
+               C10 -20 5 -18 0 -15"
+            fill="#0B3D2E"/>
+
+    </g>
+  </g>
+
+  <!-- ========================= -->
+  <!-- TEXT                     -->
+  <!-- ========================= -->
+  <text x="320" y="170"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="90"
+        font-weight="700"
+        fill="#1F7A3A"
+        letter-spacing="3">
+    BEACH RESORT
+  </text>
+
+</svg>

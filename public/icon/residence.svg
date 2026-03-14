@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- roof -->
+  <path d="M2.5 11.5 12 4l9.5 7.5"/>
+  <!-- house body -->
+  <path d="M4.5 10.5V21h15V10.5"/>
+  <!-- door -->
+  <path d="M10 21v-5.5a2 2 0 0 1 4 0V21"/>
+  <!-- window left -->
+  <rect x="5.5" y="13" width="3.5" height="3" rx="0.5"/>
+  <!-- window right -->
+  <rect x="15" y="13" width="3.5" height="3" rx="0.5"/>
+  <!-- chimney -->
+  <path d="M15.5 10.5V7h2.5v3.5"/>
+  <!-- ground / grass -->
+  <path d="M1 21h22"/>
+  <!-- small tree left -->
+  <line x1="2" y1="21" x2="2" y2="18.5"/>
+  <circle cx="2" cy="17" r="1.5"/>
+</svg>
