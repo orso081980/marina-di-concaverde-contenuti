@@ -14,10 +14,10 @@ hero:
   imageAlt: "Dintorni Porto Pozzo Gallura Sardegna"
   primaryCta:
     label: "Mete Preferite"
-    href: "/it/dintorni/mete"
+    href: "/dintorni/mete"
   secondaryCta:
     label: "Itinerari"
-    href: "/it/dintorni/itinerari"
+    href: "/dintorni/itinerari"
 textBlock:
   eyebrow: "I Dintorni"
   title: "Un territorio ricchissimo da esplorare"

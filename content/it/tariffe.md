@@ -14,10 +14,10 @@ hero:
   imageAlt: "Villetta Marina di Conca Verde"
   primaryCta:
     label: "Richiedi Disponibilità"
-    href: "/it/contatti"
+    href: "/contatti"
   secondaryCta:
     label: "Scopri le Villette"
-    href: "/it/villette"
+    href: "/villette"
 textBlock:
   eyebrow: "Tariffe 2025"
   title: "Prezzi trasparenti, nessuna sorpresa"
@@ -136,5 +136,4 @@ pricingData:
       cost: "€ 75"
 ---
 
-::PricingTable 
-::
+::PricingTable ::

@@ -14,7 +14,7 @@ hero:
   imageAlt: "Residence Marina di Conca Verde Porto Pozzo"
   primaryCta:
     label: "Le Villette"
-    href: "/it/villette"
+    href: "/villette"
 textBlock:
   eyebrow: "Il Residence"
   title: "Un angolo autentico della Gallura"

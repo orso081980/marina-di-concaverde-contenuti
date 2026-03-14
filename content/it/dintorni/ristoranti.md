@@ -14,10 +14,10 @@ hero:
   imageAlt: "Ristorante di pesce Gallura Sardegna"
   primaryCta:
     label: "Torna ai Dintorni"
-    href: "/it/dintorni"
+    href: "/dintorni"
   secondaryCta:
     label: "Agriturismo"
-    href: "/it/dintorni/agriturismo"
+    href: "/dintorni/agriturismo"
 textBlock:
   eyebrow: "Ristoranti"
   title: "Sapori autentici della Gallura"

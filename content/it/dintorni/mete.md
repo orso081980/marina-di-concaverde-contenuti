@@ -14,10 +14,10 @@ hero:
   imageAlt: "Arcipelago La Maddalena Sardegna"
   primaryCta:
     label: "Escursioni in barca"
-    href: "/it/servizi/escursioni"
+    href: "/servizi/escursioni"
   secondaryCta:
     label: "Traghetti"
-    href: "/it/traghetti"
+    href: "/traghetti"
 textBlock:
   eyebrow: "Mete Preferite"
   title: "Il meglio della Sardegna settentrionale"

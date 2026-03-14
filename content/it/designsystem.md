@@ -14,7 +14,7 @@ hero:
   imageAlt: "Design System Marina di Conca Verde"
   primaryCta:
     label: "Contatti"
-    href: "/it/contatti"
+    href: "/contatti"
   secondaryCta:
     label: "Home"
     href: "/it/"
