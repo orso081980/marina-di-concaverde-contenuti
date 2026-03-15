@@ -14,6 +14,7 @@ footer:
   legalInfo: "Rechtliche Informationen"
   vatPrefix: "USt-IdNr."
   contacts: "Kontakt"
+  contactHref: "/kontakt"
   phone: "Telefon"
   email: "E-Mail"
   social: "Folgen Sie uns"
