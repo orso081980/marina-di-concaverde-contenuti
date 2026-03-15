@@ -7,7 +7,7 @@ translations:
   de: "/"
   fr: "/"
 hero:
-  eyebrow: "Gallura · Sardegna test"
+  eyebrow: "Gallura · Sardegna"
   title: "Marina di Conca Verde"
   subtitle: "Sul fiordo di Porto Pozzo, di fronte all'arcipelago de La Maddalena."
   video: "/video/index.mp4"
