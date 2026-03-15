@@ -14,10 +14,10 @@ hero:
   imageAlt: "Diving fondali Gallura Sardegna"
   primaryCta:
     label: "Prenota un'Uscita"
-    href: "/it/contatti"
+    href: "/contatti"
   secondaryCta:
     label: "Tutti i Servizi"
-    href: "/it/servizi"
+    href: "/servizi"
 textBlock:
   eyebrow: "Diving"
   title: "Esplora i fondali della Gallura"

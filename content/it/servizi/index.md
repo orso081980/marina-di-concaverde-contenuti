@@ -14,10 +14,10 @@ hero:
   imageAlt: "Servizi Marina di Conca Verde"
   primaryCta:
     label: "Prenota il Soggiorno"
-    href: "/it/tariffe"
+    href: "/tariffe"
   secondaryCta:
     label: "Contattaci"
-    href: "/it/contatti"
+    href: "/contatti"
 textBlock:
   eyebrow: "I Servizi"
   title: "Una vacanza senza pensieri"

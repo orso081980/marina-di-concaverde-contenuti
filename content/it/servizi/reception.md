@@ -14,10 +14,10 @@ hero:
   imageAlt: "Reception Marina di Conca Verde"
   primaryCta:
     label: "Contattaci"
-    href: "/it/contatti"
+    href: "/contatti"
   secondaryCta:
     label: "Tutti i Servizi"
-    href: "/it/servizi"
+    href: "/servizi"
 textBlock:
   eyebrow: "Reception"
   title: "Il tuo punto di riferimento in vacanza"

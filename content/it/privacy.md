@@ -17,7 +17,7 @@ hero:
     href: "/contatti"
   secondaryCta:
     label: "Home"
-    href: "/it/"
+    href: "/"
 textBlock:
   eyebrow: "Privacy Policy"
   title: "Trattamento dei Dati Personali"
