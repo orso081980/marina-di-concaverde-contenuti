@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#CAA647" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- counter top -->
+  <rect x="2" y="13" width="20" height="2" rx="0.5"/>
+  <!-- back wall -->
+  <rect x="4" y="5" width="16" height="8" rx="0.5"/>
+  <!-- bell -->
+  <path d="M12 8 v2 m-1.5 0 h3"/>
+  <!-- person behind desk -->
+  <circle cx="8" cy="9" r="1.5"/>
+  <path d="M6 13 Q6 11 8 11 Q10 11 10 13"/>
+  <!-- sign on counter -->
+  <rect x="14" y="8" width="4" height="2.5" rx="0.3"/>
+  <!-- base / floor line -->
+  <line x1="2" y1="21" x2="22" y2="21"/>
+  <path d="M4 15 v6 M20 15 v6"/>
+</svg>

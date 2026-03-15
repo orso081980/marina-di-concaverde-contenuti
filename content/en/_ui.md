@@ -14,6 +14,7 @@ footer:
   legalInfo: "Legal Information"
   vatPrefix: "VAT No."
   contacts: "Contact"
+  contactHref: "/contact"
   phone: "Phone"
   email: "Email"
   social: "Follow us"
