@@ -14,10 +14,10 @@ hero:
   imageAlt: "Servizio transfer Sardegna"
   primaryCta:
     label: "Richiedi Preventivo"
-    href: "/it/contatti"
+    href: "/contatti"
   secondaryCta:
     label: "Tutti i Servizi"
-    href: "/it/servizi"
+    href: "/servizi"
 textBlock:
   eyebrow: "NCC / Transfer"
   title: "Spostati in Sardegna senza stress"

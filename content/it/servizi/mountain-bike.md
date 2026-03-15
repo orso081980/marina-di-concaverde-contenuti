@@ -14,10 +14,10 @@ hero:
   imageAlt: "Mountain bike sentieri Gallura Sardegna"
   primaryCta:
     label: "Prenota il Noleggio"
-    href: "/it/contatti"
+    href: "/contatti"
   secondaryCta:
     label: "I Percorsi"
-    href: "/it/residence/percorsi"
+    href: "/residence/percorsi"
 textBlock:
   eyebrow: "Mountain Bike"
   title: "La Gallura vista dalla sella"

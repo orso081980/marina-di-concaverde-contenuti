@@ -17,7 +17,7 @@ hero:
     href: "/contatti"
   secondaryCta:
     label: "Home"
-    href: "/it/"
+    href: "/"
 textBlock:
   eyebrow: "Design System"
   title: "Guida visiva del sito"

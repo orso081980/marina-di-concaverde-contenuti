@@ -15,10 +15,10 @@ hero:
   imageAlt: "Offres Spéciales Marina di Conca Verde"
   primaryCta:
     label: "Contact"
-    href: "/fr/contact"
+    href: "/contact"
   secondaryCta:
     label: "Tarifs"
-    href: "/fr/rates"
+    href: "/rates"
 textBlock:
   eyebrow: "Bientôt disponible"
   title: "Aucune offre active pour le moment"
