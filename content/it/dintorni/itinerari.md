@@ -71,7 +71,7 @@ Una delle gite più affascinanti dal north Sardinia. Raggiungi Santa Teresa Gall
 - 17:30 — Traghetto di rientro a Santa Teresa
 - 19:00 — Cena a Santa Teresa Gallura prima di tornare al residence
 
-→ [Orari traghetti Santa Teresa–Bonifacio](/it/traghetti)
+→ [Orari traghetti Santa Teresa–Bonifacio](/it/residence/traghetti)
 
 ---
 
