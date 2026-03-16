@@ -29,3 +29,5 @@ Situata sul fiordo naturale di Porto Pozzo, proprio di fronte l’arcipelago de 
 Con oltre 40 milioni di anni di storia geologica, questo fiordo e la sua conca (verde) sono citati nell’opera di Omero (L’Odissea). Qui Ulisse si imbatté nei cosi detti Lestrigoni. Oggi Porto Pozzo è un piacevole borgo di pescatori che ci accoglie con i suoi piccoli negozi familiari, la pescheria, i ristoranti/pizzeria, bar, gelateria artigianale, farmacia e minimarket.
 
 Inoltre la sua marina ben protetta, offre un punto ideale per partire alla scoperta dell’arcipelago e le sue incantevoli spiagge.
+
+Test
