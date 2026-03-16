@@ -2,7 +2,7 @@
 title: "Parco Naturale — Marina di Conca Verde"
 description: "Il parco naturale di Conca Verde: macchia mediterranea, mirto, lentisco e ginepro tra i graniti millenari della Gallura. Passeggiate nella natura incontaminata."
 translations:
-  it: "/residence/parco"
+  it: "/dintorni/parco"
   en: "/residence/park"
   de: "/residenz/park"
   fr: "/residence/park"
@@ -14,7 +14,7 @@ hero:
   imageAlt: "Parco naturale Conca Verde Gallura"
 textBlock:
   eyebrow: "Il Parco"
-  title: "Il parco de La Maddalena"
+  title: "Il parco di Capo Testa"
 stats:
   - value: "40M anni"
     label: "Storia geologica"

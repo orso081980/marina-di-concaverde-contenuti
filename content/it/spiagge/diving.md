@@ -2,7 +2,7 @@
 title: "Diving — Marina di Conca Verde, Porto Pozzo"
 description: "Corsi e uscite diving in Gallura tra Santa Teresa Gallura e Palau. Fondali spettacolari, grotte marine, poseidonia e fauna ricchissima. Per principianti e subacquei esperti."
 translations:
-  it: "/servizi/diving"
+  it: "/spiagge/diving"
   en: "/services/diving"
   de: "/dienstleistungen/tauchen"
   fr: "/services/diving"
@@ -14,10 +14,10 @@ hero:
   imageAlt: "Diving fondali Gallura Sardegna"
   primaryCta:
     label: "Prenota un'Uscita"
-    href: "/contatti"
+    href: "/residence/contatti"
   secondaryCta:
     label: "Tutti i Servizi"
-    href: "/servizi"
+    href: "/spiagge/servizi"
 textBlock:
   eyebrow: "Diving"
   title: "Esplora i fondali della Gallura"

@@ -12,14 +12,21 @@ nav:
 
 footer:
   legalInfo: "Informazioni Legali"
+  companyName: "Marina di Conca Verde"
+  companyLegal: "Marina di Conca Verde srl"
+  companyVat: "00334540903"
+  companyAddressLabel: "Sede legale:"
+  companyAddress1: "Zona Ind. Sett. 1"
+  companyAddress2: "07026 Olbia (OT)"
   vatPrefix: "P.I."
   contacts: "Contatti"
-  contactHref: "/contatti"
+  contactHref: "/residence/contatti"
   phone: "Telefono"
   email: "Email"
   social: "Seguici sui social"
   rights: "Tutti i diritti riservati"
   privacyLink: "Privacy Policy"
+  privacyHref: "/privacy"
   interventiLink: "Design System"
 
 booking:
@@ -76,6 +83,7 @@ pricing:
   notePrefix: "Queste sono le tariffe massime del canone di locazione da listino. Per le tariffe scontate e le offerte tutto incluso,"
   noteContactUs: "contattaci"
   noteSuffix: "o calcola il tuo preventivo inserendo le date di arrivo e partenza nel calendario."
+  contactHref: "/residence/contatti"
 
 sidebar:
   partners: "Visita i nostri partner"

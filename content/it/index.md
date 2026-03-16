@@ -18,7 +18,7 @@ hero:
     href: "/residence"
   secondaryCta:
     label: "Tariffe"
-    href: "/tariffe"
+    href: "/residence/tariffe"
 textBlock:
   eyebrow: "Benvenuti a marina di Conca Verde"
   title: "Gallura - Sardegna"

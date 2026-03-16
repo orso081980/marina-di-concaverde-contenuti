@@ -2,7 +2,7 @@
 title: "Spiaggia — Marina di Conca Verde, Porto Pozzo"
 description: "La spiaggia attrezzata di Marina di Conca Verde: acque cristalline nel fiordo di Porto Pozzo, calette nascoste, lettini, ombrelloni e noleggio gommoni per le isole."
 translations:
-  it: "/residence/spiaggia"
+  it: "/spiagge/spiaggia"
   en: "/residence/beach"
   de: "/residenz/strand"
   fr: "/residence/beach"

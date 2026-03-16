@@ -2,7 +2,7 @@
 title: "Tariffe — Marina di Conca Verde, Porto Pozzo"
 description: "Tariffe villette bilocale e trilocale a Marina di Conca Verde. Prezzi per stagione bassa, media e alta. Soggiorni da minimo 3 notti. Offerte speciali disponibili."
 translations:
-  it: "/tariffe"
+  it: "/residence/tariffe"
   en: "/rates"
   de: "/preise"
   fr: "/rates"
@@ -14,7 +14,7 @@ hero:
   imageAlt: "Villetta Marina di Conca Verde"
   primaryCta:
     label: "Richiedi Disponibilità"
-    href: "/contatti"
+    href: "/residence/contatti"
   secondaryCta:
     label: "Scopri le Villette"
     href: "/villette"
