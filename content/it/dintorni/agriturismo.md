@@ -14,7 +14,7 @@ hero:
   imageAlt: "Agriturismo campagna gallurese Sardegna"
   primaryCta:
     label: "Prenota una Visita"
-    href: "/contatti"
+    href: "/residence/contatti"
   secondaryCta:
     label: "Ristoranti"
     href: "/dintorni/ristoranti"

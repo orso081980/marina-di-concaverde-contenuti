@@ -15,10 +15,10 @@ hero:
   imageAlt: "Offerte Speciali Marina di Conca Verde"
   primaryCta:
     label: "Contatti"
-    href: "/contatti"
+    href: "/residence/contatti"
   secondaryCta:
     label: "Tariffe"
-    href: "/tariffe"
+    href: "/residence/tariffe"
 textBlock:
   eyebrow: "In arrivo"
   title: "Nessuna offerta attiva al momento"
@@ -26,4 +26,4 @@ textBlock:
 
 Non ci sono offerte speciali attive al momento. Torna presto per scoprire i nostri pacchetti e promozioni stagionali.
 
-Per informazioni o per richiedere un preventivo personalizzato, [contattaci](/it/contatti).
+Per informazioni o per richiedere un preventivo personalizzato, [contattaci](/residence/contatti).

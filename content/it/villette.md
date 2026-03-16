@@ -14,10 +14,10 @@ hero:
   imageAlt: "Villette del residence Marina di Conca Verde"
   primaryCta:
     label: "Tariffe e Disponibilità"
-    href: "/tariffe"
+    href: "/residence/tariffe"
   secondaryCta:
     label: "Contattaci"
-    href: "/contatti"
+    href: "/residence/contatti"
 textBlock:
   eyebrow: "Le Villette"
   title: "Tradizione gallurese e comfort moderno"

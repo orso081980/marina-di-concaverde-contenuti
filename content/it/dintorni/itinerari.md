@@ -14,10 +14,10 @@ hero:
   imageAlt: "Itinerari Gallura Sardegna settentrionale"
   primaryCta:
     label: "Escursioni Organizzate"
-    href: "/servizi/escursioni"
+    href: "/spiagge/escursioni"
   secondaryCta:
     label: "Noleggio Auto / NCC"
-    href: "/servizi/ncc"
+    href: "/spiagge/ncc"
 textBlock:
   eyebrow: "Itinerari"
   title: "Come scoprire la Gallura in vacanza"

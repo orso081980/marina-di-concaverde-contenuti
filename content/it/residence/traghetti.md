@@ -2,7 +2,7 @@
 title: "Traghetti — Da e per la Sardegna, Santa Teresa Gallura"
 description: "Informazioni e link per prenotare i traghetti per la Sardegna: tratte Civitavecchia, Livorno, Genova, Palermo verso Olbia e Porto Torres. Traghetti Santa Teresa–Bonifacio per la Corsica."
 translations:
-  it: "/traghetti"
+  it: "/residence/traghetti"
   en: "/ferries"
   de: "/faehren"
   fr: "/ferries"
@@ -15,9 +15,10 @@ hero:
   primaryCta:
     label: "Prenota un Traghetto"
     href: "https://www.traghetti.com"
+    target: "_blank"
   secondaryCta:
     label: "Noleggio Auto"
-    href: "/servizi/ncc"
+    href: "/spiagge/ncc"
 textBlock:
   eyebrow: "Traghetti"
   title: "In Sardegna via mare"

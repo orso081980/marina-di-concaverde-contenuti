@@ -2,7 +2,7 @@
 title: "Contatti — Marina di Conca Verde, Porto Pozzo"
 description: "Contatti del residence Marina di Conca Verde a Porto Pozzo, Santa Teresa Gallura. Telefono, email, WhatsApp e come raggiungerci in macchina, aereo o traghetto."
 translations:
-  it: "/contatti"
+  it: "/residence/contatti"
   en: "/contact"
   de: "/kontakt"
   fr: "/contact"
@@ -17,7 +17,7 @@ hero:
     href: "mailto:mcv@marinadiconcaverde.it"
   secondaryCta:
     label: "Tariffe"
-    href: "/tariffe"
+    href: "/residence/tariffe"
 textBlock:
   eyebrow: "Contatti"
   title: "Prenota o chiedi informazioni"

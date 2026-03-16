@@ -12,6 +12,12 @@ nav:
 
 footer:
   legalInfo: "Rechtliche Informationen"
+  companyName: "Marina di Conca Verde"
+  companyLegal: "Marina di Conca Verde srl"
+  companyVat: "00334540903"
+  companyAddressLabel: "Firmensitz:"
+  companyAddress1: "Zona Ind. Sett. 1"
+  companyAddress2: "07026 Olbia (OT)"
   vatPrefix: "USt-IdNr."
   contacts: "Kontakt"
   contactHref: "/kontakt"
@@ -20,6 +26,7 @@ footer:
   social: "Folgen Sie uns"
   rights: "Alle Rechte vorbehalten"
   privacyLink: "Datenschutzerklärung"
+  privacyHref: "/privacy"
   interventiLink: "Design System"
 
 booking:
@@ -76,6 +83,7 @@ pricing:
   notePrefix: "Dies sind die maximalen Listenpreise. Für ermäßigte Preise und All-inclusive-Angebote"
   noteContactUs: "kontaktieren Sie uns"
   noteSuffix: "oder berechnen Sie Ihr Angebot, indem Sie Ankunfts- und Abreisedatum im Kalender eingeben."
+  contactHref: "/kontakt"
 
 sidebar:
   partners: "Unsere Partner besuchen"

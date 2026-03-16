@@ -12,6 +12,12 @@ nav:
 
 footer:
   legalInfo: "Informations légales"
+  companyName: "Marina di Conca Verde"
+  companyLegal: "Marina di Conca Verde srl"
+  companyVat: "00334540903"
+  companyAddressLabel: "Siège social:"
+  companyAddress1: "Zona Ind. Sett. 1"
+  companyAddress2: "07026 Olbia (OT)"
   vatPrefix: "N° TVA"
   contacts: "Contact"
   contactHref: "/contact"
@@ -20,6 +26,7 @@ footer:
   social: "Suivez-nous"
   rights: "Tous droits réservés"
   privacyLink: "Politique de confidentialité"
+  privacyHref: "/privacy"
   interventiLink: "Design System"
 
 booking:
@@ -76,6 +83,7 @@ pricing:
   notePrefix: "Ce sont les tarifs maximaux du barème de location. Pour les tarifs réduits et les offres tout compris,"
   noteContactUs: "contactez-nous"
   noteSuffix: "ou calculez votre devis en saisissant vos dates d'arrivée et de départ dans le calendrier."
+  contactHref: "/contact"
 
 sidebar:
   partners: "Visitez nos partenaires"
