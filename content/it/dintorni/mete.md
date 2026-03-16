@@ -57,7 +57,7 @@ Da non perdere a Bonifacio:
 - La **Scala du Rei d'Aragona** (187 gradini scavati nella roccia)
 - Le **cisterne romane** nel ventre della città
 
-→ [Informazioni sui traghetti Santa Teresa–Bonifacio](/it/traghetti)
+→ [Informazioni sui traghetti Santa Teresa–Bonifacio](/it/residence/traghetti)
 
 ## 🌊 Le Spiagge della Costa Nord
 
