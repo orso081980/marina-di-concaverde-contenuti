@@ -11,7 +11,7 @@ hero:
   title: "Marina di Conca Verde"
   subtitle: "Sul fiordo di Porto Pozzo, di fronte all'arcipelago de La Maddalena."
   video: "/video/index.mp4"
-  image: "/img/index-sardegna.png"
+  image: "/img/index-sardegna.webp"
   imageAlt: "Porto Pozzo Sardegna"
   primaryCta:
     label: "Scopri il Residence"
