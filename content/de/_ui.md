@@ -5,6 +5,7 @@ header:
   mainNav: "Hauptnavigation"
   language: "Sprache"
   overview: "Übersicht"
+  socialContacts: "Soziale Medien & Kontakte"
 
 nav:
   exploreLabel: "Website erkunden"
