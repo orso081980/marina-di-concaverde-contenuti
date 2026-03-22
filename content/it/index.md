@@ -10,7 +10,7 @@ hero:
   eyebrow: "Gallura · Sardegna"
   title: "Marina di Conca Verde"
   subtitle: "Sul fiordo di Porto Pozzo, di fronte all'arcipelago de La Maddalena."
-  video: "https://pub-87e01cc9eaeb451ab3a651008ab96025.r2.dev/index.mp4"
+  video: "https://res.cloudinary.com/dlvtbepmv/video/upload/v1774126710/index_qjact7.mp4"
   image: "/img/index-sardegna.webp"
   imageAlt: "Porto Pozzo Sardegna"
   primaryCta:
