@@ -1,4 +1,5 @@
 ---
+ferryHref: "/faehren"
 navItems:
   - label: "Residenz"
     href: "/residenz"

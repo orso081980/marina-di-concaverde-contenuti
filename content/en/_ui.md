@@ -6,6 +6,7 @@ header:
   language: "Language"
   overview: "Overview"
   socialContacts: "Socials & Contacts"
+  selectLanguage: "Select language"
 
 nav:
   exploreLabel: "Explore the site"
@@ -89,4 +90,13 @@ pricing:
 sidebar:
   partners: "Visit our partners"
   specialOffers: "Special Offers"
+
+error:
+  notFoundTitle: "Page not found"
+  notFoundDesc: "The page you are looking for does not exist or has been moved. Go back home to explore the site."
+  serverErrorTitle: "Server error"
+  serverErrorDesc: "Something went wrong on our server. Please try again in a few minutes or contact us if the problem persists."
+  genericTitle: "An error occurred"
+  genericDesc: "An unexpected error occurred. Go back home and try again."
+  backHome: "Back to home"
 ---
