@@ -1,4 +1,5 @@
 ---
+ferryHref: "/residence/traghetti"
 navItems:
   - label: "Residence"
     href: "/residence"

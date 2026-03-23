@@ -6,6 +6,7 @@ header:
   language: "Sprache"
   overview: "Übersicht"
   socialContacts: "Soziale Medien & Kontakte"
+  selectLanguage: "Sprache wählen"
 
 nav:
   exploreLabel: "Website erkunden"
@@ -89,4 +90,13 @@ pricing:
 sidebar:
   partners: "Unsere Partner besuchen"
   specialOffers: "Sonderangebote"
+
+error:
+  notFoundTitle: "Seite nicht gefunden"
+  notFoundDesc: "Die Seite, die Sie suchen, existiert nicht oder wurde verschoben. Zurück zur Startseite."
+  serverErrorTitle: "Serverfehler"
+  serverErrorDesc: "Auf unserem Server ist ein Fehler aufgetreten. Bitte versuche es in wenigen Minuten erneut oder kontaktiere uns."
+  genericTitle: "Ein Fehler ist aufgetreten"
+  genericDesc: "Ein unerwarteter Fehler ist aufgetreten. Bitte gehe zur Startseite zurück."
+  backHome: "Zur Startseite"
 ---

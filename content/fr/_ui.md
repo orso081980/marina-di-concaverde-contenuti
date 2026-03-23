@@ -6,6 +6,7 @@ header:
   language: "Langue"
   overview: "Aperçu"
   socialContacts: "Réseaux sociaux & Contacts"
+  selectLanguage: "Choisir la langue"
 
 nav:
   exploreLabel: "Explorer le site"
@@ -89,4 +90,13 @@ pricing:
 sidebar:
   partners: "Visitez nos partenaires"
   specialOffers: "Offres Spéciales"
+
+error:
+  notFoundTitle: "Page introuvable"
+  notFoundDesc: "La page que vous recherchez n'existe pas ou a été déplacée. Retournez à l'accueil."
+  serverErrorTitle: "Erreur serveur"
+  serverErrorDesc: "Une erreur est survenue sur notre serveur. Veuillez réessayer dans quelques minutes ou nous contacter."
+  genericTitle: "Une erreur est survenue"
+  genericDesc: "Une erreur inattendue s'est produite. Retournez à la page d'accueil."
+  backHome: "Retour à l'accueil"
 ---

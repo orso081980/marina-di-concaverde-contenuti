@@ -6,6 +6,7 @@ header:
   language: "Lingua"
   overview: "Panoramica"
   socialContacts: "Social & Contatti"
+  selectLanguage: "Seleziona lingua"
 
 nav:
   exploreLabel: "Esplora il sito"
@@ -89,4 +90,13 @@ pricing:
 sidebar:
   partners: "Visita i nostri partner"
   specialOffers: "Offerte Speciali"
+
+error:
+  notFoundTitle: "Pagina non trovata"
+  notFoundDesc: "La pagina che stai cercando non esiste o è stata spostata. Torna alla home per esplorare il sito."
+  serverErrorTitle: "Errore del server"
+  serverErrorDesc: "Qualcosa è andato storto sul nostro server. Riprova tra qualche minuto oppure contattaci se il problema persiste."
+  genericTitle: "Si è verificato un errore"
+  genericDesc: "Si è verificato un errore imprevisto. Torna alla home e riprova."
+  backHome: "Torna alla home"
 ---
