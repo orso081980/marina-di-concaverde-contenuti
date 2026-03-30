@@ -2,7 +2,7 @@
 title: "Ferries — To and from Sardinia, Santa Teresa Gallura"
 description: "Ferry information and booking links for Sardinia: routes from Civitavecchia, Livorno, Genoa, Palermo to Olbia and Porto Torres. Santa Teresa–Bonifacio ferries to Corsica."
 translations:
-  it: "/traghetti"
+  it: "/servizi/traghetti"
   en: "/ferries"
   de: "/faehren"
   fr: "/ferries"

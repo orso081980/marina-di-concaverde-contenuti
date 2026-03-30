@@ -2,12 +2,12 @@
 title: "Paths — Marina di Conca Verde, Porto Pozzo"
 description: "Walking, mountain bike and boat routes from the Porto Pozzo residence: nature, history and breathtaking views in Gallura."
 translations:
-  it: "/residence/percorsi"
-  en: "/residence/paths"
-  de: "/residenz/wege"
-  fr: "/residence/paths"
+  it: "/dintorni/percorsi"
+  en: "/surroundings/trails"
+  de: "/umgebung/wege"
+  fr: "/surroundings/trails"
 hero:
-  eyebrow: "Residence · Paths"
+  eyebrow: "Surroundings · Trails"
   title: "Paths & Itineraries"
   subtitle: "Coastal trails, cycling paths and sea routes among the most spectacular views in Gallura."
   image: "/img/percorsi-2.jpg"

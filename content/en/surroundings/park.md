@@ -2,12 +2,12 @@
 title: "Natural Park — Marina di Conca Verde"
 description: "The natural park of Conca Verde: Mediterranean scrubland, myrtle, lentisk and juniper among the millenary granites of Gallura. Walks in unspoilt nature."
 translations:
-  it: "/residence/parco"
-  en: "/residence/park"
-  de: "/residenz/park"
-  fr: "/residence/park"
+  it: "/dintorni/parco"
+  en: "/surroundings/park"
+  de: "/umgebung/park"
+  fr: "/surroundings/park"
 hero:
-  eyebrow: "Residence · Park"
+  eyebrow: "Surroundings · Park"
   title: "The Park"
   subtitle: "Mediterranean scrubland and millenary granites in the unspoilt nature of Gallura."
   image: "/img/park.jpg"

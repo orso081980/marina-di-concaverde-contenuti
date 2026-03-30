@@ -2,7 +2,7 @@
 title: "Contact — Marina di Conca Verde, Porto Pozzo"
 description: "Contact du résidence Marina di Conca Verde à Porto Pozzo, Santa Teresa Gallura. Téléphone, email, WhatsApp et comment nous rejoindre en voiture, avion ou ferry."
 translations:
-  it: "/contatti"
+  it: "/residence/contatti"
   en: "/contact"
   de: "/kontakt"
   fr: "/contact"
@@ -46,5 +46,4 @@ Via Ciclopi, Loc. Conca Verde - Santa Teresa Gallura (OT).
 
 Téléphone : +39.348.3509574
 
-::ContactForm
-::
+::ContactForm ::

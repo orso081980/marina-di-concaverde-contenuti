@@ -2,7 +2,7 @@
 title: "NCC / Transfer — Marina di Conca Verde, Porto Pozzo"
 description: "Servizio NCC e transfer da e per aeroporto di Olbia, porto di Santa Teresa Gallura, Porto Cervo e tutta la Sardegna. Noleggio auto a tariffe speciali."
 translations:
-  it: "/spiagge/ncc"
+  it: "/servizi/ncc"
   en: "/services/ncc"
   de: "/dienstleistungen/transfer"
   fr: "/services/ncc"
@@ -17,7 +17,7 @@ hero:
     href: "/residence/contatti"
   secondaryCta:
     label: "Tutti i Servizi"
-    href: "/spiagge/servizi"
+    href: "/servizi"
 textBlock:
   eyebrow: "NCC / Transfer"
   title: "Spostati in Sardegna senza stress"

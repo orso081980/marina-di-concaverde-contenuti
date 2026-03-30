@@ -1,58 +1,60 @@
 ---
-title: "Spiaggia — Marina di Conca Verde, Porto Pozzo"
-description: "La spiaggia attrezzata di Marina di Conca Verde: acque cristalline nel fiordo di Porto Pozzo, calette nascoste, lettini, ombrelloni e noleggio gommoni per le isole."
+title: "L'Arcipelago e le spiagge — Marina di Conca Verde, Porto Pozzo"
+description: "Le calette di Conca Verde, l'Arcipelago della Maddalena, le spiagge della Gallura e la Costa Smeralda. Il mare più bello della Sardegna a portata di mano."
 translations:
-  it: "/spiagge/spiaggia"
-  en: "/residence/beach"
-  de: "/residenz/strand"
-  fr: "/residence/beach"
+  it: "/spiagge"
+  en: "/beaches"
+  de: "/straende"
+  fr: "/beaches"
 hero:
-  eyebrow: "Residence · Spiaggia"
-  title: "La Spiaggia"
-  subtitle: "Acque cristalline nel fiordo naturale di Conca Verde."
+  eyebrow: "Gallura · Sardegna"
+  title: "L'Arcipelago e le Spiagge"
+  subtitle: "Le calette di Conca Verde, l'Arcipelago della Maddalena e i litorali più belli del Nord Sardegna."
   image: "/img/1285.jpg"
-  imageAlt: "Spiaggia Marina di Conca Verde Porto Pozzo"
+  imageAlt: "Arcipelago La Maddalena e spiagge Gallura Sardegna"
+  primaryCta:
+    label: "Scopri le Calette"
+    href: "/spiagge/calette"
+  secondaryCta:
+    label: "Escursioni in barca"
+    href: "/servizi/escursioni"
 
 textBlock:
-  eyebrow: "La Spiaggia"
-  title: "Il fiordo di Conca Verde"
+  eyebrow: "Il Mare della Gallura"
+  title: "Acque cristalline a due passi dal residence"
 stats:
-  - value: "Azzurro"
-    label: "Acque cristalline"
-  - value: "10 min"
-    label: "In gommone alle isole"
+  - value: "Conca Verde"
+    label: "Fiordo naturale"
+  - value: "La Maddalena"
+    label: "10 min in gommone"
+  - value: "Costa Smeralda"
+    label: "30 min in auto"
   - value: "Calette"
     label: "Nascoste e incontaminate"
-  - value: "Lettini"
-    label: "Spiaggia attrezzata"
 ---
 
-Il fiordo di **Conca Verde** è uno degli angoli più suggestivi dell'intera costa sarda. Le acque, protette dalla conformazione naturale della baia, variano dall'azzurro intenso all'verde smeraldo, con fondali bassi e pianeggianti — ideali per famiglie con bambini e per chi vuole godersi il mare in tutta tranquillità.
-
-## La Spiaggia Attrezzata
-
-La nostra spiaggia privata, riservata agli ospiti del residence, offre:
-
-- **Lettini e ombrelloni** inclusi nel soggiorno
-- **Docce** con acqua dolce sulla spiaggia
-- **Bar spiaggia** con snack, aperitivi e bevande fresche
-- **Noleggio canoe e kayak** per esplorare le calette vicine
-- **Noleggio gommoni** per raggiungere in autonomia l'arcipelago de La Maddalena
+Soggiornare a Marina di Conca Verde significa avere il privilegio di essere al centro di uno degli angoli di mare più straordinari del Mediterraneo. Dal fiordo naturale di **Conca Verde** all'**Arcipelago della Maddalena**, dalle spiagge incontaminate della **Gallura** alla sfavillante **Costa Smeralda**: tutto è raggiungibile in pochi minuti.
 
 ## Le Calette di Conca Verde
 
-Il fiordo è caratterizzato dalla presenza di numerose **calette poco affollate**, nascoste dalla vegetazione mediterranea. Mucchi Bianchi, Cala Giunco, Cala Stagnali: ogni caletta ha il suo fascino, con acque limpidissime e sabbia finissima. Molte sono raggiungibili solo via mare — ragione in più per noleggiare un gommone!
+Il fiordo di Porto Pozzo è costellato di calette nascoste, raggiungibili a piedi o via mare. Acque cristalline, fondali bassi e sabbia finissima: perfette per famiglie e per chi cerca la quiete lontano dalla folla.
 
-## Le Isole dell'Arcipelago
+[Scopri le calette →](/spiagge/calette)
 
-A soli **10 minuti di gommone** si raggiungono le meravigliose isole dell'**Arcipelago de La Maddalena**: Spargi, Budelli con la celebre spiaggia rosa, Santa Maria, Razzoli. Vero paradiso della Gallura, queste isole sono protette nel Parco Nazionale e offrono scenari di rara bellezza.
+## Arcipelago della Maddalena
 
-Dall'imbarcadero del residence è possibile:
+A soli **10 minuti di gommone** dal residence si apre il Parco Nazionale dell'Arcipelago della Maddalena: Spargi, Budelli con la celebre spiaggia rosa, Santa Maria, Razzoli. Un paradiso protetto di rara bellezza.
 
-- Noleggiare gommoni (prenotazione in reception)
-- Partire con escursioni guidate in barca a vela o motore
-- Organizzare gite di pesca con pranzo a bordo
+[Scopri l'Arcipelago →](/spiagge/maddalena)
 
-## Stagione e Orari
+## Spiagge della Gallura
 
-La spiaggia è aperta da **fine maggio a inizio ottobre**. I mesi migliori per le acque più calde e la minor affluenza sono **giugno e settembre**. Il mare di Porto Pozzo è protetto dalle brezze atlantiche, il che lo rende ideale anche nelle giornate ventose tipiche della Gallura.
+La Gallura offre chilometri di spiagge tra le più belle del Mediterraneo. Dal litorale di Porto Pozzo verso Santa Teresa Gallura e Palau: ogni spiaggia ha il suo carattere, tra granito rosa e acqua turchese.
+
+[Scopri le spiagge →](/spiagge/gallura)
+
+## Costa Smeralda
+
+A soli 30 minuti di auto si raggiunge la mitica **Costa Smeralda**: Porto Cervo, Cala di Volpe, Capriccioli. Un'escursione imperdibile anche solo per un giorno.
+
+[Scopri la Costa Smeralda →](/spiagge/costa-smeralda)

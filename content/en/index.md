@@ -15,6 +15,8 @@ textBlock:
   title: A paradise on the Costa Smeralda
 ---
 
-**Marina di Conca Verde** is a residence in Porto Pozzo, in the municipality of Santa Teresa Gallura, on the north coast of Sardinia.
+Located on the natural fjord of Porto Pozzo, right in front of the La Maddalena Archipelago and the island of Coluccia, Marina di Conca Verde offers welcoming villas in typical "Stazzu" Gallurese style with exposed Sardinian granite and solid wood.
 
-> Translation coming soon. Please visit the [Italian version](/it) for the full content.
+With over 40 million years of geological history, this fjord and its conca verde are mentioned in Homer's Odyssey — here Ulysses encountered the so-called Laestrygonians. Today Porto Pozzo is a pleasant fishing village with small family shops, a fish market, restaurants and pizzerias, bars, an artisan gelato parlour, pharmacy and minimarket.
+
+Its well-sheltered marina is the ideal starting point to explore the archipelago and its enchanting beaches.

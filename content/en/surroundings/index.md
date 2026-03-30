@@ -40,6 +40,8 @@ Porto Pozzo is located in one of the richest and most fascinating territories of
 
 The main urban centre in the area, a lively seaside village with a characteristic historic centre, craft shops, fish restaurants and the magnificent **Rena Bianca beach** with views of Bonifacio and the Corsican coast.
 
+The beautiful **Spanish tower of Longonsardo** dominates the headland and offers one of the most iconic views in northern Sardinia.
+
 ### Palau (15 km)
 
 Departure point for the La Maddalena Archipelago (ferries every hour), Palau is also known for the **Bear Rock**: a natural granite formation that from a distance resembles the silhouette of a bear, symbol of Gallura.
@@ -47,3 +49,12 @@ Departure point for the La Maddalena Archipelago (ferries every hour), Palau is 
 ### Porto Cervo / Costa Smeralda (50 km)
 
 Italy's most glamorous harbour, world-famous. Worth a visit just to stroll along the quayside at dawn or dusk.
+
+## Explore by category
+
+- [Restaurants](/surroundings/restaurants) → Best local restaurants
+- [Farm Stays](/surroundings/farm-stays) → Authentic Gallurese cuisine
+- [Nightlife](/surroundings/nightlife) → Evening out in Gallura
+- [Top Spots](/surroundings/top-spots) → The best beaches and islands
+- [Natural Park](/surroundings/park) → La Maddalena National Park
+- [Trails](/surroundings/trails) → Outdoor routes and walks
