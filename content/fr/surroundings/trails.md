@@ -2,10 +2,10 @@
 title: "Sentiers — Marina di Conca Verde, Porto Pozzo"
 description: "Les sentiers à pied, à VTT et en bateau depuis la résidence de Porto Pozzo : nature, histoire et vues à couper le souffle en Gallura."
 translations:
-  it: "/residence/percorsi"
-  en: "/residence/paths"
-  de: "/residenz/wege"
-  fr: "/residence/paths"
+  it: "/dintorni/percorsi"
+  en: "/surroundings/trails"
+  de: "/umgebung/wege"
+  fr: "/surroundings/trails"
 hero:
   eyebrow: "Résidence · Sentiers"
   title: "Sentiers & Itinéraires"

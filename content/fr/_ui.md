@@ -17,6 +17,7 @@ footer:
   companyName: "Marina di Conca Verde"
   companyLegal: "Marina di Conca Verde srl"
   companyVat: "00334540903"
+  companyCin: "CIN: IT090063B4000E2348"
   companyAddressLabel: "Siège social:"
   companyAddress1: "Zona Ind. Sett. 1"
   companyAddress2: "07026 Olbia (OT)"
@@ -90,6 +91,7 @@ pricing:
 sidebar:
   partners: "Visitez nos partenaires"
   specialOffers: "Offres Spéciales"
+  googleH2: "Où nous sommes"
 
 error:
   notFoundTitle: "Page introuvable"

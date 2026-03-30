@@ -34,4 +34,12 @@ stats:
 
 Nous sommes là pour vous.
 
-Louer une Villa à Marina di Conca Verde, c'est aussi disposer d'une série de services essentiels pour passer vos vacances en toute tranquillité, avec le soutien de personnes qui connaissent toutes les activités et les meilleurs endroits à visiter.
+Louer une Villa à Marina di Conca Verde, c'est aussi disposer d'une série de services essentiels pour passer vos vacances en toute tranquillité, avec le soutien de personnes qui connaissent toutes les activités et les meilleurs endroits à visiter. N'oubliez pas de profiter d'au moins quelques-unes de ces opportunités : agritourismes, excursions organisées, quads, plongée, kitesurf, sorties en voilier et équitation.
+
+## Ménage
+
+Rita est notre excellente gouvernante, disponible sur demande pour le ménage quotidien. Adressez-vous à la réception pour tout besoin de nettoyage de la villa et des équipements de cuisine et de chambre.
+
+## Entretien
+
+Notre homme de maintenance, Gianluca, est chargé de veiller au bon fonctionnement de toutes les villas et des jardins. Indispensable pour des vacances sans soucis.

@@ -29,6 +29,6 @@ stats:
     label: "Valutazione TripAdvisor"
 ---
 
-La residenza Marina di Conca Verde è un piccolo borgo composto da villette in tipico stile "Stazzu" Gallurese, immerse nella vegetazione e completamente rivestite in granito Sardo. L’arredo pulito e ordinato, in stile barcaiolo, con armadi a muro e rivestimenti in legno massiccio.
+Die Anlage Marina di Conca Verde ist eine kleine Siedlung aus Villen im typischen „Stazzu"-Gallurese-Stil, eingebettet in die Vegetation und vollständig mit sardischem Granit verkleidet. Die schlichte, geordnete Einrichtung im Bootsmann-Stil mit Einbauschränken und Massivholzverkleidungen schafft eine authentische Atmosphäre.
 
-Le caratteristiche calette distano 300mt. Per i più esigenti, la spiaggia attrezzata con lettini, ombrelloni e chioschetto/bar dista meno di 1 km.
+Die charakteristischen Buchten sind nur 300 m entfernt. Für Anspruchsvollere befindet sich der Badeabschnitt mit Liegestühlen, Sonnenschirmen und einer Strandbar weniger als 1 km entfernt.

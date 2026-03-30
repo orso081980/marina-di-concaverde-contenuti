@@ -34,4 +34,12 @@ stats:
 
 Wir sind für Sie da.
 
-In einer Villa in Marina di Conca Verde zu wohnen bedeutet auch, eine Reihe wesentlicher Dienstleistungen zu nutzen, um Ihren Urlaub in aller Ruhe zu verbringen — mit der Unterstützung von Menschen, die alle Aktivitäten und die schönsten Ausflugsziele kennen.
+In einer Villa in Marina di Conca Verde zu wohnen bedeutet auch, eine Reihe wesentlicher Dienstleistungen zu nutzen, um Ihren Urlaub in aller Ruhe zu verbringen — mit der Unterstützung von Menschen, die alle Aktivitäten und die schönsten Ausflugsziele kennen. Vergessen Sie nicht, zumindest einige dieser Möglichkeiten zu genießen: Agritourismus, organisierte Ausflüge, Quad, Tauchen, Kitesurf, Segelausflüge und Reiten.
+
+## Reinigung
+
+Rita ist unsere ausgezeichnete Haushälterin, auf Anfrage für die tägliche Reinigung verfügbar. Wenden Sie sich an die Rezeption für alle Reinigungsbedürfnisse in der Villa sowie für Küchen- und Schlafzimmerausstattung.
+
+## Instandhaltung
+
+Unser Haushandwerker Gianluca ist damit beauftragt, den einwandfreien Betrieb aller Villen und Gärten sicherzustellen. Unverzichtbar für einen sorgenfreien Urlaub.

@@ -2,10 +2,10 @@
 title: "Naturpark — Marina di Conca Verde"
 description: "Der Naturpark von Conca Verde: Mittelmeervegetation, Myrte, Lentisken und Wacholder inmitten jahrtausendealter Granitfelsen in Gallura. Spaziergänge in unberührter Natur."
 translations:
-  it: "/residence/parco"
-  en: "/residence/park"
-  de: "/residenz/park"
-  fr: "/residence/park"
+  it: "/dintorni/parco"
+  en: "/surroundings/park"
+  de: "/umgebung/park"
+  fr: "/surroundings/park"
 hero:
   eyebrow: "Anlage · Park"
   title: "Der Park"

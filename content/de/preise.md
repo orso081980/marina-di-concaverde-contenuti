@@ -2,7 +2,7 @@
 title: "Preise — Marina di Conca Verde, Porto Pozzo"
 description: "Preise für Studio- und Zweizimmervillen in Marina di Conca Verde. Saisonpreise. Mindestaufenthalt 3 Nächte. Sonderangebote verfügbar."
 translations:
-  it: "/tariffe"
+  it: "/residence/tariffe"
   en: "/rates"
   de: "/preise"
   fr: "/rates"
@@ -136,5 +136,4 @@ pricingData:
       cost: "€ 75"
 ---
 
-::PricingTable 
-::
+::PricingTable ::

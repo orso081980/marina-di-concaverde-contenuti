@@ -3,9 +3,9 @@ title: "Percorsi — Marina di Conca Verde, Porto Pozzo"
 description: "I percorsi a piedi, in mountain bike e in barca partendo dal residence di Porto Pozzo: natura, storia e panorami mozzafiato in Gallura."
 translations:
   it: "/dintorni/percorsi"
-  en: "/residence/paths"
-  de: "/residenz/wege"
-  fr: "/residence/paths"
+  en: "/surroundings/trails"
+  de: "/umgebung/wege"
+  fr: "/surroundings/trails"
 hero:
   eyebrow: "Residence · Percorsi"
   title: "Percorsi & Itinerari"

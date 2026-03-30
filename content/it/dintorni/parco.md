@@ -3,9 +3,9 @@ title: "Parco Naturale — Marina di Conca Verde"
 description: "Il parco naturale di Conca Verde: macchia mediterranea, mirto, lentisco e ginepro tra i graniti millenari della Gallura. Passeggiate nella natura incontaminata."
 translations:
   it: "/dintorni/parco"
-  en: "/residence/park"
-  de: "/residenz/park"
-  fr: "/residence/park"
+  en: "/surroundings/park"
+  de: "/umgebung/park"
+  fr: "/surroundings/park"
 hero:
   eyebrow: "Residence · Parco"
   title: "Il Parco"

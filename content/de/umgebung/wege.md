@@ -2,10 +2,10 @@
 title: "Wege — Marina di Conca Verde, Porto Pozzo"
 description: "Wander-, Mountainbike- und Bootsrouten ab der Anlage in Porto Pozzo: Natur, Geschichte und atemberaubende Ausblicke in Gallura."
 translations:
-  it: "/residence/percorsi"
-  en: "/residence/paths"
-  de: "/residenz/wege"
-  fr: "/residence/paths"
+  it: "/dintorni/percorsi"
+  en: "/surroundings/trails"
+  de: "/umgebung/wege"
+  fr: "/surroundings/trails"
 hero:
   eyebrow: "Anlage · Wege"
   title: "Wege & Routen"
