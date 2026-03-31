@@ -25,8 +25,8 @@ stats:
     label: "Arcipelago di fronte"
   - value: "Granito & Legno"
     label: "Stile Stazzu Gallurese"
-  - value: "★ 9/10"
-    label: "Valutazione TripAdvisor"
+  - value: "★ 8.8"
+    label: "Valutazione Booking"
 ---
 
 La residenza Marina di Conca Verde è un piccolo borgo composto da villette in tipico stile "Stazzu" Gallurese, immerse nella vegetazione e completamente rivestite in granito Sardo. L’arredo pulito e ordinato, in stile barcaiolo, con armadi a muro e rivestimenti in legno massiccio.

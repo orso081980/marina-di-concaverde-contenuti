@@ -3,7 +3,7 @@ ferryHref: "/ferries"
 navItems:
   - label: "La Résidence MCV"
     href: "/residence"
-    children:
+    extralinks:
       - label: "Tarifs"
         href: "/rates"
         icon: "euro-sign"

@@ -1,6 +1,6 @@
 ---
-title: "Il Residence — Marina di Conca Verde, Porto Pozzo"
-description: "Villette in stile Stazzu Gallurese sul fiordo naturale di Porto Pozzo. Granito sardo a vista, legno massiccio, a pochi minuti dall'arcipelago de La Maddalena."
+title: "Die Residenz — Marina di Conca Verde, Porto Pozzo"
+description: "Villen im Stazzu-Gallurese-Stil am natürlichen Fjord von Porto Pozzo. Sichtbarer sardischer Granit, massives Holz, nur wenige Minuten vom Archipel La Maddalena entfernt."
 translations:
   it: "/residence"
   en: "/residence"
@@ -8,16 +8,16 @@ translations:
   fr: "/residence"
 hero:
   eyebrow: "Porto Pozzo · Gallura"
-  title: "Il Residence"
-  subtitle: "Villette in stile Stazzu Gallurese affacciate sul fiordo di Porto Pozzo."
+  title: "Die Residenz"
+  subtitle: "Villen im Stazzu-Gallurese-Stil mit Blick auf den Fjord von Porto Pozzo."
   image: "/img/2297.jpg"
   imageAlt: "Residence Marina di Conca Verde Porto Pozzo"
   primaryCta:
-    label: "Le Villette"
+    label: "Die Villen"
     href: "/villen"
 textBlock:
-  eyebrow: "Il Residence"
-  title: "Un angolo autentico della Gallura"
+  eyebrow: "Die Residenz"
+  title: "Eine authentische Ecke Galluras"
 stats:
   - value: "Porto Pozzo"
     label: "Fiordo naturale"
@@ -25,8 +25,8 @@ stats:
     label: "Arcipelago di fronte"
   - value: "Granito & Legno"
     label: "Stile Stazzu Gallurese"
-  - value: "★ 9/10"
-    label: "Valutazione TripAdvisor"
+  - value: "★ 8.8"
+    label: "Valutazione Booking"
 ---
 
 Die Anlage Marina di Conca Verde ist eine kleine Siedlung aus Villen im typischen „Stazzu"-Gallurese-Stil, eingebettet in die Vegetation und vollständig mit sardischem Granit verkleidet. Die schlichte, geordnete Einrichtung im Bootsmann-Stil mit Einbauschränken und Massivholzverkleidungen schafft eine authentische Atmosphäre.
