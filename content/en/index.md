@@ -5,8 +5,8 @@ hero:
   eyebrow: Welcome to
   title: Marina di Conca Verde
   subtitle: Your holiday retreat on the Costa Smeralda, Sardinia
-  gallery: ["/img/1375.jpg", "/img/1376.jpg"]
-  altGallery: ["Marina di Conca Verde", "Porto Pozzo"]
+  gallery: ["/img/1375.jpg", "/img/1376.jpg", "/img/1294.jpg"]
+  altGallery: ["Marina di Conca Verde", "Porto Pozzo", "Spiaggia"]
   galleryCta:
     label: "Open Gallery"
     href: "#"

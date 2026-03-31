@@ -11,6 +11,7 @@ header:
 nav:
   exploreLabel: "Website erkunden"
   childrenLabel: "Entdecken"
+  extralinksLabel: "Nützliche Links"
 
 footer:
   legalInfo: "Rechtliche Informationen"
