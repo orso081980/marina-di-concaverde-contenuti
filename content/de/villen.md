@@ -28,7 +28,7 @@ stats:
     label: "Bis zu 5 Personen"
   - value: "Granit & Holz"
     label: "Lokale Materialien"
-  - value: "WLAN + Klimaanlage"
+  - value: "Klimaanlage"
     label: "Im Preis inbegriffen"
 typeGalleries:
   - label: "Studio-Villa"
