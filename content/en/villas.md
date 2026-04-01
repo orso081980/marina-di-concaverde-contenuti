@@ -28,7 +28,7 @@ stats:
     label: "Up to 5 guests"
   - value: "Granite & Wood"
     label: "Local materials"
-  - value: "Wi-Fi + AC"
+  - value: "AC"
     label: "Included amenities"
 typeGalleries:
   - label: "Studio Villa"
@@ -50,6 +50,22 @@ typeGalleries:
       - "Studio Villa — veranda"
       - "Studio Villa — living room"
       - "Studio Villa — bedroom"
+  - label: "Independent Two-Bedroom Villa"
+    badge: "On request"
+    highlight: "Free on all 4 sides"
+    features:
+      - "All comforts of the standard Two-Bedroom Villa"
+      - "Free on all 4 sides"
+      - "Large private outdoor spaces"
+      - "Exclusive garden"
+    images:
+      - "/img/1370.jpg"
+      - "/img/1371.jpg"
+      - "/img/1372.jpg"
+    altGallery:
+      - "Independent Villa — exterior"
+      - "Independent Villa — garden"
+      - "Independent Villa — veranda"
   - label: "Two-Bedroom Villa"
     badge: "Up to 5 guests"
     features:
@@ -69,22 +85,6 @@ typeGalleries:
       - "Two-Bedroom Villa — veranda"
       - "Two-Bedroom Villa — living room"
       - "Two-Bedroom Villa — bedroom"
-  - label: "Independent Two-Bedroom Villa"
-    badge: "On request"
-    highlight: "Free on all 4 sides"
-    features:
-      - "All comforts of the standard Two-Bedroom Villa"
-      - "Free on all 4 sides"
-      - "Large private outdoor spaces"
-      - "Exclusive garden"
-    images:
-      - "/img/1370.jpg"
-      - "/img/1371.jpg"
-      - "/img/1372.jpg"
-    altGallery:
-      - "Independent Villa — exterior"
-      - "Independent Villa — garden"
-      - "Independent Villa — veranda"
   - label: "Corner Studio Villa"
     badge: "On request"
     highlight: "Free on 3 sides"

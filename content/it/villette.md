@@ -28,7 +28,7 @@ stats:
     label: "Fino a 5 persone"
   - value: "Granito & Legno"
     label: "Materiali locali"
-  - value: "Wi-Fi + AC"
+  - value: "AC"
     label: "Dotazioni incluse"
 typeGalleries:
   - label: "Villetta Bilocale"
@@ -50,6 +50,22 @@ typeGalleries:
       - "Villetta Bilocale — veranda"
       - "Villetta Bilocale — soggiorno"
       - "Villetta Bilocale — camera"
+  - label: "Bilocale Angolare"
+    badge: "Su richiesta"
+    highlight: "Libera su 3 lati"
+    features:
+      - "Tutti i comfort del Bilocale standard"
+      - "Libera su 3 lati"
+      - "4 posti letto"
+      - "Spazi esterni più ampi"
+    images:
+      - "/img/1373.jpg"
+      - "/img/1374.jpg"
+      - "/img/1375.jpg"
+    altGallery:
+      - "Bilocale Angolare — esterno"
+      - "Bilocale Angolare — veranda"
+      - "Bilocale Angolare — spazi esterni"
   - label: "Villetta Trilocale"
     badge: "Fino a 5 persone"
     features:
@@ -85,22 +101,6 @@ typeGalleries:
       - "Trilocale Indipendente — esterno"
       - "Trilocale Indipendente — giardino"
       - "Trilocale Indipendente — veranda"
-  - label: "Bilocale Angolare"
-    badge: "Su richiesta"
-    highlight: "Libera su 3 lati"
-    features:
-      - "Tutti i comfort del Bilocale standard"
-      - "Libera su 3 lati"
-      - "4 posti letto"
-      - "Spazi esterni più ampi"
-    images:
-      - "/img/1373.jpg"
-      - "/img/1374.jpg"
-      - "/img/1375.jpg"
-    altGallery:
-      - "Bilocale Angolare — esterno"
-      - "Bilocale Angolare — veranda"
-      - "Bilocale Angolare — spazi esterni"
 ---
 
 Le Villette sono attrezzate per vivere all'aria aperta. Tutte dotate di arredo esterno con **verande coperte**, docce esterne, lavatoio e barbecue. Il comfort interno è garantito dalla presenza in ogni villetta di TV e Lavatrice.

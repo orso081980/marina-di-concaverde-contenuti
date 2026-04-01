@@ -28,7 +28,7 @@ stats:
     label: "Jusqu'à 5 personnes"
   - value: "Granit & Bois"
     label: "Matériaux locaux"
-  - value: "Wi-Fi + Clim"
+  - value: "Clim"
     label: "Équipements inclus"
 typeGalleries:
   - label: "Villa Studio"
@@ -50,6 +50,22 @@ typeGalleries:
       - "Villa Studio — véranda"
       - "Villa Studio — séjour"
       - "Villa Studio — chambre"
+  - label: "Villa Deux Pièces Indépendante"
+    badge: "Sur demande"
+    highlight: "Libre sur 4 côtés"
+    features:
+      - "Tous les conforts de la villa standard"
+      - "Libre sur 4 côtés"
+      - "Grands espaces extérieurs privés"
+      - "Jardin exclusif"
+    images:
+      - "/img/1370.jpg"
+      - "/img/1371.jpg"
+      - "/img/1372.jpg"
+    altGallery:
+      - "Villa Indépendante — extérieur"
+      - "Villa Indépendante — jardin"
+      - "Villa Indépendante — véranda"
   - label: "Villa Deux Pièces"
     badge: "Jusqu'à 5 personnes"
     features:
@@ -69,22 +85,6 @@ typeGalleries:
       - "Villa Deux Pièces — véranda"
       - "Villa Deux Pièces — séjour"
       - "Villa Deux Pièces — chambre"
-  - label: "Villa Deux Pièces Indépendante"
-    badge: "Sur demande"
-    highlight: "Libre sur 4 côtés"
-    features:
-      - "Tous les conforts de la villa standard"
-      - "Libre sur 4 côtés"
-      - "Grands espaces extérieurs privés"
-      - "Jardin exclusif"
-    images:
-      - "/img/1370.jpg"
-      - "/img/1371.jpg"
-      - "/img/1372.jpg"
-    altGallery:
-      - "Villa Indépendante — extérieur"
-      - "Villa Indépendante — jardin"
-      - "Villa Indépendante — véranda"
   - label: "Villa Studio d'Angle"
     badge: "Sur demande"
     highlight: "Libre sur 3 côtés"
