@@ -30,13 +30,84 @@ stats:
     label: "Local materials"
   - value: "Wi-Fi + AC"
     label: "Included amenities"
+typeGalleries:
+  - label: "Studio Villa"
+    badge: "Up to 3 guests"
+    features:
+      - "1 double bedroom"
+      - "Shower room"
+      - "Living room with kitchenette"
+      - "Sofa bed"
+      - "Liveable external veranda"
+      - "Small garden area"
+    images:
+      - "/img/1297.jpg"
+      - "/img/1299.jpg"
+      - "/img/1300.jpg"
+      - "/img/1301.jpg"
+    altGallery:
+      - "Studio Villa — exterior"
+      - "Studio Villa — veranda"
+      - "Studio Villa — living room"
+      - "Studio Villa — bedroom"
+  - label: "Two-Bedroom Villa"
+    badge: "Up to 5 guests"
+    features:
+      - "1 double bedroom"
+      - "1 junior bedroom with bunk beds"
+      - "Shower room"
+      - "Kitchenette"
+      - "Living room with sofa bed"
+      - "Liveable external veranda with garden"
+    images:
+      - "/img/1285.jpg"
+      - "/img/1367.jpg"
+      - "/img/1368.jpg"
+      - "/img/1369.jpg"
+    altGallery:
+      - "Two-Bedroom Villa — exterior"
+      - "Two-Bedroom Villa — veranda"
+      - "Two-Bedroom Villa — living room"
+      - "Two-Bedroom Villa — bedroom"
+  - label: "Independent Two-Bedroom Villa"
+    badge: "On request"
+    highlight: "Free on all 4 sides"
+    features:
+      - "All comforts of the standard Two-Bedroom Villa"
+      - "Free on all 4 sides"
+      - "Large private outdoor spaces"
+      - "Exclusive garden"
+    images:
+      - "/img/1370.jpg"
+      - "/img/1371.jpg"
+      - "/img/1372.jpg"
+    altGallery:
+      - "Independent Villa — exterior"
+      - "Independent Villa — garden"
+      - "Independent Villa — veranda"
+  - label: "Corner Studio Villa"
+    badge: "On request"
+    highlight: "Free on 3 sides"
+    features:
+      - "All comforts of the standard Studio Villa"
+      - "Free on 3 sides"
+      - "Sleeps 4"
+      - "Larger outdoor spaces"
+    images:
+      - "/img/1373.jpg"
+      - "/img/1374.jpg"
+      - "/img/1375.jpg"
+    altGallery:
+      - "Corner Studio — exterior"
+      - "Corner Studio — veranda"
+      - "Corner Studio — outdoor spaces"
 ---
 
 The Villas are designed for outdoor living. All equipped with outdoor furniture with **covered verandas**, outdoor showers, laundry area and barbecue. Indoor comfort is ensured by TV and washing machine in every villa.
 
 ## Types of Villas
 
-There are **2 types**:
+There are **4 types**:
 
 ### Studio Villa
 
@@ -56,7 +127,13 @@ There are **2 types**:
 - Living room with sofa bed
 - Liveable external veranda with garden
 
-**On request** it is possible to stay in the **INDEPENDENT** two-bedroom villa, free on all 4 sides with large outdoor spaces, or in the **CORNER** studio villa, free on 3 sides with 4 sleeping places.
+### Independent Two-Bedroom Villa _(on request)_
+
+Free on **all 4 sides** with large exclusive outdoor spaces and private garden.
+
+### Corner Studio Villa _(on request)_
+
+Free on **3 sides**, sleeps 4, with larger outdoor spaces.
 
 ## Pets
 

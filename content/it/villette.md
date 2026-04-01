@@ -30,13 +30,84 @@ stats:
     label: "Materiali locali"
   - value: "Wi-Fi + AC"
     label: "Dotazioni incluse"
+typeGalleries:
+  - label: "Villetta Bilocale"
+    badge: "Fino a 3 persone"
+    features:
+      - "1 camera matrimoniale"
+      - "Servizio con doccia"
+      - "Soggiorno con angolo cottura"
+      - "Divano letto"
+      - "Veranda esterna vivibile"
+      - "Piccolo spazio verde"
+    images:
+      - "/img/1297.jpg"
+      - "/img/1299.jpg"
+      - "/img/1300.jpg"
+      - "/img/1301.jpg"
+    altGallery:
+      - "Villetta Bilocale — esterno"
+      - "Villetta Bilocale — veranda"
+      - "Villetta Bilocale — soggiorno"
+      - "Villetta Bilocale — camera"
+  - label: "Villetta Trilocale"
+    badge: "Fino a 5 persone"
+    features:
+      - "1 camera matrimoniale"
+      - "1 cameretta junior con letto a castello"
+      - "Servizio con doccia"
+      - "Angolo cottura"
+      - "Soggiorno con divano letto"
+      - "Veranda esterna vivibile con giardino"
+    images:
+      - "/img/1285.jpg"
+      - "/img/1367.jpg"
+      - "/img/1368.jpg"
+      - "/img/1369.jpg"
+    altGallery:
+      - "Villetta Trilocale — esterno"
+      - "Villetta Trilocale — veranda"
+      - "Villetta Trilocale — soggiorno"
+      - "Villetta Trilocale — camera"
+  - label: "Trilocale Indipendente"
+    badge: "Su richiesta"
+    highlight: "Libera su 4 lati"
+    features:
+      - "Tutti i comfort del Trilocale standard"
+      - "Libera su 4 lati"
+      - "Ampi spazi esterni privati"
+      - "Giardino esclusivo"
+    images:
+      - "/img/1370.jpg"
+      - "/img/1371.jpg"
+      - "/img/1372.jpg"
+    altGallery:
+      - "Trilocale Indipendente — esterno"
+      - "Trilocale Indipendente — giardino"
+      - "Trilocale Indipendente — veranda"
+  - label: "Bilocale Angolare"
+    badge: "Su richiesta"
+    highlight: "Libera su 3 lati"
+    features:
+      - "Tutti i comfort del Bilocale standard"
+      - "Libera su 3 lati"
+      - "4 posti letto"
+      - "Spazi esterni più ampi"
+    images:
+      - "/img/1373.jpg"
+      - "/img/1374.jpg"
+      - "/img/1375.jpg"
+    altGallery:
+      - "Bilocale Angolare — esterno"
+      - "Bilocale Angolare — veranda"
+      - "Bilocale Angolare — spazi esterni"
 ---
 
 Le Villette sono attrezzate per vivere all'aria aperta. Tutte dotate di arredo esterno con **verande coperte**, docce esterne, lavatoio e barbecue. Il comfort interno è garantito dalla presenza in ogni villetta di TV e Lavatrice.
 
 ## Tipologie di Villette
 
-Esistono **2 tipologie**:
+Esistono **4 tipologie**:
 
 ### Villetta Bilocale
 
@@ -56,7 +127,13 @@ Esistono **2 tipologie**:
 - Soggiorno con divano letto
 - Veranda esterna vivibile con giardino
 
-**Su richiesta** è possibile alloggiare nella villetta Trilocale **INDIPENDENTE** libera su 4 lati e con grandi spazi esterni oppure nella villetta bilocale **ANGOLARE**, libera su 3 lati e con 4 posti letto.
+### Trilocale Indipendente _(su richiesta)_
+
+Libera su **4 lati** con grandi spazi esterni esclusivi e giardino privato.
+
+### Bilocale Angolare _(su richiesta)_
+
+Libera su **3 lati**, con 4 posti letto e spazi esterni più ampi.
 
 ## Animali Domestici
 

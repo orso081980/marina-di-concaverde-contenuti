@@ -30,13 +30,84 @@ stats:
     label: "Lokale Materialien"
   - value: "WLAN + Klimaanlage"
     label: "Im Preis inbegriffen"
+typeGalleries:
+  - label: "Studio-Villa"
+    badge: "Bis zu 3 Personen"
+    features:
+      - "1 Doppelschlafzimmer"
+      - "Badezimmer mit Dusche"
+      - "Wohnzimmer mit Küchenzeile"
+      - "Schlafsofa"
+      - "Bewohnbare Außenveranda"
+      - "Kleiner Garten"
+    images:
+      - "/img/1297.jpg"
+      - "/img/1299.jpg"
+      - "/img/1300.jpg"
+      - "/img/1301.jpg"
+    altGallery:
+      - "Studio-Villa — Außenansicht"
+      - "Studio-Villa — Veranda"
+      - "Studio-Villa — Wohnzimmer"
+      - "Studio-Villa — Schlafzimmer"
+  - label: "Zweizimmer-Villa"
+    badge: "Bis zu 5 Personen"
+    features:
+      - "1 Doppelschlafzimmer"
+      - "1 Kinderschlafzimmer mit Etagenbett"
+      - "Badezimmer mit Dusche"
+      - "Küchenzeile"
+      - "Wohnzimmer mit Schlafsofa"
+      - "Bewohnbare Außenveranda mit Garten"
+    images:
+      - "/img/1285.jpg"
+      - "/img/1367.jpg"
+      - "/img/1368.jpg"
+      - "/img/1369.jpg"
+    altGallery:
+      - "Zweizimmer-Villa — Außenansicht"
+      - "Zweizimmer-Villa — Veranda"
+      - "Zweizimmer-Villa — Wohnzimmer"
+      - "Zweizimmer-Villa — Schlafzimmer"
+  - label: "Freistehende Zweizimmer-Villa"
+    badge: "Auf Anfrage"
+    highlight: "Auf 4 Seiten frei"
+    features:
+      - "Alle Annehmlichkeiten der Standard-Zweizimmer-Villa"
+      - "Auf 4 Seiten frei"
+      - "Große private Außenbereiche"
+      - "Exklusiver Garten"
+    images:
+      - "/img/1370.jpg"
+      - "/img/1371.jpg"
+      - "/img/1372.jpg"
+    altGallery:
+      - "Freistehende Villa — Außenansicht"
+      - "Freistehende Villa — Garten"
+      - "Freistehende Villa — Veranda"
+  - label: "Eck-Studio-Villa"
+    badge: "Auf Anfrage"
+    highlight: "Auf 3 Seiten frei"
+    features:
+      - "Alle Annehmlichkeiten der Standard-Studio-Villa"
+      - "Auf 3 Seiten frei"
+      - "4 Schlafplätze"
+      - "Größere Außenbereiche"
+    images:
+      - "/img/1373.jpg"
+      - "/img/1374.jpg"
+      - "/img/1375.jpg"
+    altGallery:
+      - "Eck-Studio — Außenansicht"
+      - "Eck-Studio — Veranda"
+      - "Eck-Studio — Außenbereiche"
 ---
 
 Die Villen sind für das Leben im Freien konzipiert. Alle mit Gartenmöbeln, **überdachten Veranden**, Außenduschen, Waschküche und Grill ausgestattet. Für modernen Komfort sorgen TV und Waschmaschine in jeder Villa.
 
 ## Villentypen
 
-Es gibt **2 Typen**:
+Es gibt **4 Typen**:
 
 ### Studio-Villa
 
@@ -56,7 +127,13 @@ Es gibt **2 Typen**:
 - Wohnzimmer mit Schlafsofa
 - Bewohnbare Außenveranda mit Garten
 
-**Auf Anfrage** ist ein Aufenthalt in der **freistehenden Zweizimmer-Villa** möglich — auf 4 Seiten frei mit großen Außenbereichen.
+### Freistehende Zweizimmer-Villa _(auf Anfrage)_
+
+Auf **4 Seiten frei** mit großen privaten Außenbereichen und exklusivem Garten.
+
+### Eck-Studio-Villa _(auf Anfrage)_
+
+Auf **3 Seiten frei**, 4 Schlafplätze, mit größeren Außenbereichen.
 
 ## Haustiere
 
