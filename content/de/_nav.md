@@ -9,7 +9,7 @@ navItems:
         icon: "euro-sign"
       - label: "Kontakt"
         href: "/kontakt"
-        icon: "voicemail"
+        icon: "at"
   - label: "Villen"
     href: "/villen"
   - label: "Archipel & Strände"
