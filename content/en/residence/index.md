@@ -10,8 +10,11 @@ hero:
   eyebrow: "Porto Pozzo · Gallura"
   title: "The Residence"
   subtitle: "Stazzu Gallurese style villas overlooking the Porto Pozzo fjord."
-  image: "/img/2297.jpg"
-  imageAlt: "Residence Marina di Conca Verde Porto Pozzo"
+  gallery: ["/img/2297.jpg", "/img/2298.jpg", "/img/2299.jpg"]
+  altGallery: ["Residence Marina di Conca Verde", "Villas Porto Pozzo", "Porto Pozzo fjord"]
+  galleryCta:
+    label: "Open Gallery"
+    href: "#"
   primaryCta:
     label: "Discover the Villas"
     href: "/villas"

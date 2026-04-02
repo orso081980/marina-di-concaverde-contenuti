@@ -10,8 +10,11 @@ hero:
   eyebrow: "Porto Pozzo · Gallura"
   title: "Il Residence"
   subtitle: "Villette in stile Stazzu Gallurese affacciate sul fiordo di Porto Pozzo."
-  image: "/img/2297.jpg"
-  imageAlt: "Residence Marina di Conca Verde Porto Pozzo"
+  gallery: ["/img/2297.jpg", "/img/2298.jpg", "/img/2299.jpg"]
+  altGallery: ["Residence Marina di Conca Verde", "Villette Porto Pozzo", "Il fiordo di Porto Pozzo"]
+  galleryCta:
+    label: "Apri la galleria"
+    href: "#"
   primaryCta:
     label: "Le Villette"
     href: "/villette"

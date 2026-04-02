@@ -10,8 +10,11 @@ hero:
   eyebrow: "Gallura · Sardinia"
   title: "Archipelago & Beaches"
   subtitle: "The Conca Verde coves, La Maddalena Archipelago and the most beautiful coastline in Northern Sardinia."
-  image: "/img/1285.jpg"
-  imageAlt: "La Maddalena Archipelago and Gallura beaches Sardinia"
+  gallery: ["/img/1285.jpg", "/img/1294.jpg", "/img/1295.jpg"]
+  altGallery: ["La Maddalena Archipelago", "Conca Verde beach", "Gallura coves Sardinia"]
+  galleryCta:
+    label: "Open Gallery"
+    href: "#"
   primaryCta:
     label: "Discover the Coves"
     href: "/beaches/coves"

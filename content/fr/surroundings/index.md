@@ -10,8 +10,11 @@ hero:
   eyebrow: "Gallura · Sardaigne"
   title: "Les Environs"
   subtitle: "Restaurants, agritourisme, plages, îles et itinéraires dans la Gallura la plus authentique."
-  image: "/img/1370.jpg"
-  imageAlt: "Environs Porto Pozzo Gallura Sardaigne"
+  gallery: ["/img/1370.jpg", "/img/mete.jpg", "/img/percorsi.jpg"]
+  altGallery: ["Environs Porto Pozzo Gallura", "Destinations préférées Gallura", "Itinéraires Sardaigne"]
+  galleryCta:
+    label: "Ouvrir la galerie"
+    href: "#"
   primaryCta:
     label: "Destinations préférées"
     href: "/surroundings/top-spots"

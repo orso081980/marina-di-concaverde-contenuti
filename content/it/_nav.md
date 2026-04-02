@@ -9,7 +9,7 @@ navItems:
         icon: "euro-sign"
       - label: "Contatti"
         href: "/residence/contatti"
-        icon: "voicemail"
+        icon: "at"
   - label: "Le Villette"
     href: "/villette"
   - label: "L'Arcipelago e le spiagge"

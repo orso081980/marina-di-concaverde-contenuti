@@ -10,8 +10,11 @@ hero:
   eyebrow: "Gallura · Sardinia"
   title: "The Surroundings"
   subtitle: "Restaurants, farm stays, beaches, islands and itineraries in the most authentic Gallura."
-  image: "/img/1370.jpg"
-  imageAlt: "Surroundings Porto Pozzo Gallura Sardinia"
+  gallery: ["/img/1370.jpg", "/img/mete.jpg", "/img/percorsi.jpg"]
+  altGallery: ["Surroundings Porto Pozzo Gallura", "Top spots Gallura", "Routes Sardinia"]
+  galleryCta:
+    label: "Open Gallery"
+    href: "#"
   primaryCta:
     label: "Top Spots"
     href: "/surroundings/top-spots"
