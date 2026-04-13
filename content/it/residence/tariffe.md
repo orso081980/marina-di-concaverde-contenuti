@@ -78,51 +78,6 @@ pricingData:
     G: "07/8-20/8"
     H: "21/8-27/8"
     I: "28/8-03/9"
-  pricing:
-    - type: "Trilo Indip"
-      periods:
-        A: "€ 790"
-        B: "€ 933"
-        C: "€ 1.157"
-        D: "€ 1.355"
-        E: "€ 1.633"
-        F: "€ 1.896"
-        G: "€ 2.484"
-        H: "€ 1.534"
-        I: "€ 1.157"
-    - type: "Trilo"
-      periods:
-        A: "€ 413"
-        B: "€ 548"
-        C: "€ 862"
-        D: "€ 951"
-        E: "€ 1.023"
-        F: "€ 1.431"
-        G: "€ 1.794"
-        H: "€ 1.166"
-        I: "€ 862"
-    - type: "Bilo 4"
-      periods:
-        A: "€ 438"
-        B: "€ 491"
-        C: "€ 671"
-        D: "€ 742"
-        E: "€ 823"
-        F: "€ 1.150"
-        G: "€ 1.531"
-        H: "€ 913"
-        I: "€ 671"
-    - type: "Bilo 3"
-      periods:
-        A: "€ 303"
-        B: "€ 402"
-        C: "€ 527"
-        D: "€ 617"
-        E: "€ 698"
-        F: "€ 975"
-        G: "€ 1.244"
-        H: "€ 769"
-        I: "€ 527"
   supplements:
     - service: "Forfait Servizi"
       cost: "€ 22 per Persona/Settimana"
@@ -134,5 +89,4 @@ pricingData:
       cost: "€ 90"
 ---
 
-::PricingTable 
-::
+Questo è un test
