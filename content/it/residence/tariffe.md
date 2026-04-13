@@ -28,7 +28,7 @@ stats:
     label: "Luglio"
   - value: "Alta Stagione"
     label: "Agosto"
-  - value: "Min. 3 notti"
+  - value: "Min. 7 notti"
     label: "Soggiorno minimo"
 pricingData:
   accommodations:
@@ -126,14 +126,12 @@ pricingData:
   supplements:
     - service: "Forfait Servizi"
       cost: "€ 22 per Persona/Settimana"
-    - service: "Bambini 4-12 anni"
-      cost: "€ 15"
-    - service: "Infant 0-3 anni"
-      cost: "€ 0"
+    - service: "Biancheria letto/bagno"
+      cost: "€ 20"
     - service: "Pulizia Finale Bilocale"
-      cost: "€ 65"
+      cost: "€ 70"
     - service: "Pulizia Finale Trilocale"
-      cost: "€ 75"
+      cost: "€ 90"
 ---
 
 ::PricingTable 
