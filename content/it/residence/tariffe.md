@@ -28,7 +28,7 @@ stats:
     label: "Luglio"
   - value: "Alta Stagione"
     label: "Agosto"
-  - value: "Min. 3 notti"
+  - value: "Min. 7 notti"
     label: "Soggiorno minimo"
 pricingData:
   accommodations:
