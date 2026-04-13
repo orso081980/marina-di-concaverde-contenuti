@@ -127,11 +127,11 @@ pricingData:
     - service: "Forfait Servizi"
       cost: "€ 22 per Persona/Settimana"
     - service: "Biancheria letto/bagno"
-      cost: "€ 15"
+      cost: "€ 20"
     - service: "Pulizia Finale Bilocale"
-      cost: "€ 65"
+      cost: "€ 70"
     - service: "Pulizia Finale Trilocale"
-      cost: "€ 75"
+      cost: "€ 90"
 ---
 
 ::PricingTable 
