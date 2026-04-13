@@ -128,8 +128,6 @@ pricingData:
       cost: "€ 22 per Persona/Settimana"
     - service: "Biancheria letto/bagno"
       cost: "€ 15"
-    - service: "Infant 0-3 anni"
-      cost: "€ 0"
     - service: "Pulizia Finale Bilocale"
       cost: "€ 65"
     - service: "Pulizia Finale Trilocale"
