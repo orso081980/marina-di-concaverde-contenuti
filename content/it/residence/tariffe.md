@@ -48,36 +48,7 @@ pricingData:
       bedrooms: 1
       bathrooms: 1
       capacity: "2+1"
-  periods:
-    - A
-    - B
-    - C
-    - D
-    - E
-    - F
-    - G
-    - H
-    - I
-  periodLabels:
-    A: "Periodo A"
-    B: "Periodo B"
-    C: "Periodo C"
-    D: "Periodo D"
-    E: "Periodo E"
-    F: "Periodo F"
-    G: "Periodo G"
-    H: "Periodo H"
-    I: "Periodo I"
-  periodDates:
-    A: "01/5-04/6, 11/9-30/10"
-    B: "05/6-18/6, 04/9-10/9"
-    C: "19/6-02/7"
-    D: "03/7-16/7"
-    E: "17/7-30/7"
-    F: "31/7-06/8"
-    G: "07/8-20/8"
-    H: "21/8-27/8"
-    I: "28/8-03/9"
+  testo: "I prezzi si intendono a settimana, per 4 persone. Soggiorni da minimo 3 notti. Offerte speciali disponibili per soggiorni più lunghi e prenotazioni anticipate."
   supplements:
     - service: "Forfait Servizi"
       cost: "€ 22 per Persona/Settimana"
@@ -87,6 +58,8 @@ pricingData:
       cost: "€ 70"
     - service: "Pulizia Finale Trilocale"
       cost: "€ 90"
+    - service: "Test"
+      cost: "€ 90"
 ---
-
-Questo è un test
+::PricingTable 
+::
