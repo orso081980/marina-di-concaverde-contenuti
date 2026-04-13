@@ -126,7 +126,7 @@ pricingData:
   supplements:
     - service: "Forfait Servizi"
       cost: "€ 22 per Persona/Settimana"
-    - service: "Bambini 4-12 anni"
+    - service: "Biancheria letto/bagno"
       cost: "€ 15"
     - service: "Infant 0-3 anni"
       cost: "€ 0"
