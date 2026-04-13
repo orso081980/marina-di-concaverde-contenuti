@@ -25,9 +25,10 @@ textBlock:
   eyebrow: "Benvenuti a marina di Conca Verde"
   title: "Gallura - Sardegna"
 stats:
-  - value: "Test"
-    label: "Test 1"
-
+  - value: "Posizione Unica"
+    label: "Gallura, Vicino al mare"
+  - value: "Esperienza unica Unica"
+    label: "Situata sul fiordo naturale di Porto Pozzo"
 ---
 
 Situata sul fiordo naturale di Porto Pozzo, proprio di fronte l’arcipelago de La Maddalena e l’isola di Coluccia, dispone di accoglienti villette in stile “Stazzu” Gallurese con granito sardo a vista e legno massiccio.
