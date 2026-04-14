@@ -72,7 +72,7 @@ navItems:
 quickLinks:
   - icon: "🏡"
     label: "Il Residence"
-    sublabel: "Struttura e villette"
+    sublabel: "il piccolo borgo di villette"
     href: "/residence"
     image: "/img/1299.jpg"
   - icon: "🏖"
