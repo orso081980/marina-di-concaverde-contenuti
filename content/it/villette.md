@@ -59,7 +59,7 @@ typeGalleries:
       - "Ampio solarium e deck in legno"
       - "Vista mare"
       - "Ampio soggiorno con divano letto"
-      - "fino a 4 posti letto"      - 
+      - "fino a 4 posti letto" 
     images:
       - "/img/1373.jpg"
       - "/img/1374.jpg"
