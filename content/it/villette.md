@@ -20,7 +20,7 @@ hero:
     href: "/residence/contatti"
 textBlock:
   eyebrow: "Le Villette"
-  title: "Tradizione gallurese e comfort moderno"
+  title: "Tradizione gallurese. qualità senza tempo, atmosfera rilassante e comfort."
 stats:
   - value: "Bilocale"
     label: "Fino a 2 persone"
@@ -35,11 +35,11 @@ typeGalleries:
     badge: "Fino a 2 persone"
     features:
       - "1 camera matrimoniale"
-      - "Servizio con doccia"
+      - "Bagno con doccia"
       - "Soggiorno con angolo cottura"
-      - "Divano letto"
-      - "Veranda esterna vivibile"
-      - "Piccolo spazio verde"
+      - "Posto auto"
+      - "Veranda esterna vivibile con Barbecue"
+      - "Aria Condizionata"
     images:
       - "/img/1297.jpg"
       - "/img/1299.jpg"
@@ -54,10 +54,12 @@ typeGalleries:
     badge: "Su richiesta"
     highlight: "Libera su 3 lati"
     features:
-      - "Tutti i comfort del Bilocale standard"
-      - "Libera su 3 lati"
-      - "4 posti letto"
-      - "Spazi esterni più ampi"
+      - "tutte le dotazioni della villetta bilocale ed in piu:"
+      - "Villetta di testa libera su 3 lati"
+      - "Ampio solarium e deck in legno"
+      - "Vista mare"
+      - "Ampio soggiorno con divano letto"
+      - "fino a 4 posti letto"      - 
     images:
       - "/img/1373.jpg"
       - "/img/1374.jpg"
@@ -71,10 +73,10 @@ typeGalleries:
     features:
       - "1 camera matrimoniale"
       - "1 cameretta junior con letto a castello"
-      - "Servizio con doccia"
-      - "Angolo cottura"
-      - "Soggiorno con divano letto"
-      - "Veranda esterna vivibile con giardino"
+      - "Bagno con doccia"
+      - "Aria Condizionata"
+      - "Soggiorno con Angolo cottura"
+      - "Ampia Veranda esterna vivibile con Barbecue"
     images:
       - "/img/1285.jpg"
       - "/img/1367.jpg"
@@ -89,10 +91,11 @@ typeGalleries:
     badge: "Su richiesta"
     highlight: "Libera su 4 lati"
     features:
-      - "Tutti i comfort del Trilocale standard"
+      - "Tutti i comfort della villetta Trilocale standard"
       - "Libera su 4 lati"
-      - "Ampi spazi esterni privati"
-      - "Giardino esclusivo"
+      - "Ampi spazi esterni"
+      - "Ampio patio con Barbecue in pietra gallurese"
+      - "Vista Mare"
     images:
       - "/img/1370.jpg"
       - "/img/1371.jpg"
@@ -103,7 +106,7 @@ typeGalleries:
       - "Trilocale Indipendente — veranda"
 ---
 
-Le Villette sono attrezzate per vivere all'aria aperta. Tutte dotate di arredo esterno con **verande coperte**, docce esterne, lavatoio e barbecue. Il comfort interno è garantito dalla presenza in ogni villetta di TV e Lavatrice.
+Le Villette sono attrezzate di tutto il nescessario per una vacanza rilasante. Ideali per vivere all'aria aperta sono tutte dotate di arredo esterno con **verande coperte**, docce esterne, lavatoio e barbecue. Il comfort interno è garantito dalla presenza in ogni villetta di Aria Condizionata, TV e Lavatrice.
 
 ## Tipologie di Villette
 
@@ -112,29 +115,30 @@ Esistono **4 tipologie**:
 ### Villetta Bilocale
 
 - 1 camera matrimoniale
-- Servizio con doccia
+- Bagno con doccia in ceramica CeraSarda
 - Soggiorno con angolo cottura
-- Divano letto
-- Veranda esterna vivibile
-- Piccolo spazio verde
+- Veranda esterna vivibile con Barbecue
+- Piccolo Patio con doccia esterna in pietra naturale e lavatoio
+- Posto Auto
 
 ### Villetta Trilocale
 
 - 1 camera matrimoniale
 - 1 cameretta junior con letto a castello
-- Servizio con doccia
+- Bagno con doccia in ceramica CeraSarda
 - Angolo cottura
 - Soggiorno con divano letto
 - Veranda esterna vivibile con giardino
+- Doccia esterna in pietra naturale e lavatoio
 
 ### Trilocale Indipendente _(su richiesta)_
 
-Libera su **4 lati** con grandi spazi esterni esclusivi e giardino privato.
+Libera su **4 lati** con grandi spazi esterni e vista mare.
 
 ### Bilocale Angolare _(su richiesta)_
 
-Libera su **3 lati**, con 4 posti letto e spazi esterni più ampi.
+Libera su **3 lati**, con 4 posti letto e ampio solarium vista mare.
 
 ## Animali Domestici
 
-Gli animali domestici di piccola taglia (max 8 kg) sono benvenuti previo accordo a prenotazione. È previsto un supplemento pulizia. I cani devono essere tenuti al guinzaglio nelle aree comuni e non sono ammessi in spiaggia.
+Gli animali domestici sono ammessi solo in alcuni periodi ed esclusivamente previa autorizzaione scritta. È previsto un supplemento pulizia. 
