@@ -1,6 +1,6 @@
 ---
-title: "Parco Naturale — Marina di Conca Verde"
-description: "Il parco naturale di Conca Verde: macchia mediterranea, mirto, lentisco e ginepro tra i graniti millenari della Gallura. Passeggiate nella natura incontaminata."
+title: "Capo Testa - Area Marina Protetta"
+description: "Nel cuore delle bocche di bonifacio, l'area marina protetta incastonata tra graniti millenari, boschi di ginepro e un mare di biodiversità."
 translations:
   it: "/dintorni/parco"
   en: "/surroundings/park"
@@ -11,7 +11,7 @@ hero:
   title: "Il Parco"
   subtitle: "Macchia mediterranea e graniti millenari nella natura incontaminata della Gallura."
   image: "/img/park.jpg"
-  imageAlt: "Parco naturale Conca Verde Gallura"
+  imageAlt: "Parco naturale in Gallura"
 textBlock:
   eyebrow: "Il Parco"
   title: "Il parco di Capo Testa"
@@ -23,7 +23,7 @@ stats:
   - value: "Granito"
     label: "Rocce millenarie"
   - value: "Fauna"
-    label: "Fauna sarda autentica"
+    label: "Biodiversità Sarda"
 ---
 
 Il parco naturale dell’Arcipelago de **La Maddalena** è uno dei più bei gioielli naturalistici d’Italia. Un vero paradiso in casa nostra.
