@@ -1,6 +1,6 @@
 ---
 title: "Percorsi — Marina di Conca Verde, Porto Pozzo"
-description: "I percorsi a piedi, in mountain bike e in barca partendo dal residence di Porto Pozzo: natura, storia e panorami mozzafiato in Gallura."
+description: "I percorsi a piedi, in mountain bike e in barca: natura, storia e panorami mozzafiato in Gallura."
 translations:
   it: "/dintorni/percorsi"
   en: "/surroundings/trails"
@@ -9,9 +9,9 @@ translations:
 hero:
   eyebrow: "Residence · Percorsi"
   title: "Percorsi & Itinerari"
-  subtitle: "Sentieri costieri, piste ciclabili e rotte marine tra i panorami più spettacolari della Gallura."
+  subtitle: "Sentieri costieri e rotte marine tra i panorami più spettacolari della Gallura."
   image: "/img/percorsi-2.jpg"
-  imageAlt: "Sentiero costiero nel fiordo di Porto Pozzo"
+  imageAlt: "Sentiero costiero"
 
 textBlock:
   eyebrow: "Percorsi"
@@ -29,4 +29,4 @@ stats:
 
 Per chi vuole fare una passeggiata rilassante, un corsetta per tenersi in forma o per i più accaniti escursionisti qui troviamo percorsi per tutti i gusti.
 
-Dalle scalate sui giganteschi graniti di Capo Testa ai percorsi per raggiungere le località più nascoste, una passeggiata sulla spiaggia della Marmorata o sul lungo mare di Rena Majore sono solo alcuni esempi delle decine di percorsi ed escursioni (anche guidate) che questo angolo d’Italia può offrire. Chiedi al nostro ufficio ricevimento per tutte le indicazioni.
+Dalle scalate sui giganteschi graniti di Capo Testa ai percorsi per raggiungere le località più nascoste, una passeggiata sulla spiaggia della Marmorata o sul lungo mare di Rena Majore sono solo alcuni esempi delle decine di percorsi ed escursioni (anche guidate) che questo angolo di Sardegna può offrire. Al vostro arrivo saremo felici di illustrarvi tutte le possibili attività in loco.
