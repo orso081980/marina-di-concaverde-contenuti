@@ -9,7 +9,7 @@ translations:
 hero:
   eyebrow: "Dintorni · Agriturismo"
   title: "Agriturismo"
-  subtitle: "Formaggi freschi, pane carasau, porceddu e vino di fattoria: la Gallura contadina a tavola."
+  subtitle: "Formaggi freschi e stagionati, pane carasau, maialetto, vermentino, cannonau, mirto e Seadas: la Gallura a tavola."
   image: "/img/1351.jpg"
   imageAlt: "Agriturismo campagna gallurese Sardegna"
   primaryCta:
