@@ -35,7 +35,7 @@ stats:
     label: "15 km dal residence"
 ---
 
-Porto Pozzo si trova in uno dei territori più ricchi e affascinanti della Sardegna settentrionale. La **Gallura** è una terra di contrasti: coste frastagliate con spiagge mozzafiato, entroterra selvaggio con boschi di sughero e stazzi di granito, tradizioni gastronomiche autentiche e vita notturna cosmopolita sulla Costa Smeralda.
+Conca Verde si trova in uno dei territori più ricchi e affascinanti della Sardegna settentrionale. La **Gallura** è una terra di contrasti: coste frastagliate con spiagge mozzafiato, entroterra selvaggio con boschi di sughero e stazzi di granito, tradizioni gastronomiche autentiche e vita notturna cosmopolita sulla Costa Smeralda.
 
 ## A pochi minuti dal residence
 
@@ -51,7 +51,7 @@ Punto d'imbarco per l'arcipelago de La Maddalena (traghetti ogni ora), Palau è 
 
 ### Porto Cervo / Costa Smeralda (50 km)
 
-Il porto più glamour d'Italia, famoso in tutto il mondo. Vale la visita anche solo per passeggiare sulla banchina all'alba o al tramonto, quando la movida non ha ancora preso il sopravvento.
+Il porto più glamour d'Italia, famoso in tutto il mondo. Vale la visita anche solo per passeggiare sulla banchina al cospetto dei più lussuosi Yacht al mondo.
 
 ## Esplora per Categoria
 
