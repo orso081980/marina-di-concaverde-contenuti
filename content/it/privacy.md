@@ -25,9 +25,9 @@ textBlock:
 
 ## INFORMATIVA IN MATERIA DI TRATTAMENTO DEI DATI (art. 13 del Decreto Legislativo 30 giugno 2003, n. 196)
 
-In questa pagina si descrivono le modalità di gestione del sito www.marinadiconcaverde.it in riferimento al trattamento dei dati personali dei soggetti che lo consultano. Si tratta di un'informativa che è resa anche ai sensi dell'art. 13 del D.lgs. n. 196/2003 - Codice in materia di protezione dei dati personali. L'informativa è resa solo per il sito della CCST s.r.l. e non anche per altri siti web eventualmente consultati dall'utente tramite link.
+In questa pagina si descrivono le modalità di gestione del sito www.marinadiconcaverde.it in riferimento al trattamento dei dati personali dei soggetti che lo consultano. Si tratta di un'informativa che è resa anche ai sensi dell'art. 13 del D.lgs. n. 196/2003 - Codice in materia di protezione dei dati personali. L'informativa è resa solo per il sito della MCV s.r.l. e non anche per altri siti web eventualmente consultati dall'utente tramite link.
 
-In CCST s.r.l. i suoi dati vengono gestiti con sicurezza e assoluta riservatezza. CCST s.r.l. controlla accuratamente che vengano rispettate le disposizioni di legge in base alla normativa della legge federale sulla tutela dei dati personali.
+In MCV s.r.l. i suoi dati vengono gestiti con sicurezza e assoluta riservatezza. MCV s.r.l. controlla accuratamente che vengano rispettate le disposizioni di legge in base alla normativa della legge federale sulla tutela dei dati personali.
 
 Ai sensi di quanto disposto dal Decreto Legislativo 30 giugno 2003, n. 196 e successive modificazioni, in qualità di interessato dai trattamenti da noi effettuati, Vi informiamo che i dati da Voi conferiti o comunque acquisiti, saranno trattati secondo quanto di seguito riportato.
 
