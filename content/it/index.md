@@ -26,9 +26,11 @@ textBlock:
   title: "Gallura - Sardegna"
 stats:
   - value: "Posizione Unica"
-    label: "Gallura, Vicino al mare"
+    label: "accedi al mare a piedi"
   - value: "Esperienza unica Unica"
     label: "Situata sul fiordo naturale di Porto Pozzo"
+  - value: "Tranquillità"
+    label: "località tranquilla anche in alta stagione"
 ---
 
 Situata sul fiordo naturale di Porto Pozzo, proprio di fronte l’arcipelago de La Maddalena e l’isola di Coluccia, dispone di accoglienti villette in stile “Stazzu” Gallurese con granito sardo a vista e legno massiccio.
