@@ -23,16 +23,16 @@ textBlock:
   title: "Tradizione gallurese e comfort moderno"
 stats:
   - value: "Bilocale"
-    label: "Fino a 3 persone"
+    label: "Fino a 2 persone"
   - value: "Trilocale"
-    label: "Fino a 5 persone"
+    label: "Fino a 4 persone"
   - value: "Granito & Legno"
     label: "Materiali locali"
   - value: "AC"
     label: "Dotazioni incluse"
 typeGalleries:
   - label: "Villetta Bilocale"
-    badge: "Fino a 3 persone"
+    badge: "Fino a 2 persone"
     features:
       - "1 camera matrimoniale"
       - "Servizio con doccia"
@@ -67,7 +67,7 @@ typeGalleries:
       - "Bilocale Angolare — veranda"
       - "Bilocale Angolare — spazi esterni"
   - label: "Villetta Trilocale"
-    badge: "Fino a 5 persone"
+    badge: "Fino a 4 persone"
     features:
       - "1 camera matrimoniale"
       - "1 cameretta junior con letto a castello"
