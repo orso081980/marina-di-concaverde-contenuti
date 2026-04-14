@@ -1,6 +1,6 @@
 ---
-title: "Mete Preferite — Dintorni di Porto Pozzo, Gallura"
-description: "Le mete imperdibili nei dintorni di Porto Pozzo: l'arcipelago de La Maddalena, Bonifacio in Corsica, la Spiaggia Rosa di Budelli, Santa Teresa Gallura e la Costa Smeralda."
+title: "Mete Preferite — Dintorni di Conca Verde, Gallura"
+description: "Le mete imperdibili nei dintorni di Conca Verde: l'arcipelago de La Maddalena, Bonifacio in Corsica, la Spiaggia Rosa di Budelli, Santa Teresa Gallura e la Costa Smeralda."
 translations:
   it: "/dintorni/mete"
   en: "/surroundings/top-spots"
@@ -32,23 +32,23 @@ stats:
     label: "50 km dal residence"
 ---
 
-Porto Pozzo è in una posizione **straordinariamente privilegiata**: in un raggio di 50 km si trovano alcune delle mete turistiche più famose e belle del mondo. Ecco le nostre top recommendation.
+Conca Verde è in una posizione **straordinariamente privilegiata**: in un raggio di 35 km si trovano la maggior parte delle mete turistiche più famose e belle del mondo. Ecco le nostre top recommendation.
 
 ## 🏝 Arcipelago de La Maddalena
 
-Il **Parco Nazionale Arcipelago della Maddalena** è la meta numero uno dalla nostra base di Porto Pozzo. Accessibile in soli 10–15 minuti di gommone o 30 minuti di traghetto da Palau, l'arcipelago comprende 7 isole principali e decine di isolotti, con acque di un turchese impossibile e spiagge di sabbia bianca.
+Il **Parco Nazionale Arcipelago della Maddalena** è la meta numero uno. Accessibile in soli 15 minuti di gommone direttamente da Conca Verde o 15 minuti di traghetto da Palau, l'arcipelago comprende 7 isole principali e decine di isolotti, con acque di un turchese smeraldo e spiagge di sabbia bianca.
 
 Le isole da visitare:
 
-- **La Maddalena** (isola principale): centro storico vivace, porto pittoresco, musei navali
-- **Caprera**: l'isola di Garibaldi, con la sua casa-museo e cale selvagge
+- **La Maddalena** (isola principale): centro storico vivace popolato da ristoranti per tutti i gusti, porto pittoresco e numerose spiagge raggiungibili in auto o noleggiando una bicicletta.
+- **Caprera**: l'isola di Garibaldi, con la sua casa-museo e cale selvagge come Cala Coticcio.
 - **Spargi**: la spiaggia di Cala Corsara, considerata una delle più belle d'Italia
 - **Budelli**: la leggendaria **Spiaggia Rosa**, colorata dai resti di coralli e conchiglie (visita solo dall'acqua — sbarco vietato)
-- **Santa Maria** e **Razzoli**: le isole più a nord, acque cristalline e totale solitudine
+- **Santa Maria** e **Razzoli**: le isole più a nord, acque cristalline e sabbia bianchissima.
 
-## 🏰 Bonifacio, Corsica (20 min in traghetto)
+## 🏰 Bonifacio, Corsica (50 min in traghetto)
 
-Dall'imbarcadero di Santa Teresa Gallura (10 km dal residence) partono i traghetti per **Bonifacio**, la città più pittoresca della Corsica. Arroccata su scogliere calcaree bianche a picco sul mare, Bonifacio è una vera opera d'arte della natura e della storia umana.
+Dal porto di Santa Teresa Gallura (10 km dal residence) partono i traghetti per **Bonifacio**, la città più pittoresca della Corsica. Arroccata su scogliere calcaree bianche a picco sul mare, Bonifacio è una vera opera d'arte della natura.
 
 Da non perdere a Bonifacio:
 
@@ -63,14 +63,14 @@ Da non perdere a Bonifacio:
 
 La Gallura è famosa per le sue spiagge: sabbia bianca finissima, acque trasparenti, rocce di granito rosa. Alcune imperdibili nei dintorni del residence:
 
-- **Rena Bianca** (Santa Teresa Gallura, 10 km) — spiaggia urbana con vista su Bonifacio
-- **La Marmorata** (Santa Teresa Gallura, 12 km) — baia appartata con acque turchesi
-- **Cala Battistoni** (Porto Pozzo, 4 km) — piccola e selvaggia, ideale con tempo di mare calmo
-- **Punta Falcone** e le spiagge di Capo Testa (14 km) — paesaggio surreale tra rocce di granito modellate dal vento
+- **Rena Bianca** (Santa Teresa Gallura, 10 km) — la spiaggia del paese con vista su Bonifacio
+- **Capo Testa** (Santa Teresa Gallura, 12 km) — Penisola che comprende 3 spiagge, una piu bella dell'altra e il mitico faro di Capo Testa tra le rocce di granito modellate dal vento
+- **Valle dell'erica** (Porto Pozzo, 4 km) — piccolo gioiello con vista sull'arcipelago a soli 5km da Conca Verde.
+- **Rena Majore** Sulla costa ovest a 15 min d'auto da Conca Verde questa spiaggia dominata dalle estese dune di sabbia regala tramonti che fermano il tempo. 
 
 ## 🏎 Porto Cervo e la Costa Smeralda (50 km)
 
-Il porto più esclusivo d'Italia, nato negli anni '60 dall'intuizione dell'Aga Khan. Le boutique di lusso, gli yacht e il fascino mediterraneo rendono Porto Cervo una meta unica. Vale la visita anche solo per passeggiare sulla banchina all'alba.
+Il porticciolo più esclusivo d'Italia, nato negli anni '60 dall'intuizione dell'Aga Khan. Le boutique di lusso, gli yacht e il fascino mediterraneo rendono Porto Cervo una meta unica. Vale la visita anche solo per una passeggiata.
 
 ## 🏔 Tempio Pausania e l'Entroterra Gallurese (50 km)
 
