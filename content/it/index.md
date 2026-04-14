@@ -31,6 +31,8 @@ stats:
     label: "Situata sul fiordo naturale di Porto Pozzo"
   - value: "Tranquillità"
     label: "località tranquilla anche in alta stagione"
+  - value: "A 15 min da tutto"
+    label: "scegli tra una miriade di spiagge e paesini da visitare"
 ---
 
 Situata sul fiordo naturale di Porto Pozzo, proprio di fronte l’arcipelago de La Maddalena e l’isola di Coluccia, dispone di accoglienti villette in stile “Stazzu” Gallurese con granito sardo a vista e legno massiccio.
