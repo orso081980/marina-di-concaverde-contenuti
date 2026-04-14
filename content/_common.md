@@ -2,6 +2,14 @@
 # ── Site-wide configuration (not locale-specific) ─────────────────────────────
 # Edit this file to update shared settings across all languages.
 
+# Which language editions are publicly visible on the website.
+# Each locale code must be on its own line with a dash prefix.
+# To hide a language, remove or comment out its line.
+# Supported values: it, en, de, fr
+publishedLocales:
+  - it
+  - en
+
 contactEmail: "mcv@marinadiconcaverde.it"
 
 googleMapsUrl: "https://maps.app.goo.gl/NBHEenq7EyAjr5zFA"
