@@ -26,8 +26,6 @@ stats:
     label: "Telefono & WhatsApp"
   - value: "Porto Pozzo"
     label: "Santa Teresa Gallura (SS)"
-  - value: "08:00–20:00"
-    label: "Orari reception"
   - value: "24h"
     label: "Risposta email"
 ---
