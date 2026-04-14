@@ -1,6 +1,6 @@
 ---
 title: "Agriturismo — Dintorni di Porto Pozzo, Gallura"
-description: "I migliori agriturismi nei dintorni di Porto Pozzo e Santa Teresa Gallura: cucina gallurese genuina, prodotti a km 0, formaggi, salumi e vini artigianali nella campagna sarda."
+description: "I migliori agriturismo nei dintorni di Porto Pozzo e Santa Teresa Gallura: cucina gallurese genuina, prodotti a km 0, formaggi, salumi e vini di produzione propria nella campagna sarda."
 translations:
   it: "/dintorni/agriturismo"
   en: "/surroundings/farm-stays"
@@ -22,17 +22,17 @@ textBlock:
   eyebrow: "Agriturismo"
   title: "La Gallura autentica, a tavola"
 stats:
-  - value: "Porceddu"
+  - value: "Maialetto"
     label: "Maialino allo spiedo"
   - value: "Formaggio"
     label: "Pecorino sardo DOP"
   - value: "Km 0"
     label: "Tutto prodotto in loco"
-  - value: "Myrto"
+  - value: "Mirto"
     label: "Il liquore della Sardegna"
 ---
 
-Gli **agriturismi della Gallura** rappresentano una delle esperienze gastronomiche più autentiche e genuine che la Sardegna possa offrire. In queste aziende agricole a conduzione familiare, il pranzo o la cena diventa un viaggio nella tradizione contadina gallurese: tutto è prodotto in loco, dal maiale al vino, passando per i formaggi, il pane e le verdure dell'orto.
+Gli **agriturismi della Gallura** rappresentano una delle esperienze gastronomiche più autentiche e genuine che la Sardegna possa offrire. In queste aziende agricole a conduzione familiare, il pranzo o la cena diventa un viaggio nella tradizione gastronomica gallurese: tutto è prodotto in loco, dal maiale al vino, passando per i formaggi, il pane e le verdure dell'orto.
 
 ## La Cucina Agrituristica Gallurese
 
@@ -40,43 +40,39 @@ Un tipico pranzo in agriturismo nella Gallura comprende:
 
 ### Antipasti
 
-- **Affettati** di maiale — salame, prosciutto crudo e salsiccia stagionata
+- **Affettati** di maiale — salame, prosciutto crudo, coppa e salsiccia stagionata
 - **Formaggi** — pecorino fresco, a media stagionatura e stagionato, con miele di corbezzolo o marmellata di mirto
 - **Olive** aromatizzate con finocchio selvatico
-- **Pane carasau** (carta musica): il pane croccante sardo, ideale per accompagnare l'antipasto
+- **Pane carasau** (carta da musica): il pane croccante sardo, ideale per accompagnare l'antipasto
 
 ### Primi Piatti
 
 - **Zuppa gallurese** (_suppa cuata_): il piatto simbolo della tradizione — pane raffermo a strati con brodo di carne e formaggio, gratinato al forno
 - **Malloreddus** (gnocchetti sardi) al ragù di maiale
-- **Culurgiones** (ravioli ripieni di patata, pecorino e menta)
+- **Pulicioni** (ravioli dolci ripieni di ricotta e scorza di limone)
 
 ### Secondi Piatti
 
-- **Porceddu allo spiedo**: maialino da latte di razze autoctone sarde, cotto lentamente su spiedo di legno di mirto per 3–4 ore. Il flagship dell'agriturismo gallurese
-- **Agnello alla brace** con rosmarino e ginepro
-- **Pollo ruspante** dell'aia con patate arrosto
+- **Maialetto allo spiedo**: maialino da latte di razze autoctone sarde, cotto lentamente su spiedo per 3–4 ore e servito in taglieri di sughero con essenze di mirto. Il flagship dell'agriturismo gallurese
+- **Agnello alla brace** con rosmarino, mirto e ginepro.
 
 ### Dolci
 
-- **Seadas**: pasta fritta ripiena di formaggio acido e miele amaro di corbezzolo
-- **Pardulas**: cestini di pasta con ripieno di ricotta e zafferano
-- **Amaretti sardi**
+- **Seadas**: pastella fritta ripiena di formaggio fresco e ricoperta di miele
+- **Papassini**: tipici dolci secchi glassati
+  
 
 ### Vini e Liquori
 
-- **Vermentino di Gallura DOCG** — il vino bianco della zona
+- **Vermentino di Gallura DOCG** — il vino bianco tipico della zona
 - **Cannonau di Sardegna** — il rosso più noto dell'isola
-- **Mirto** — digestivo sardo per eccellenza, rosso (da bacche di mirto nero) o bianco
+- **Nebbiolo di Gallura** — il rosso tipico delle colline zona di Luras/Tempio 
+- **Mirto** — digestivo sardo per eccellenza, rosso (da bacche di mirto nero) 
 
 ## Come Raggiungerli
 
-Gli agriturismi della Gallura si trovano nell'entroterra, a 10–25 km dal residence. La reception può:
+Gli agriturismi della Gallura si trovano sparpagliati nell'entroterra, da 10 a 50 km dal residence se ne trovano una moltitudine. Al vostro arrivo presso le nostre villette saremo lieti di indicarvi i migliori agriturismo della zona.
 
-- Consigliare i migliori agriturismi della stagione in corso
-- Prenotare il tavolo per voi
-- Organizzare il trasporto (NCC) se preferite non guidare dopo il vino
-
-## Vendi Diretta
+## Vendita Diretta
 
 Molti agriturismi vendono anche i loro prodotti direttamente in azienda: formaggi, insaccati, miele, conserve, liquori e vini. Un ottimo souvenir commestibile da portare a casa!
