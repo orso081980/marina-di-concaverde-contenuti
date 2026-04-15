@@ -36,7 +36,7 @@ La Gallura ha una **vita notturna per ogni gusto**: dalla serata tranquilla con 
 
 ## Aperitivo al Tramonto
 
-L'esperienza più bella della Gallura non ha prezzo: l'**aperitivo al tramonto** sulla costa Ovest direttamente spiaggia a Rena Mjore dalle imponentti scogliere granitiche del Faro di Capo Testa con vista sulle coste della Corsica che si tingono di rosso e arancione.
+L'esperienza più bella della Gallura non ha prezzo: l'**aperitivo al tramonto** sulla costa Ovest direttamente in spiaggia a Rena Majore o dalle imponentti scogliere granitiche del Faro di Capo Testa con vista sulle coste della Corsica che si tingono di rosso e arancione.
 
 Molti bar sul lungomare di Palau e nel centro Santa Teresa offrono aperitivi con musica e divertimento.
 
