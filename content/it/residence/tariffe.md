@@ -21,15 +21,16 @@ hero:
 textBlock:
   eyebrow: "Tariffe Estate"
   title: "Prezzi trasparenti, nessuna sorpresa"
+  testo: "Per confermare la prenotazione ti invieremo via mail il contratto di locazione con il prezzo totale chiaro e senza sorprese. Inviaci le date che ti interessano e il numero di persone, ti risponderemo consigliandoti la migliore soluzione per le tue esigenze.
 stats:
-  - value: "Bassa Stagione"
-    label: "Giugno & Settembre"
-  - value: "Media Stagione"
-    label: "Luglio"
-  - value: "Alta Stagione"
-    label: "Agosto"
-  - value: "Min. 7 notti"
-    label: "Soggiorno minimo"
+  - value: "La Stagione dei Fiori"
+    label: "Maggio e Giugno"
+  - value: "L'estate piu bella"
+    label: "Luglio & Agosto"
+  - value: "La vacnza per rilassarsi"
+    label: "Settembre"
+  - value: "Sempre Tranquilla"
+    label: "Fuori dalle rotte commerciali"
 pricingData:
   accommodations:
     - type: "Trilo Indipendente"
