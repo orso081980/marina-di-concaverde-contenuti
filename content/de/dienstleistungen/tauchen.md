@@ -2,7 +2,7 @@
 title: "Tauchen — Marina di Conca Verde, Porto Pozzo"
 description: "Tauchkurse und -ausflüge in Gallura zwischen Santa Teresa Gallura und Palau. Spektakuläre Meeresgründe, Meereshöhlen, Posidonienbetten und artenreiche Fauna. Für Anfänger und erfahrene Taucher."
 translations:
-  it: "/servizi/diving"
+  it: "/unamicoingallura/diving"
   en: "/services/diving"
   de: "/dienstleistungen/tauchen"
   fr: "/services/diving"

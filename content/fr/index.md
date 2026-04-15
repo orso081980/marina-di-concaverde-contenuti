@@ -1,6 +1,11 @@
 ---
 title: Marina di Conca Verde — Porto Pozzo, Sardaigne
 description: Résidence avec bungalows indépendants en bord de mer à Porto Pozzo, Santa Teresa Gallura, Sardaigne.
+translations:
+  it: "/"
+  en: "/"
+  de: "/"
+  fr: "/"
 hero:
   eyebrow: Bienvenue à
   title: Marina di Conca Verde

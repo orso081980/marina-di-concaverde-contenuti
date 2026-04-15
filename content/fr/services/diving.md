@@ -2,7 +2,7 @@
 title: "Plongée — Marina di Conca Verde, Porto Pozzo"
 description: "Cours et sorties de plongée en Gallura entre Santa Teresa Gallura et Palau. Fonds marins spectaculaires, grottes marines, posidonies et faune riche. Pour débutants et plongeurs expérimentés."
 translations:
-  it: "/servizi/diving"
+  it: "/unamicoingallura/diving"
   en: "/services/diving"
   de: "/dienstleistungen/tauchen"
   fr: "/services/diving"

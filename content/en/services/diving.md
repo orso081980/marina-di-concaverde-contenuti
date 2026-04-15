@@ -2,7 +2,7 @@
 title: "Diving — Marina di Conca Verde, Porto Pozzo"
 description: "Diving courses and trips in Gallura between Santa Teresa Gallura and Palau. Spectacular seabeds, sea caves, posidonia and rich wildlife. For beginners and experienced divers."
 translations:
-  it: "/servizi/diving"
+  it: "/unamicoingallura/diving"
   en: "/services/diving"
   de: "/dienstleistungen/tauchen"
   fr: "/services/diving"
