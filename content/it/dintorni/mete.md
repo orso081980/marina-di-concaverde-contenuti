@@ -25,7 +25,7 @@ stats:
   - value: "La Maddalena"
     label: "Arcipelago in barca"
   - value: "Bonifacio"
-    label: "Corsica, 20 min in traghetto"
+    label: "Corsica, 50 min in traghetto"
   - value: "Spiaggia Rosa"
     label: "Budelli, icona sarda"
   - value: "Costa Smeralda"
