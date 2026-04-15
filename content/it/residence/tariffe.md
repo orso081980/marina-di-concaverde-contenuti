@@ -27,7 +27,7 @@ stats:
     label: "Maggio e Giugno"
   - value: "L'estate piu bella"
     label: "Luglio & Agosto"
-  - value: "La vacnza per rilassarsi"
+  - value: "La vacanza per rilassarsi"
     label: "Settembre"
   - value: "Sempre Tranquilla"
     label: "Fuori dalle rotte commerciali"
