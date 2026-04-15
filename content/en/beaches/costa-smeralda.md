@@ -66,4 +66,4 @@ In high season, finding parking near the most famous beaches can be difficult. W
 - Using our **NCC transfer service**
 - Organising a **boat trip** to reach the coves from the sea
 
-[Book a transfer →](/services/ncc)
+[Book a transfer →](/en/services/ncc)
