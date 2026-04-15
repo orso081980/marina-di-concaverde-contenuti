@@ -41,25 +41,23 @@ pricingData:
       bedrooms: 2
       bathrooms: 1
       capacity: "4"
-    - type: "Bilo 4"
+    - type: "Bilo Angolare"
       bedrooms: 1
       bathrooms: 1
       capacity: "2+2"
-    - type: "Bilo 3"
+    - type: "Bilo "
       bedrooms: 1
       bathrooms: 1
-      capacity: "2+1"
-  testo: "I prezzi si intendono a settimana, per 4 persone. Soggiorni da minimo 3 notti. Offerte speciali disponibili per soggiorni più lunghi e prenotazioni anticipate."
+      capacity: "2"
+  testo: "Tutte le nostre villette sono dotate di veranda esterna con barbecue, Aria condizionta, TV, lavatrice e posto auto"
   supplements:
     - service: "Forfait Servizi"
       cost: "€ 22 per Persona/Settimana"
     - service: "Biancheria letto/bagno"
-      cost: "€ 20"
+      cost: "€ 20 a persona/cambio"
     - service: "Pulizia Finale Bilocale"
       cost: "€ 70"
     - service: "Pulizia Finale Trilocale"
-      cost: "€ 90"
-    - service: "Test"
       cost: "€ 90"
 ---
 ::PricingTable 
