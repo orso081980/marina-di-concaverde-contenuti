@@ -1,6 +1,6 @@
 ---
 title: "Il Residence — Marina di Conca Verde, Porto Pozzo"
-description: "Villette in stile Stazzu Gallurese sul fiordo naturale di Porto Pozzo. Granito sardo a vista, legno massiccio, a pochi minuti dall'arcipelago de La Maddalena."
+description: "Villette in stile Stazzu Gallurese sul fiordo naturale di Porto Pozzo. Granito sardo a vista, arredi in legno massiccio, a pochi minuti dalla spiaggia e dalle Isole dell'arcipelago de La Maddalena."
 translations:
   it: "/residence"
   en: "/residence"
