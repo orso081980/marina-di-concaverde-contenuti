@@ -30,7 +30,7 @@ stats:
   - value: "La Maddalena"
     label: "15 min in barca"
   - value: "Bonifacio"
-    label: "Corsica, 20 min in barca"
+    label: "Corsica, 50 min in traghetto"
   - value: "Palau"
     label: "15 km dal residence"
 ---
@@ -41,7 +41,7 @@ Conca Verde si trova in uno dei territori più ricchi e affascinanti della Sarde
 
 ### Santa Teresa Gallura (10 km)
 
-Il principale centro urbano della zona, un vivace borgo di mare con un caratteristico centro storico, negozi di artigianato, ristoranti di pesce e la magnifica **spiaggia di Rena Bianca** con vista su Bonifacio e le coste della Corsica.
+Il principale centro urbano della zona, un vivace borgo di mare con un caratteristico centro storico, negozi di artigianato, ristoranti di pesce e la magnifica **spiaggia di Rena Bianca** con vista sulle inconfondibili falesie bianche di Bonifacio e le montagne della Corsica.
 
 La bellissima **torre spagnola di Longonsardo** domina il promontorio e regala uno dei panorami più iconici del nord Sardegna.
 
