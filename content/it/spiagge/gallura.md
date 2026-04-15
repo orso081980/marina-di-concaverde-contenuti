@@ -20,38 +20,35 @@ hero:
     href: "/servizi/escursioni"
 
 textBlock:
-  eyebrow: "Il Litorale della Gallura"
+  eyebrow: "Da EST a OVEST la costa della Gallura"
   title: "Sabbia bianca, granito rosa, acqua turchese"
 stats:
   - value: "Rena Bianca"
     label: "Santa Teresa Gallura, 10 km"
   - value: "Capo Testa"
-    label: "Promontorio iconico, 12 km"
+    label: "Paesaggio lunare, 12 km"
   - value: "Porto Pollo"
-    label: "Kite e windsurf, 20 km"
+    label: "Kite e windsurf, 15 km"
   - value: "Palau"
-    label: "Porto per La Maddalena, 15 km"
+    label: "La roccia dell'Orso, 15 km"
 ---
 
-La Gallura è la patria delle spiagge più belle della Sardegna. Sabbia bianca finissima, massi di granito rosa levigati dall'erosione e acque che assumono decine di sfumature di blu e verde: un paesaggio costiero unico al mondo.
+La Gallura è la patria delle spiagge più belle del mediterraneo. Sabbia bianca, roccie di granito rosa levigate dal vento di Maestrale e ginepri secolari: un paesaggio costiero unico al mondo.
 
 ## Le Spiagge Più Vicine
 
 ### Rena Bianca — Santa Teresa Gallura (10 km)
 
-La spiaggia principale di Santa Teresa Gallura, nel centro della cittadina. Ampia, attrezzata, con stabilimenti balneari, bar e ristoranti nelle immediate vicinanze. Dal lungomare si vede la Corsica.
+La spiaggia principale di Santa Teresa Gallura, nel centro della cittadina. Ampia, attrezzata, con stabilimenti balneari, bar e ristoranti nelle immediate vicinanze. Dal lungomare si vede la Corsica. Spiaggia a ingresso contingentato.
 
 ### Capo Testa (12 km)
 
-Un promontorio di granito scolpito dal vento, con calette nascoste e panorami mozzafiato sulle Bocche di Bonifacio. Una delle mete più fotografate della Sardegna.
+Una penisola di granito scolpita dal vento, con calette nascoste e panorami mozzafiato sulle Bocche di Bonifacio. Una delle mete più fotografate della Sardegna.
 
-### Cala Spinosa (13 km)
-
-Piccola e raccolta, raggiungibile a piedi da Capo Testa. Acque limpidissime e fondale di sabbia bianca.
 
 ### Porto Pollo (20 km)
 
-La mecca del kitesurf e windsurf in Sardegna, grazie al vento costante del Maestrale. Even senza tavola, la spiaggia è spettacolare.
+La mecca del kitesurf e windsurf in Sardegna, grazie al vento di Maestrale. Anche senza senza tavola, la spiaggia è spettacolare.
 
 ### Palau (15 km)
 
@@ -59,6 +56,4 @@ Cittadina vivace con spiagge attrezzate, porto turistico e partenza per i traghe
 
 ## Come Spostarsi
 
-La maggior parte di queste spiagge è raggiungibile **in auto in 15–25 minuti** dal residence. Per chi preferisce non guidare, organizziamo **transfer e noleggio auto** su richiesta.
-
-[Rent a Car / NCC →](/servizi/ncc)
+La maggior parte di queste spiagge è raggiungibile **in auto in 10–25 minuti** dal residence. 
