@@ -7,9 +7,9 @@ translations:
   de: "/preise"
   fr: "/rates"
 hero:
-  eyebrow: "Prezzi · Stagione 2025"
-  title: "Tariffe"
-  subtitle: "Soggiorni in villette Stazzu Gallurese sul fiordo di Porto Pozzo. Prezzi per stagione."
+  eyebrow: "L'estate ti aspetta"
+  title: "Tariffe su misura"
+  subtitle: "Fai un preventivo subito grazie al calendario online"
   image: "/img/1298.jpg"
   imageAlt: "Villetta Marina di Conca Verde"
   primaryCta:
@@ -19,7 +19,7 @@ hero:
     label: "Scopri le Villette"
     href: "/villette"
 textBlock:
-  eyebrow: "Tariffe 2025"
+  eyebrow: "Tariffe Estate"
   title: "Prezzi trasparenti, nessuna sorpresa"
 stats:
   - value: "Bassa Stagione"
