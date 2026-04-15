@@ -8,7 +8,7 @@ translations:
   fr: "/surroundings"
 hero:
   eyebrow: "Gallura · Sardegna"
-  title: "Nei Dintorni"
+  title: "Dintorni"
   subtitle: "Ristoranti, agriturismi, spiagge, isole e itinerari nella Gallura più autentica."
   gallery: ["/img/1370.jpg", "/img/mete.jpg", "/img/percorsi.jpg"]
   altGallery: ["Dintorni Porto Pozzo Gallura", "Mete preferite Gallura", "Percorsi Sardegna"]
