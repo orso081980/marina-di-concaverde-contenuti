@@ -48,7 +48,7 @@ navItems:
       - label: "I Traghetti"
         href: "/unamicoingallura/traghetti"
         icon: "ship"
-  - label: "Nei Dintorni"
+  - label: "Dintorni"
     href: "/dintorni"
     children:
       - label: "Il Parco di Capo Testa"
