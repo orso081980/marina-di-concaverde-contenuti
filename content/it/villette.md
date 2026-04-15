@@ -21,6 +21,7 @@ hero:
 textBlock:
   eyebrow: "Le Villette"
   title: "Tradizione gallurese. qualità senza tempo, atmosfera rilassante e comfort."
+  testo: "Tutte le villette sono pensate per vivere al meglio l'estate in Sardegna. Ampie verande esterne arredate per cenare all'aperto, barbecue, doccia esterna, cucine dotate di tutto il necessario e aria condizionata."
 stats:
   - value: "Bilocale"
     label: "Fino a 2 persone"
