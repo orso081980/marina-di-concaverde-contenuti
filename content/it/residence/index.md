@@ -33,6 +33,7 @@ stats:
 ---
 
 La residenza Marina di Conca Verde è un piccolo borgo sul mare composto da villette in tipico stile "Stazzu" Gallurese, completamente rivestite in granito Sardo ed immerse nella vegetazione. L’arredo pulito e ordinato, in stile barcaiolo, con armadi a muro e rivestimenti in legno massiccio.
+
 Situato in località Conca Verde, una piccola zona residenziale a metà strada tra Santa Teresa Gallura e Palau direttamente di fronte alle Isole dell'arcipelago di La Maddalena raggiungibili in 15 minuti noleggiando un gommone direttamente dalla spiaggia.
 
 Le caratteristiche calette distano 300mt. Per i più esigenti, la spiaggia attrezzata con lettini, ombrelloni e beach bar dista 1 km facilemente percorribile a piedi sul tranquillo lungomare di Conca Verde.
