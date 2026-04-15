@@ -2,7 +2,7 @@
 title: "Dienstleistungen — Marina di Conca Verde, Porto Pozzo"
 description: "Alle Dienstleistungen der Anlage: Rezeption, NCC-Transfer, Ausflüge, Tauchen, Mountainbike. Alles für einen unvergesslichen Urlaub in Gallura."
 translations:
-  it: "/servizi"
+  it: "/unamicoingallura"
   en: "/services"
   de: "/dienstleistungen"
   fr: "/services"

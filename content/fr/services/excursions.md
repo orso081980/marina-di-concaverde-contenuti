@@ -2,7 +2,7 @@
 title: "Excursions — Marina di Conca Verde, Porto Pozzo"
 description: "Excursions en bateau vers l'archipel de La Maddalena, à cheval dans le maquis, en quad, windsurf, kitesurf et pêche avec déjeuner à bord. Activités pour tous depuis Porto Pozzo."
 translations:
-  it: "/servizi/escursioni"
+  it: "/unamicoingallura/escursioni"
   en: "/services/excursions"
   de: "/dienstleistungen/ausfluege"
   fr: "/services/excursions"

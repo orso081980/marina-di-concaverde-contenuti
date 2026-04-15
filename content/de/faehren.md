@@ -2,7 +2,7 @@
 title: "Fähren — Nach und von Sardinien, Santa Teresa Gallura"
 description: "Informationen und Buchungslinks für Fähren nach Sardinien: Verbindungen von Civitavecchia, Livorno, Genua, Palermo nach Olbia und Porto Torres. Fähren Santa Teresa–Bonifacio nach Korsika."
 translations:
-  it: "/servizi/traghetti"
+  it: "/unamicoingallura/traghetti"
   en: "/ferries"
   de: "/faehren"
   fr: "/ferries"

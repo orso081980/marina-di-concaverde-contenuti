@@ -2,7 +2,7 @@
 title: "Ferries — Vers et depuis la Sardaigne, Santa Teresa Gallura"
 description: "Informations et liens de réservation pour les ferries vers la Sardaigne : liaisons depuis Civitavecchia, Livourne, Gênes, Palerme vers Olbia et Porto Torres. Ferries Santa Teresa–Bonifacio pour la Corse."
 translations:
-  it: "/servizi/traghetti"
+  it: "/unamicoingallura/traghetti"
   en: "/ferries"
   de: "/faehren"
   fr: "/ferries"

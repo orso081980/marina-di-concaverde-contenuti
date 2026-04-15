@@ -2,7 +2,7 @@
 title: "Reception — Marina di Conca Verde, Porto Pozzo"
 description: "The residence reception service: assisted check-in, personalised advice, taxi booking, transfer, excursions and car hire in Gallura."
 translations:
-  it: "/servizi/accoglienza"
+  it: "/unamicoingallura/accoglienza"
   en: "/services/reception"
   de: "/dienstleistungen/rezeption"
   fr: "/services/reception"

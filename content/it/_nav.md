@@ -1,5 +1,5 @@
 ---
-ferryHref: "/servizi/traghetti"
+ferryHref: "/unamicoingallura/traghetti"
 navItems:
   - label: "Il Residence MCV"
     href: "/residence"
@@ -88,7 +88,7 @@ quickLinks:
   - icon: "🤝"
     label: "Un Amico in Gallura"
     sublabel: "Servizi e attività"
-    href: "/servizi"
+    href: "/unamicoingallura"
     image: "/img/1367.jpg"
 
 pageLinks:
@@ -103,13 +103,13 @@ pageLinks:
     href: "/villette"
   - icon: "bell-concierge"
     label: "I Servizi"
-    href: "/servizi"
+    href: "/unamicoingallura"
   - icon: "sailboat"
     label: "Le Escursioni"
-    href: "/servizi/escursioni"
+    href: "/unamicoingallura/escursioni"
   - icon: "ship"
     label: "I Traghetti"
-    href: "/servizi/traghetti"
+    href: "/unamicoingallura/traghetti"
   - icon: "map-location-dot"
     label: "I Dintorni"
     href: "/dintorni"

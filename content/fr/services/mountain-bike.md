@@ -2,7 +2,7 @@
 title: "VTT — Marina di Conca Verde, Porto Pozzo"
 description: "Location de VTT et parcours en Gallura. Sentiers côtiers, pistes dans le maquis méditerranéen et itinéraires dans la campagne gallurese."
 translations:
-  it: "/servizi/mountain-bike"
+  it: "/unamicoingallura/mountain-bike"
   en: "/services/mountain-bike"
   de: "/dienstleistungen/mountainbike"
   fr: "/services/mountain-bike"

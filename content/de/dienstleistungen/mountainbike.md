@@ -2,7 +2,7 @@
 title: "Mountainbike — Marina di Conca Verde, Porto Pozzo"
 description: "Mountainbikeverleih und Routen in Gallura. Küstenpfade, Trails durch das mediterrane Buschwerk und Strecken in der gallurese Landschaft."
 translations:
-  it: "/servizi/mountain-bike"
+  it: "/unamicoingallura/mountain-bike"
   en: "/services/mountain-bike"
   de: "/dienstleistungen/mountainbike"
   fr: "/services/mountain-bike"
