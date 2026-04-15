@@ -42,22 +42,22 @@ Soggiornare a Marina di Conca Verde significa avere il privilegio di essere al c
 
 Il fiordo di Porto Pozzo è costellato di calette nascoste, raggiungibili a piedi o via mare. Acque cristalline, fondali bassi e sabbiosi: perfette per famiglie e per chi cerca la quiete lontano dalla folla.
 
-[Scopri le calette →](/spiagge/calette)
+[Scopri le calette →](/it/spiagge/calette)
 
 ## Arcipelago della Maddalena
 
 A soli **15 minuti di gommone** dal residence si apre il Parco Nazionale dell'Arcipelago della Maddalena: Spargi, Budelli con la celebre spiaggia rosa, Santa Maria, Razzoli. Un paradiso protetto di rara bellezza.
 
-[Scopri l'Arcipelago →](/spiagge/maddalena)
+[Scopri l'Arcipelago →](/it/spiagge/maddalena)
 
 ## Spiagge della Gallura
 
 La Gallura offre chilometri di spiagge tra le più belle del Mediterraneo. Dalle dune di Rena Majore attraverso l'area marina protetta di Capo Testa per arrivare a Palau alle porte della Costs Smeralda: ogni spiaggia ha il suo carattere, tra granito rosa, acqua turchese e natura incontaminata.
 
-[Scopri le spiagge →](/spiagge/gallura)
+[Scopri le spiagge →](/it/spiagge/gallura)
 
 ## Costa Smeralda
 
 A soli 45 minuti di auto si raggiunge la rinomata **Costa Smeralda**: Porto Cervo, Cala di Volpe, Capriccioli. Un'escursione imperdibile anche solo per un giorno.
 
-[Scopri la Costa Smeralda →](/spiagge/costa-smeralda)
+[Scopri la Costa Smeralda →](/it/spiagge/costa-smeralda)
