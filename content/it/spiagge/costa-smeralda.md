@@ -47,7 +47,7 @@ La spiaggia più lunga della Costa Smeralda (circa 800 m). Sabbia bianca finissi
 
 ### Cala di Volpe
 
-La caletta nella baia davanti all'omonimo hotel, uno dei più famosi al mondo. Acque cristalline e paesaggio da cartolina.
+La caletta nella baia davanti all'omonimo hotel, uno dei più famosi al mondo. 
 
 ### Cala Granu
 
@@ -56,13 +56,3 @@ Una delle calette più esclusive, con acqua verde smeraldo — da qui, forse, il
 ## Porto Cervo
 
 Il cuore mondano della Costa Smeralda. Il centro storico con le caratteristiche architetture mediterranee, la Piazzetta con i caffè e le boutique, il porto pieno di yacht di lusso. Anche solo una passeggiata serale vale la visita.
-
-## Come Arrivare
-
-In alta stagione, trovare parcheggio vicino alle spiagge più famose può essere difficile. Consigliamo di:
-
-- Partire **presto al mattino** (prima delle 10)
-- Utilizzare il nostro **servizio di transfer** con NCC
-- Organizzare una **gita in barca** che permette di raggiungere le calette dal mare
-
-[Prenota il transfer →](/servizi/ncc)
