@@ -24,10 +24,10 @@ textBlock:
 stats:
   - value: "+39 348 3509574"
     label: "Telefono & WhatsApp"
-  - value: "Porto Pozzo"
+  - value: "Conca Verde"
     label: "Santa Teresa Gallura (SS)"
-  - value: "24h"
-    label: "Risposta email"
+  - value: "Fai un preventivo online H24"
+    label: "Oppure invia una e-mail"
 ---
 
 ## Contatti
