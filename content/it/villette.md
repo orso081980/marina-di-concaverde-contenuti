@@ -60,7 +60,7 @@ typeGalleries:
       - "Ampio solarium e deck in legno"
       - "Vista mare"
       - "Ampio soggiorno con divano letto"
-      - "fino a 4 posti letto" 
+      - "fino a 4 posti letto"
     images:
       - "/img/1373.jpg"
       - "/img/1374.jpg"
@@ -142,4 +142,4 @@ Libera su **3 lati**, con 4 posti letto e ampio solarium vista mare.
 
 ## Animali Domestici
 
-Gli animali domestici sono ammessi solo in alcuni periodi ed esclusivamente previa autorizzaione scritta. È previsto un supplemento pulizia. 
+Gli animali domestici sono ammessi solo in alcuni periodi ed esclusivamente previa autorizzaione scritta. È previsto un supplemento pulizia.
