@@ -30,7 +30,7 @@ stats:
     label: "Paesaggi unici"
   - value: "Guide Locali"
     label: "Posti introvabili"
-
+---
 
 La bicicletta è senz'altro uno dei **mezzi migliori per prendere contatto con la natura** ed esplorare le zone più incontaminate e belle della Gallura. Dai sentieri costieri panoramici alle piste sterrate nell'entroterra, ogni pedalata diventa un'avventura visiva.
 
