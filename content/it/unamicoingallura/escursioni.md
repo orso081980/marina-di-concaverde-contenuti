@@ -1,6 +1,6 @@
 ---
 title: "Escursioni — Marina di Conca Verde, Porto Pozzo"
-description: "Escursioni in barca all'arcipelago de La Maddalena, a cavallo nella macchia, in quad, wind surf, kite surf e pesca con pranzo a bordo. Attività per tutti dalla base di Porto Pozzo."
+description: "Escursioni in barca con pranzo a bordo all'arcipelago de La Maddalena, a cavallo nella macchia, in kayak, wind surf, kite surf e pesca sportiva."
 translations:
   it: "/unamicoingallura/escursioni"
   en: "/services/excursions"
@@ -13,7 +13,7 @@ hero:
   image: "/img/escursioni.jpg"
   imageAlt: "Escursione in barca arcipelago La Maddalena"
   primaryCta:
-    label: "Prenota un'Escursione"
+    label: "Contattaci"
     href: "/residence/contatti"
   secondaryCta:
     label: "Info Traghetti"
@@ -25,16 +25,16 @@ stats:
   - value: "Barca a Vela"
     label: "Arcipelago La Maddalena"
   - value: "A Cavallo"
-    label: "Nella macchia gallur."
+    label: "Nella macchia gallurese"
   - value: "Wind & Kite"
     label: "Sport acquatici"
   - value: "Pesca"
-    label: "Con pranzo a bordo"
+    label: "d'altura"
 ---
 
-Qualsiasi sia la tua passione oppure la curiosità di provare una nuova esperienza abbiamo a disposizione un fantastico ventaglio di attività.
+Qualsiasi sia la tua passione oppure la curiosità di provare una nuova esperienza possiamo suggerirti un fantastico ventaglio di attività.
 
-Escursioni a **cavallo**, in **mountain bike**, in **quad**, in **barca a vela** o una gita alle isole.
+Escursioni a **cavallo**, in **mountain bike**, in **kyak**, in **barca a vela** o una gita alle isole.
 
 <div style="margin: 2rem 0;"></div>
 
@@ -43,8 +43,8 @@ Escursioni a **cavallo**, in **mountain bike**, in **quad**, in **barca a vela**
 - **🏄‍♂️ Scuole di wind surf e kite surf**  
   Impara gli sport acquatici con istruttori certificati nelle acque cristalline della Gallura
 
-- **🎣 Una battuta di pesca con pranzo a bordo**  
-  Esperienza autentica di pesca tradizionale con pranzo preparato con il pescato fresco
+- **🎣 Una battuta di pesca d'altura**  
+  Esperienza autentica di pesca adrenalinica
 
 - **🏛️ Una passeggiata al parco archeologico ed alle tombe dei giganti**  
   Scopri la storia nuragica della Sardegna in un contesto naturalistico unico
