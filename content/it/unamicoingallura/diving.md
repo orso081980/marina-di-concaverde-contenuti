@@ -13,7 +13,7 @@ hero:
   image: "/img/diving.jpg"
   imageAlt: "Diving fondali Gallura Sardegna"
   primaryCta:
-    label: "Prenota un'immersione"
+    label: "Contattaci"
     href: "/residence/contatti"
   secondaryCta:
     label: "Tutti i Servizi"
