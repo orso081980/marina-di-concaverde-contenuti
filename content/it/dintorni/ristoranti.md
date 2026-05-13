@@ -53,7 +53,7 @@ Il centro di Santa Teresa Gallura offre una vivace scena gastronomica con decine
 **Cucina tipica gallurese:**
 
 - _Zuppa gallurese_ (suppa cuata): pane casereccio, brodo di carne e formaggio gratinato al forno — il piatto simbolo della tradizione
-- _Culurgiones_ ogliastrini: ravioli ripieni di patate, pecorino e menta
+- Ravioli Galluresi: ravioli ripieni di ricotta, scorza di limone e zucchero.
 - _Maialetto allo spiedo_: maialino da latte arrostito lentamente su spiedo con aromi di mirto.
 
 **Pesce e frutti di mare:**
