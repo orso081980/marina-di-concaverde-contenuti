@@ -33,7 +33,7 @@ stats:
     label: "La spiaggia più amata"
 ---
 
-A soli **45 minuti di auto** dal residence si entra in uno dei tratti di costa più celebri del mondo: la **Costa Smeralda**. Fondata negli anni '60 dall'Aga Khan, questo angolo di costa gallurese ha ridefinito il concetto di vacanze di lusso nel mediterraneo.
+A soli **45 minuti di auto** dal residence si entra in uno dei tratti di costa più celebri al mondo: la **Costa Smeralda**. Fondata negli anni '60 dall'Aga Khan, questo angolo di costa gallurese ha ridefinito il concetto di vacanze di lusso nel mediterraneo.
 
 ## Le Spiagge Imperdibili
 
