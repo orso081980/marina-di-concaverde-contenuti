@@ -37,12 +37,3 @@ La bicicletta è senz'altro uno dei **mezzi migliori per prendere contatto con l
 ##  Mountain Bike
 
 Possiamo suggerirti le migliori attività di noleggio di mountain bike elettriche o tradizionali ma soprattutto le migliori guide per scoprire posti nascosti e introvabili.
-
-
-
-- Parti sempre con abbondante **acqua** (almeno 1 litro per uscita)
-- Indossa il **casco** (obbligatorio con le bici noleggiate dal residence)
-- Una leggera **giacca a vento** è consigliata per le discese mattutine
-- Le ore migliori: **7:00–10:00** e **17:00–20:00** (fresco e luce dorata)
-- In agosto evita le ore centrali della giornata
-- Scarpe chiuse obbligatorie su sentieri tecnici
