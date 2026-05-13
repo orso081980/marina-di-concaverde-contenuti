@@ -58,7 +58,7 @@ Un tipico pranzo in agriturismo nella Gallura comprende:
 
 ### Dolci
 
-- **Seadas**: pastella fritta ripiena di formaggio fresco e ricoperta di miele
+- **Seadas**: pastella fritta ripiena di formaggio fresco e ricoperta di miele o zucchero
 - **Papassini**: tipici dolci secchi glassati
   
 
