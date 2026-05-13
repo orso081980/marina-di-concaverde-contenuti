@@ -9,11 +9,11 @@ translations:
 hero:
   eyebrow: "Servizi · Diving"
   title: "Diving"
-  subtitle: "I fondali più belli del Mediterraneo, tra Santa Teresa Gallura e Palau, a pochi minuti dal residence."
+  subtitle: "I fondali più belli del Mediterraneo, tra Capo Testa, Santa Teresa Gallura e Palau, a pochi minuti dal residence."
   image: "/img/diving.jpg"
   imageAlt: "Diving fondali Gallura Sardegna"
   primaryCta:
-    label: "Prenota un'Uscita"
+    label: "Prenota un'immersione"
     href: "/residence/contatti"
   secondaryCta:
     label: "Tutti i Servizi"
@@ -22,8 +22,6 @@ textBlock:
   eyebrow: "Diving"
   title: "Esplora i fondali della Gallura"
 stats:
-  - value: "Certificato PADI"
-    label: "Istruttori qualificati"
   - value: "Grotte Marine"
     label: "Siti spettacolari"
   - value: "Poseidonia"
@@ -32,7 +30,7 @@ stats:
     label: "Tutti i livelli"
 ---
 
-Tra **Santa Teresa Gallura** e **Palau** sono molteplici le scuole e i centri diving autorizzati per portarvi ad esplorare i fondali più belli e pieni di vita da far concorrenza alla barriera corallina dei posti più esotici.
+Tra **Santa Teresa Gallura** e **Palau** sono molteplici le scuole e i centri diving autorizzati per portarvi ad esplorare i fondali più belli e pieni di vita marina.
 
 Che sia un’uscita di mezza giornata o un corso intero per prendere il brevetto o migliorare le proprie conoscenze.
 
