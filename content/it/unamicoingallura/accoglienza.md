@@ -1,6 +1,6 @@
 ---
 title: "Accoglienza — Marina di Conca Verde, Porto Pozzo"
-description: "Il servizio di accoglienza del residence: check-in assistito, consigli personalizzati, prenotazione taxi, transfer, escursioni e noleggio auto in Gallura."
+description: "Il servizio di accoglienza del residence: check-in su appuntamento, info sulle attività, spiagge e ristoranti in Gallura."
 translations:
   it: "/unamicoingallura/accoglienza"
   en: "/services/reception"
@@ -9,7 +9,7 @@ translations:
 hero:
   eyebrow: "Servizi · Accoglienza"
   title: "Accoglienza"
-  subtitle: "Il nostro team è a disposizione per rendere il tuo soggiorno assolutamente perfetto."
+  subtitle: "Siamo a disposizione per rendere il tuo soggiorno assolutamente perfetto."
   image: "/img/reception-2.jpg"
   imageAlt: "Reception Marina di Conca Verde"
   primaryCta:
@@ -22,16 +22,16 @@ textBlock:
   eyebrow: "Reception"
   title: "Il tuo punto di riferimento in vacanza"
 stats:
-  - value: "08:00–20:00"
-    label: "Orari reception"
-  - value: "🇮🇹, 🇬🇧, 🇩🇪"
+  - value: "Assistenza in loco"
+    label: "anche via whatsapp"
+  - value: "🇮🇹, 🇬🇧, ES"
     label: "Lingue parlate"
-  - value: "Consiglio locale"
+  - value: "Consigli Local"
     label: "Esperienza autentica"
-  - value: "Prenotazioni"
-    label: "Taxi, escursioni, auto"
+  - value: "Informazioni"
+    label: "Spiagge, escursioni, ristornati"
 ---
 
-Siamo a disposizione per le attività di check-in, assistenza durante tutta la permanenza e consigli per goderti al massimo la vacanza.
+Durante il check-in vi illustreremo le informazioni sulla zona, le spiagge e le attività da non perdere.
 
-Non esitare a contattarci telefonicamente anche per consigli su dove andare e come programmare le giornate. Attraverso di noi puoi prenotare Taxi, servizi transfer, escursioni, noleggio auto e mountain bike.
+Raggiungibili anche su Whatsapp per consigli su dove andare e come programmare le giornate. 
