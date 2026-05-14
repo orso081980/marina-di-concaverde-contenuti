@@ -24,7 +24,7 @@ textBlock:
 stats:
   - value: "Assistenza in loco"
     label: "anche via whatsapp"
-  - value: "🇮🇹, 🇬🇧, ES"
+  - value: "🇮🇹, 🇬🇧, 🇪🇸"
     label: "Lingue parlate"
   - value: "Consigli Local"
     label: "Esperienza autentica"
@@ -34,4 +34,4 @@ stats:
 
 Durante il check-in vi illustreremo le informazioni sulla zona, le spiagge e le attività da non perdere.
 
-Raggiungibili anche su Whatsapp per consigli su dove andare e come programmare le giornate. 
+Raggiungibili anche su Whatsapp per consigli su dove andare e come programmare le giornate.
