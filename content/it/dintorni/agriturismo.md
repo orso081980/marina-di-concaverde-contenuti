@@ -75,4 +75,4 @@ Gli agriturismi della Gallura si trovano sparpagliati nell'entroterra, da 10 a 5
 
 ## Vendita Diretta
 
-Molti agriturismi vendono anche i loro prodotti direttamente in azienda: formaggi, insaccati, miele, conserve, liquori e vini. Un ottimo souvenir commestibile da portare a casa!
+Molti agriturismi vendono anche i loro prodotti direttamente in azienda: formaggi, insaccati, miele, conserve, liquori e vini. Un ottimo souvenir da gustare una volta rientrati a casa!
