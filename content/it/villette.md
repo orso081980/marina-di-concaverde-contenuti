@@ -42,6 +42,7 @@ typeGalleries:
       - "Veranda esterna vivibile con Barbecue"
       - "Aria Condizionata"
     images:
+      - "/img/IMG_3071r.JPG"
       - "/img/IMG_8838.JPG"
       - "/img/IMG_3060r.jpg"
       - "/img/IMG_2215b.JPG"
