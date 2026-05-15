@@ -10,7 +10,7 @@ hero:
   eyebrow: "Alloggi · Gallura"
   title: "Le Villette"
   subtitle: "In stile Stazzu Gallurese: granito sardo a vista, legno massiccio e la natura tutt'intorno."
-  image: "/img/1297.jpg"
+  image: "/img/IMG_3131r.jpg"
   imageAlt: "Villette del residence Marina di Conca Verde"
   primaryCta:
     label: "Tariffe e Disponibilità"
