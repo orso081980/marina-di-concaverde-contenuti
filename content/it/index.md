@@ -10,7 +10,7 @@ hero:
   eyebrow: "Gallura · Sardegna"
   title: "Marina di Conca Verde"
   subtitle: "Sul fiordo di Porto Pozzo, di fronte all'arcipelago de La Maddalena."
-  gallery: ["/img/9043693.jpg", "/img/1028.jpg", "/img/9043698.jpg", "/img/9043705.jpg", "/img/IMG_8720r.JPG", "/img/IMG_3071r.JPG", "/img/IMG_8768rr.JPG"]
+  gallery: ["/img/9043693.webp", "/img/1028.jpg", "/img/9043698.webp", "/img/9043705.webp", "/img/IMG_8720r.JPG", "/img/IMG_3071r.JPG", "/img/IMG_8768rr.JPG", "/img/9043704.jpg"]
   altGallery: ["Marina di Conca Verde", "Porto Pozzo", "Spiaggia"]
   galleryCta:
     label: "Apri la galleria"
