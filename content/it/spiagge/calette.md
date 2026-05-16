@@ -10,7 +10,7 @@ hero:
   eyebrow: "Spiagge · Conca Verde"
   title: "Le Calette di Conca Verde"
   subtitle: "Situate lungo il fiordo naturale di Porto Pozzo, le numerose calette di Conca Verde si frastagliano lungo tutta la costa. Minuscole insenature con bassi fondali sabbiosi adatte anche ai piu piccoli."
-  image: "/img/1285.jpg"
+  image: "/img/9043700.jpg"
   imageAlt: "Calette di Conca Verde Porto Pozzo Gallura"
   primaryCta:
     label: "Noleggia un Gommone"
