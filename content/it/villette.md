@@ -100,6 +100,7 @@ typeGalleries:
       - "/img/MCV Can S90 (231).JPG"
       - "/img/1302.jpg"
       - "/img/IMG_7360r.jpg"
+      - "/img/bagno [800x600].jpg"
     altGallery:
       - "Villetta Trilocale — esterno"
       - "Villetta Trilocale — veranda"
