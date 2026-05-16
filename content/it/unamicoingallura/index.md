@@ -8,9 +8,9 @@ translations:
   fr: "/services"
 hero:
   eyebrow: "Gallura · Sardegna"
-  title: "I Servizi"
-  subtitle: "Tutto ciò di cui hai bisogno per vivere al meglio la tua vacanza in Sardegna."
-  image: "/img/1361.jpg"
+  title: "Local Expertise"
+  subtitle: "Tutto le informazioni di cui hai bisogno per vivere al meglio la tua vacanza in Sardegna."
+  image: "/img/cinquecento.jpg"
   imageAlt: "Servizi Marina di Conca Verde"
   primaryCta:
     label: "Prenota il Soggiorno"
@@ -34,6 +34,6 @@ stats:
 
 Siamo qui per te.
 
-Affittare una Villetta presso Marina di Conca Verde significa anche avere a disposizione una serie di consigli essenziali per passare la tua vacanza in tranquillità e con il supporto di chi conosce tutte le attività e i migliori posti da visitare. Non dimenticare di assaporare o vivere almeno alcune di queste opportunità: agriturismi, escursioni organizzate, kayak, diving, kite surfing, uscite in barca a vela ed a cavallo.
+Soggiornare in una Villetta presso Marina di Conca Verde significa anche avere a disposizione una serie di consigli essenziali per passare la tua vacanza in tranquillità e con il supporto di chi conosce tutte le attività e i migliori posti da visitare. Non dimenticare di assaporare o vivere almeno alcune di queste opportunità: agriturismi, escursioni organizzate, tramonti mozzafiato, kayak, diving, kite surfing, uscite in barca a vela ed a cavallo.
 
 
