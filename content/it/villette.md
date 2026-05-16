@@ -97,6 +97,7 @@ typeGalleries:
       - "/img/MCV Can S90 (269).JPG"
       - "/img/MCV Can S90 (268).JPG"
       - "/img/MCV Can S90 (248).JPG"
+      - "/img/MCV Can S90 (231).JPG"
       - "/img/1302.jpg"
       - "/img/IMG_7360r.jpg"
     altGallery:
