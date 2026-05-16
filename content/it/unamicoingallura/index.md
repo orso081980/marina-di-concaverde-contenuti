@@ -10,7 +10,7 @@ hero:
   eyebrow: "Gallura · Sardegna"
   title: "Local Expertise"
   subtitle: "Tutto le informazioni di cui hai bisogno per vivere al meglio la tua vacanza in Sardegna."
-  image: "/img/cinquecentob.jpg"
+  image: "/img/cinquecento2.JPG"
   imageAlt: "Servizi Marina di Conca Verde"
   primaryCta:
     label: "Prenota il Soggiorno"
