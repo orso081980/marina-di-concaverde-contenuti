@@ -93,10 +93,10 @@ typeGalleries:
       - "/img/MCV Can S90 (261).JPG"
       - "/img/IMG_8788.JPG"
       - "/img/camera matrimoniale r.jpg"
-      - "/img/IMG_4492r.jpg
+      - "/img/IMG_4492r.jpg"
       - "/img/MCV Can S90 (223) r.JPG"
       - "/img/MCV Can S90 (269).JPG"
-      - "/img/IMG_8705.JPG
+      - "/img/IMG_8705.JPG"
       - "/img/MCV Can S90 (268).JPG"
       - "/img/MCV Can S90 (248).JPG"
       - "/img/MCV Can S90 (231).JPG"
