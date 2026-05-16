@@ -69,7 +69,7 @@ typeGalleries:
       - "fino a 4 posti letto"
     images:
       - "/img/IMG_6444.JPG"
-      - "/img/IMG_2300.JPG"
+      - "/img/IMG_2300 rrr.JPG"
       - "/img/IMG_3032r.JPG"
       - "/img/IMG_2303.JPG"
       - "/img/IMG_9216.JPG"
