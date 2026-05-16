@@ -30,7 +30,7 @@ partners:
   - name: "Baia del Faro"
     url: "http://www.baiadelfaro.com"
     img: "/logos/baia-del-faro.png"
-  - name: "Immobiliare Sarda"
+  - name: "Immobilisarda"
     url: "http://www.immobilsarda.com/"
     img: "/logos/immobilsarda.png"
 ---
