@@ -70,6 +70,7 @@ typeGalleries:
     images:
       - "/img/IMG_6444.JPG"
       - "/img/IMG_2282.JPG"
+      - "/img/IMG_23b.JPG"
       - "/img/IMG_3032r.JPG"
       - "/img/IMG_2303.JPG"
       - "/img/IMG_9216.JPG"
