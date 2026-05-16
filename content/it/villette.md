@@ -118,12 +118,12 @@ typeGalleries:
     images:
       - "/img/IMG_8720r.JPG"
       - "/img/IMG_8741 r.JPG"
-      - "/img/1372.jpg"
-      - "/img/1370.jpg"
-      - "/img/1371.jpg"
-      - "/img/1372.jpg"
-      - "/img/1371.jpg"
-      - "/img/1372.jpg"
+      - "/img/EOS (387) r.JPG"
+      - "/img/IMG_8748 r.JPG"
+      - "/img/bagno [800x600].jpg"
+      - "/img/cameretta [800x600].jpg"
+      - "/img/IMG_8733.JPG"
+      - "/img/EOS (406).JPG"
     altGallery:
       - "Trilocale Indipendente — esterno"
       - "Trilocale Indipendente — giardino"
