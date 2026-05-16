@@ -87,7 +87,7 @@ quickLinks:
     image: "/img/IMG_6444.JPG"
   - icon: "🤝"
     label: "Un Amico in Gallura"
-    sublabel: "Servizi e attività"
+    sublabel: "Local Expertise"
     href: "/unamicoingallura"
     image: "/img/IMG_4640.JPG"
 
