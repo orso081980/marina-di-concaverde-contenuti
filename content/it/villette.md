@@ -92,7 +92,7 @@ typeGalleries:
       - "/img/IMG_8763.JPG"
       - "/img/MCV Can S90 (261).JPG"
       - "/img/IMG_8788.JPG"
-      - "/img/camera matrimoniale r.JPG"
+      - "/img/camera matrimoniale r.jpg"
       - "/img/MCV Can S90 (223) r.JPG"
       - "/img/MCV Can S90 (269).JPG"
       - "/img/MCV Can S90 (268).JPG"
