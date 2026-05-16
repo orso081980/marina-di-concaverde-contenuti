@@ -120,7 +120,7 @@ typeGalleries:
       - "/img/IMG_8720r.JPG"
       - "/img/IMG_8741 r.JPG"
       - "/img/EOS (387) r.JPG"
-      - "/img/MCV Can S90 (261).JPG
+      - "/img/MCV Can S90 (261).JPG"
       - "/img/IMG_8748 r.JPG"
       - "/img/bagno [800x600].jpg"
       - "/img/cameretta [800x600].jpg"
