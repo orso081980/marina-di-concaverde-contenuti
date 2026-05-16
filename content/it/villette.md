@@ -69,7 +69,7 @@ typeGalleries:
       - "fino a 4 posti letto"
     images:
       - "/img/IMG_6444.JPG"
-      - "/img/FEEZ3158.JPG"
+      - "/img/IMG_2300.JPG"
       - "/img/IMG_3032r.JPG"
       - "/img/IMG_2303.JPG"
       - "/img/IMG_9216.JPG"
@@ -114,7 +114,12 @@ typeGalleries:
       - "Ampio patio con Barbecue in pietra gallurese"
       - "Vista Mare"
     images:
+      - "/img/IMG_8720r.JPG"
+      - "/img/IMG_8741 r.JPG"
+      - "/img/1372.jpg"
       - "/img/1370.jpg"
+      - "/img/1371.jpg"
+      - "/img/1372.jpg"
       - "/img/1371.jpg"
       - "/img/1372.jpg"
     altGallery:
