@@ -68,11 +68,12 @@ typeGalleries:
       - "Ampio soggiorno con divano letto"
       - "fino a 4 posti letto"
     images:
-      - "/IMG_3032r.JPG"
-      - "/IMG_2303.JPG"
-      - "/IMG_9216.JPG"
-      - "/IMG_2289 rr.jpg"
-      - "/FEEZ3158.JPEG.JPG"
+      - "/img/IMG_6444.JPG"
+      - "/img/IMG_3032r.JPG"
+      - "/img/IMG_2303.JPG"
+      - "/img/IMG_9216.JPG"
+      - "/img/IMG_2289 rr.jpg"
+      - "/img/FEEZ3158.JPEG.JPG"
     altGallery:
       - "Bilocale Angolare — esterno"
       - "Bilocale Angolare — veranda"
