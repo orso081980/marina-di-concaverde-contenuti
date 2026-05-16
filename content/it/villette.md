@@ -69,11 +69,12 @@ typeGalleries:
       - "fino a 4 posti letto"
     images:
       - "/img/IMG_6444.JPG"
+      - "/img/FEEZ3158.JPG"
       - "/img/IMG_3032r.JPG"
       - "/img/IMG_2303.JPG"
       - "/img/IMG_9216.JPG"
       - "/img/IMG_2289 rr.jpg"
-      - "/img/FEEZ3158.JPG"
+      
     altGallery:
       - "Bilocale Angolare — esterno"
       - "Bilocale Angolare — veranda"
