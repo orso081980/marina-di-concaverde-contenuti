@@ -90,7 +90,7 @@ typeGalleries:
       - "Ampia Veranda esterna vivibile con Barbecue"
     images:
       - "/img/IMG_8763.JPG"
-      - "/img/MCV Can S90 (261).JPG"
+      - "/img/IMG_2282.JPG.JPG"
       - "/img/IMG_8788.JPG"
       - "/img/camera matrimoniale r.jpg"
       - "/img/IMG_4492r.jpg"
