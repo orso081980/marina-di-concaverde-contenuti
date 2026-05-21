@@ -32,8 +32,6 @@ stats:
     label: "Sport in natura"
 ---
 
-Siamo qui per te.
-
-Soggiornare in una Villetta presso Marina di Conca Verde significa anche avere a disposizione una serie di consigli essenziali per passare la tua vacanza in tranquillità e con il supporto di chi conosce tutte le attività e i migliori posti da visitare. Non dimenticare di assaporare o vivere almeno alcune di queste opportunità: agriturismi, escursioni organizzate, tramonti mozzafiato, kayak, diving, kite surfing, uscite in barca a vela ed a cavallo.
+Soggiornare in una Villetta presso Marina di Conca Verde significa anche avere a disposizione una serie di consigli essenziali per passare la tua vacanza in tranquillità e con il supporto di chi conosce tutte le attività e i migliori posti da visitare. Non dimenticare di assaporare o vivere almeno alcune di queste opportunità: agriturismo, escursioni all'arcipelago, tramonti mozzafiato, kayak, diving, kite surfing, uscite in barca a vela ed a cavallo.
 
 
