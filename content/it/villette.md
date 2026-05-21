@@ -69,12 +69,15 @@ typeGalleries:
       - "fino a 4 posti letto"
     images:
       - "/img/IMG_6444.JPG"
-      - "/img/IMG_2282.JPG"
-      - "/img/IMG_23b.JPG"
+      - "/img/IMG_2457.jpg"
+      - "/img/IMG_2463r.jpg"
       - "/img/IMG_3032r.JPG"
       - "/img/IMG_2303.JPG"
       - "/img/IMG_9216.JPG"
-      - "/img/IMG_2289 rr.jpg"
+      - "/img/IMG_2452r.jpg"
+      - "/img/IMG_2447r.jpg"
+      - "/img/IMG_2455r.jpg"
+      - "/img/IMG_2442r.jpg"
       
     altGallery:
       - "Bilocale Angolare — esterno"
