@@ -10,7 +10,7 @@ hero:
   eyebrow: "Residence · Parco"
   title: "Il Parco"
   subtitle: "Macchia mediterranea e graniti millenari nella natura incontaminata della Gallura."
-  image: "/img/park.jpg"
+  image: "/img/cala spinosa.jpg"
   imageAlt: "Parco naturale in Gallura"
 textBlock:
   eyebrow: "Il Parco"
