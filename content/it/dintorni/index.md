@@ -10,7 +10,7 @@ hero:
   eyebrow: "Gallura · Sardegna"
   title: "Dintorni"
   subtitle: "Ristoranti, agriturismi, spiagge, isole e itinerari nella Gallura più autentica."
-  gallery: ["/img/1370.jpg", "/img/mete.jpg", "/img/percorsi.jpg"]
+  gallery: ["/img/1370.jpg"]
   altGallery: ["Dintorni Porto Pozzo Gallura", "Mete preferite Gallura", "Percorsi Sardegna"]
   galleryCta:
     label: "Apri la galleria"
