@@ -10,7 +10,7 @@ hero:
   eyebrow: "Dintorni · Ristoranti"
   title: "Ristoranti"
   subtitle: "La cucina gallurese autentica: pesce fresco, pasta fatta a mano e vini locali nei dintorni."
-  image: "/img/1367.jpg"
+  image: "/img/ristoranti.jpg"
   imageAlt: "Ristorante di pesce Gallura Sardegna"
   primaryCta:
     label: "Torna ai Dintorni"
