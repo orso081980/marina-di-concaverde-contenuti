@@ -9,8 +9,8 @@ translations:
 hero:
   eyebrow: "Servizi · Escursioni"
   title: "Escursioni"
-  subtitle: "Barca a vela, cavallo, quad, windsurf, kitesurf e pesca: la Gallura da vivere a 360°."
-  image: "/img/escursioni.jpg"
+  subtitle: "in gommone, in barca a vela, a cavallo, quad, windsurf, kitesurf e pesca: la Gallura da vivere a 360°."
+  image: "/img/noleggio-gommoni-santa-teresa13.jpg"
   imageAlt: "Escursione in barca arcipelago La Maddalena"
   primaryCta:
     label: "Contattaci"
