@@ -10,7 +10,7 @@ hero:
   eyebrow: "Servizi · Diving"
   title: "Diving"
   subtitle: "I fondali più belli del Mediterraneo, tra Capo Testa, Santa Teresa Gallura e Palau, a pochi minuti dal residence."
-  image: "/img/diving.jpg"
+  image: "/img/Diving sarde.jpg"
   imageAlt: "Diving fondali Gallura Sardegna"
   primaryCta:
     label: "Contattaci"
