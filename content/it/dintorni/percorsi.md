@@ -10,7 +10,7 @@ hero:
   eyebrow: "Residence · Percorsi"
   title: "Percorsi & Itinerari"
   subtitle: "Sentieri costieri e rotte marine tra i panorami più spettacolari della Gallura."
-  image: "/img/percorsi-2.jpg"
+  image: "/img/Valle luna percorsi.jpg"
   imageAlt: "Sentiero costiero"
 
 textBlock:
