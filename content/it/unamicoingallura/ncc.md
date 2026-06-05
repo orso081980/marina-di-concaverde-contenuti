@@ -10,7 +10,7 @@ hero:
   eyebrow: "Servizi · Transfer"
   title: "Muoversi nell'isola"
   subtitle: "Noleggio auto e moto. NCC e taxi per tutta la Sardegna."
-  image: "/img/minivan.jpg"
+  image: "/img/FIAT_500_F_1966.jpg"
   imageAlt: "Servizio transfer Sardegna"
   primaryCta:
     label: "Contattaci"
