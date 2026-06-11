@@ -10,7 +10,7 @@ hero:
   eyebrow: "Gallura · Sardegna"
   title: "L'Arcipelago e le Spiagge"
   subtitle: "Le calette di Conca Verde, l'Arcipelago della Maddalena e i litorali più belli del Nord Sardegna."
-  gallery: ["/img/pexels-bovistas-2157537713-34951696.jpg", "/img/2299.jpg", "/img/1377.jpg", "/img/1376.jpg", "/img/1373.jpg", "/img/valle-erica.jpg", "/img/2293.jpg"]
+  gallery: ["/img/pexels-bovistas-2157537713-34951696.jpg", "/img/valle-erica.jpg", "/img/2299.jpg", "/img/1376.jpg"]
   altGallery: ["Arcipelago La Maddalena", "Spiaggia Conca Verde", "Calette Gallura Sardegna"]
   galleryCta:
     label: "Apri la galleria"
