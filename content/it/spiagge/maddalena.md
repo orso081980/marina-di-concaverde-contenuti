@@ -12,7 +12,7 @@ hero:
   subtitle: "A 15 minuti di gommone, il Parco Nazionale dell'Arcipelago della Maddalena: isole e acque di straordinaria bellezza."
   image: "/img/1285.jpg"
   imageAlt: "Arcipelago della Maddalena Sardegna"
-primaryCta:
+ primaryCta:
     label: "Contattaci"
     href: "/residence/contatti"
   secondaryCta:
