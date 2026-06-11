@@ -14,7 +14,7 @@ hero:
   imageAlt: "Reception Marina di Conca Verde"
   primaryCta:
     label: "Contact Us"
-    href: "/contact"
+    href: "/residence/contacts"
   secondaryCta:
     label: "On-site Welcome"
     href: "/services/reception"

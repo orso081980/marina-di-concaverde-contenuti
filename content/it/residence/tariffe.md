@@ -3,7 +3,7 @@ title: "Tariffe — Marina di Conca Verde, Porto Pozzo"
 description: "Tariffe villette bilocale e trilocale a Marina di Conca Verde. Prezzi per stagione bassa, media e alta. Offerte speciali disponibili."
 translations:
   it: "/residence/tariffe"
-  en: "/rates"
+  en: "/residence/rates"
   de: "/preise"
   fr: "/rates"
 hero:
@@ -60,5 +60,5 @@ pricingData:
     - service: "Pulizia Finale Trilocale"
       cost: "€ 90"
 ---
-::PricingTable 
-::
+
+::PricingTable ::

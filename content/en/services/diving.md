@@ -14,7 +14,7 @@ hero:
   imageAlt: "Diving seabeds Gallura Sardinia"
   primaryCta:
     label: "Contact Us"
-    href: "/contact"
+    href: "/residence/contacts"
   secondaryCta:
     label: "All Services"
     href: "/services"

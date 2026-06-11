@@ -3,7 +3,7 @@ title: "Rates — Marina di Conca Verde, Porto Pozzo"
 description: "Rates for two-bedroom and three-bedroom villas at Marina di Conca Verde. Prices per season. Special offers available."
 translations:
   it: "/residence/tariffe"
-  en: "/residence/tariffe"
+  en: "/residence/rates"
   de: "/preise"
   fr: "/residence/tariffe"
 hero:
@@ -14,7 +14,7 @@ hero:
   imageAlt: "Villa Marina di Conca Verde"
   primaryCta:
     label: "Request Availability"
-    href: "/residence/contatti"
+    href: "/residence/contacts"
   secondaryCta:
     label: "Discover the Villas"
     href: "/villas"
@@ -60,5 +60,5 @@ pricingData:
     - service: "Final Cleaning Two-Bedroom"
       cost: "€ 90"
 ---
-::PricingTable 
-::
+
+::PricingTable ::

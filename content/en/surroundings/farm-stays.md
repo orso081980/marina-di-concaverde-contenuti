@@ -14,7 +14,7 @@ hero:
   imageAlt: "Agriturismo Gallurese countryside Sardinia"
   primaryCta:
     label: "Book a Visit"
-    href: "/contact"
+    href: "/residence/contacts"
   secondaryCta:
     label: "Restaurants"
     href: "/surroundings/restaurants"

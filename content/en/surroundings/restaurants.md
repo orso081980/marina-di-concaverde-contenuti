@@ -12,9 +12,15 @@ hero:
   subtitle: "The best of Gallurese gastronomy: fresh fish, sea urchins, lobster and seafood pasta."
   image: "/img/ristoranti.jpg"
   imageAlt: "Seafood restaurant Porto Pozzo Gallura"
+  primaryCta:
+    label: "Back to Surroundings"
+    href: "/surroundings"
+  secondaryCta:
+    label: "Farm Stays"
+    href: "/surroundings/farm-stays"
 textBlock:
   eyebrow: "Local Restaurants"
-  title: "The best tables of Gallura"
+  title: "The authentic flavour of Gallura"
 stats:
   - value: "Porto Pozzo"
     label: "5 km from the residence"

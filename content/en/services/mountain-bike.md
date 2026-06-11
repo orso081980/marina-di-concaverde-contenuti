@@ -14,7 +14,7 @@ hero:
   imageAlt: "Mountain bike trails Gallura Sardinia"
   primaryCta:
     label: "Contact Us"
-    href: "/contact"
+    href: "/residence/contacts"
   secondaryCta:
     label: "Routes"
     href: "/services"
