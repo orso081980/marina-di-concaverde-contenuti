@@ -1,6 +1,6 @@
 ---
 title: "La Maddalena Archipelago — National Park, Gallura"
-description: "The La Maddalena Archipelago, 10 minutes from the residence: Spargi, Budelli with the pink beach, Santa Maria, Razzoli. National Park and turquoise waters between Gallura and Corsica."
+description: "The La Maddalena Archipelago 15 minutes from the residence: Spargi, Budelli with the pink beach, Santa Maria, Razzoli. National Park and extraordinary waters between Gallura and Corsica."
 translations:
   it: "/spiagge/maddalena"
   en: "/beaches/maddalena"
@@ -9,55 +9,45 @@ translations:
 hero:
   eyebrow: "Beaches · La Maddalena"
   title: "La Maddalena Archipelago"
-  subtitle: "Just 10 minutes by dinghy, the La Maddalena National Park: islands and waters of extraordinary beauty."
+  subtitle: "15 minutes by dinghy, the National Park of the La Maddalena Archipelago: islands and waters of extraordinary beauty."
   image: "/img/1285.jpg"
   imageAlt: "La Maddalena Archipelago Sardinia"
   primaryCta:
-    label: "Book an Excursion"
-    href: "/services/excursions"
+    label: "Rates & Availability"
+    href: "/rates"
   secondaryCta:
-    label: "Dinghy Hire"
-    href: "/services/reception"
+    label: "Contact Us"
+    href: "/contact"
 textBlock:
   eyebrow: "National Park"
-  title: "Paradise in the Strait of Bonifacio"
+  title: "The paradise of the Bonifacio Strait"
 stats:
-  - value: "10 min"
+  - value: "15 min"
     label: "By dinghy from the residence"
   - value: "7 islands"
-    label: "Main islands"
+    label: "Main in the archipelago"
   - value: "National Park"
     label: "Protected marine area"
   - value: "Budelli"
     label: "The pink beach"
 ---
 
-Just **10 minutes by dinghy** from the residence jetty, one of the most extraordinary seascapes in the Mediterranean opens up: the **La Maddalena Archipelago National Park**. Seven main islands, dozens of islets and submerged reefs, waters ranging from turquoise to deep blue.
+Just **15 minutes by dinghy** directly from Conca Verde beach opens one of the most extraordinary scenarios in the Mediterranean: the **National Park of the La Maddalena Archipelago**. Seven main islands, dozens of islets and submerged reefs, waters ranging from turquoise to intense blue.
 
-## The Main Islands
+## Main Islands
 
 ### La Maddalena
 
-The main island, with its lively town centre, seafood restaurants and vibrant seafront. Worth a full day's exploration.
+The main island, with its lively historic center, fish restaurants and waterfront. Worth a full day of exploration.
 
 ### Spargi
 
-One of the most beautiful islands in the archipelago, with the famous **Cala Corsara**: a beach of white sand and pink granite boulders emerging from emerald water.
+One of the most beautiful islands in the archipelago, famous for **Cala Corsara**: beach of whitest sand and pink granite boulders emerging from emerald water.
 
 ### Budelli — The Pink Beach
 
-Sardinia's most famous beach. Its pink sand, formed from fragmented corals and shells, is now protected: you cannot set foot on the beach, but the waters in front are breathtakingly beautiful.
+The most famous beach in Sardinia. Its pinkish sand, formed from fragmented corals and shells, is now protected: it is not possible to walk on the beach, but the waters in front are of unique beauty.
 
 ### Santa Maria and Razzoli
 
-The northernmost islands of the Park, bordering French waters. Cala Santa Maria offers a wide sandy beach in a sheltered inlet.
-
-## How to Get There
-
-From the residence jetty you can:
-
-- **Hire a dinghy** (book at reception) to explore independently
-- Join a **guided excursion** by sailing boat or motor boat
-- Organise a **fishing trip** with lunch on board
-
-[Discover excursions →](/services/excursions)
+The northernmost islands of the Park, at the borders with French waters. Cala Santa Maria offers a spacious sandy beach in a protected inlet.

@@ -1,31 +1,33 @@
 ---
-title: "Natural Park — Marina di Conca Verde"
-description: "The natural park of Conca Verde: Mediterranean scrubland, myrtle, lentisk and juniper among the millenary granites of Gallura. Walks in unspoilt nature."
+title: "Capo Testa - Protected Marine Area"
+description: "In the heart of the Bonifacio Strait, the protected marine area set among thousand-year-old granites, ancient juniper forests and a sea of biodiversity."
 translations:
   it: "/dintorni/parco"
   en: "/surroundings/park"
   de: "/umgebung/park"
   fr: "/surroundings/park"
 hero:
-  eyebrow: "Surroundings · Park"
-  title: "The Park"
-  subtitle: "Mediterranean scrubland and millenary granites in the unspoilt nature of Gallura."
-  image: "/img/park.jpg"
-  imageAlt: "Natural park Conca Verde Gallura"
+  eyebrow: "Capo Testa"
+  title: "Protected Marine Area"
+  description: "In the heart of the Bonifacio Strait, the marine protected area of Capo Testa among imposing granite rocks smoothed by wind, ancient juniper forests and a sea of biodiversity."
+  image: "/img/calaspinosasantateresa.jpg"
+  imageAlt: "Natural park in Gallura"
 textBlock:
   eyebrow: "The Park"
-  title: "The La Maddalena National Park"
+  title: "The Capo Testa park"
 stats:
   - value: "40M years"
     label: "Geological history"
   - value: "Myrtle"
-    label: "Scent of Gallura"
+    label: "Fragrance of Gallura"
   - value: "Granite"
-    label: "Ancient rocks"
-  - value: "Wildlife"
-    label: "Authentic Sardinian fauna"
+    label: "Thousand-year-old rocks"
+  - value: "Fauna"
+    label: "Marine Biodiversity"
 ---
 
-The natural park of the **La Maddalena Archipelago** is one of Italy's most beautiful natural treasures. A true paradise on our doorstep.
+The Capo Testa - Punta Falcone Protected Marine Area, located in the Municipality of Santa Teresa Gallura, stands out on the marine surface overlooking the Bonifacio Strait and contains within it, by extension, almost the entire coast of the municipality, characterized by a landscape of white sands and imposing granite rocks that represent true natural monuments, located in a natural environment rich in scents, shapes and colors that involve all the senses.
 
-A total of 27 islands and islets scattered with dream beaches nestled among granites and Mediterranean scrubland. Rocks sculpted by sea and wind, fantastically shaped Juniper trees and a sea to rival the most exotic destinations — a unique place to visit at any time of year.
+The favorable location of the place, characterized by inlets and coves suitable for maritime landings, aroused interest for military purposes; in fact, in the second half of the 1500s King Philip II of Spain decided to build the Longosardo coastal tower, a structure which together with about a hundred other towers located throughout the Sardinian coastal territory had the function of defending and controlling possible enemy raids.
+
+The name Santa Teresa Gallura arrived in 1808, when King Victor Emmanuel I decided to establish a village that resembled his beloved Turin and named it in honor of his wife: Queen Maria Theresa of Habsburg-Este.

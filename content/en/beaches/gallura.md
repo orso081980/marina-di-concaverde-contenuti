@@ -1,6 +1,6 @@
 ---
-title: "Gallura Beaches — The Most Beautiful in Northern Sardinia"
-description: "The most beautiful beaches in Gallura: Rena Bianca in Santa Teresa, Capo Testa, Palau, Porto Pollo and the pink granite and turquoise water coastlines of Northern Sardinia."
+title: "Beaches of Gallura — The Most Beautiful in Northern Sardinia"
+description: "The most beautiful beaches of Gallura: Rena Bianca in Santa Teresa, Capo Testa, Palau, Porto Pollo and the pink granite and turquoise water coastlines of North Sardinia."
 translations:
   it: "/spiagge/gallura"
   en: "/beaches/gallura"
@@ -8,10 +8,10 @@ translations:
   fr: "/beaches/gallura"
 hero:
   eyebrow: "Beaches · Gallura"
-  title: "Gallura Beaches"
-  subtitle: "Pink granite, Mediterranean scrubland and turquoise waters: the beaches of Gallura are among the most beautiful in the Mediterranean."
+  title: "Beaches of Gallura"
+  subtitle: "Pink granite, Mediterranean scrub and turquoise waters: the beaches of Gallura are among the most beautiful in the Mediterranean."
   image: "/img/1285.jpg"
-  imageAlt: "Gallura beaches Sardinia"
+  imageAlt: "Beaches of Gallura Sardinia"
   primaryCta:
     label: "Rent a Car / NCC"
     href: "/services/ncc"
@@ -19,45 +19,39 @@ hero:
     label: "Boat Excursions"
     href: "/services/excursions"
 textBlock:
-  eyebrow: "The Gallura Coastline"
+  eyebrow: "From EAST to WEST the Gallura coastline"
   title: "White sand, pink granite, turquoise water"
 stats:
   - value: "Rena Bianca"
     label: "Santa Teresa Gallura, 10 km"
   - value: "Capo Testa"
-    label: "Iconic promontory, 12 km"
+    label: "Lunar landscape, 12 km"
   - value: "Porto Pollo"
-    label: "Kite & windsurf, 20 km"
+    label: "Kite and windsurf, 15 km"
   - value: "Palau"
-    label: "Gateway to La Maddalena, 15 km"
+    label: "The Bear Rock, 15 km"
 ---
 
-Gallura is home to some of Sardinia's most beautiful beaches. Fine white sand, pink granite boulders sculpted by erosion and waters that take on dozens of shades of blue and green: a coastal landscape unique in the world.
+Gallura is home to some of the most beautiful Mediterranean beaches. White sand, pink granite rocks smoothed by the Maestrale wind and ancient juniper trees: a unique coastal landscape in the world.
 
-## The Nearest Beaches
+## Nearest Beaches
 
 ### Rena Bianca — Santa Teresa Gallura (10 km)
 
-The main beach of Santa Teresa Gallura, in the town centre. Wide, well-equipped, with beach clubs, bars and restaurants nearby. From the promenade you can see Corsica.
+The main beach of Santa Teresa Gallura, in the center of the town. Spacious, equipped, with beach clubs, bars and restaurants in the immediate vicinity. From the promenade you can see Corsica. Beach with limited access.
 
 ### Capo Testa (12 km)
 
-A promontory of granite sculpted by the wind, with hidden coves and breathtaking views over the Strait of Bonifacio. One of the most photographed spots in Sardinia.
-
-### Cala Spinosa (13 km)
-
-Small and intimate, reachable on foot from Capo Testa. Crystal-clear waters and a white sand seabed.
+A granite peninsula carved by the wind, with hidden coves and breathtaking views of the Bonifacio Strait. One of the most photographed destinations in Sardinia.
 
 ### Porto Pollo (20 km)
 
-The mecca of kitesurfing and windsurfing in Sardinia, thanks to the constant Maestrale wind. Even without a board, the beach is spectacular.
+The mecca of kitesurfing and windsurfing in Sardinia, thanks to the Maestrale wind. Even without a board, the beach is spectacular.
 
 ### Palau (15 km)
 
-A lively town with equipped beaches, a marina and the departure point for ferries to La Maddalena. Palau beach is convenient and well served.
+A lively town with equipped beaches, tourist port and departure point for ferries to La Maddalena. Palau beach is convenient and well-served.
 
-## Getting Around
+## How to Get Around
 
-Most of these beaches are reachable **by car in 15–25 minutes** from the residence. For those who prefer not to drive, we arrange **transfers and car hire** on request.
-
-[Rent a Car / NCC →](/services/ncc)
+Most of these beaches are reachable **by car in 10–25 minutes** from the residence.

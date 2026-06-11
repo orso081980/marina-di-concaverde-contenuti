@@ -5,10 +5,10 @@ navItems:
     href: "/residence"
     extralinks:
       - label: "Rates"
-        href: "/rates"
+        href: "/residence/tariffe"
         icon: "euro-sign"
       - label: "Contact"
-        href: "/contact"
+        href: "/residence/contatti"
         icon: "at"
   - label: "Villas"
     href: "/villas"
