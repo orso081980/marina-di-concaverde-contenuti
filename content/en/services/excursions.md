@@ -14,7 +14,7 @@ hero:
   imageAlt: "Boat excursion La Maddalena archipelago"
   primaryCta:
     label: "Contact Us"
-    href: "/contact"
+    href: "/residence/contacts"
   secondaryCta:
     label: "Ferry Information"
     href: "/ferries"

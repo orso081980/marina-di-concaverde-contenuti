@@ -15,10 +15,10 @@ hero:
   imageAlt: "Special Offers Marina di Conca Verde"
   primaryCta:
     label: "Contact"
-    href: "/contact"
+    href: "/residence/contacts"
   secondaryCta:
     label: "Rates"
-    href: "/rates"
+    href: "/residence/rates"
 textBlock:
   eyebrow: "Coming Soon"
   title: "No offers currently active"
@@ -26,4 +26,4 @@ textBlock:
 
 There are currently no active special offers. Check back soon to discover our seasonal packages and promotions.
 
-For information or to request a personalized quote, [contact us](/contact).
+For information or to request a personalized quote, [contact us](/residence/contacts).

@@ -14,10 +14,10 @@ hero:
   imageAlt: "Villas at Marina di Conca Verde residence"
   primaryCta:
     label: "Rates & Availability"
-    href: "/residence/tariffe"
+    href: "/residence/rates"
   secondaryCta:
     label: "Contact Us"
-    href: "/residence/contatti"
+    href: "/residence/contacts"
 textBlock:
   eyebrow: "The Villas"
   title: "Gallurese tradition, timeless quality, relaxing atmosphere and comfort."
@@ -151,6 +151,7 @@ There are **4 typologies**:
 The One-Bedroom Villa is perfect for couples or small families. It features one double bedroom, full bathroom, living room with kitchenette, and a comfortable external veranda with sea view and barbecue.
 
 **Features:**
+
 - 1 double bedroom with air conditioning
 - Bathroom with shower
 - Living room with kitchenette
@@ -163,6 +164,7 @@ The One-Bedroom Villa is perfect for couples or small families. It features one 
 The Corner One-Bedroom is an upgraded version of the standard one-bedroom, free on three sides. It offers more light and outdoor space, with a double wooden deck, sofa bed in the living room, and the ability to accommodate up to 4 guests.
 
 **Features:**
+
 - All One-Bedroom amenities
 - Corner villa free on 3 sides
 - Large sun deck and wooden terrace
@@ -175,6 +177,7 @@ The Corner One-Bedroom is an upgraded version of the standard one-bedroom, free 
 The Two-Bedroom Villa is the most popular option. It offers two double bedrooms, a junior bedroom, two full bathrooms, spacious living area, and panoramic verandas. Perfect for families or friends traveling together.
 
 **Features:**
+
 - 1 double bedroom
 - 1 junior bedroom with bunk bed
 - 2 full bathrooms with shower
@@ -190,6 +193,7 @@ The Two-Bedroom Villa is the most popular option. It offers two double bedrooms,
 Our premium villa offering maximum privacy. The Independent Two-Bedroom features a small private garden, exclusive patio with Gallurese stone barbecue, and the finest interior finishes.
 
 **Features:**
+
 - All Two-Bedroom amenities
 - Free on 4 sides
 - Private garden with BBQ patio
@@ -203,7 +207,7 @@ Our premium villa offering maximum privacy. The Independent Two-Bedroom features
 - **Minimum stay**: 3 nights (flexible in low season)
 - **Check-in**: 16:00 (flexible in low season)
 - **Check-out**: 10:00 (late checkout available upon request)
-- **Rates**: See [Rates & Availability](/residence/tariffe)
+- **Rates**: See [Rates & Availability](/residence/rates)
 - **Special Offers**: Check our latest promotions
 
-[Contact us](/residence/contatti) to book your dream Sardinian vacation or for any information about our villas.
+[Contact us](/residence/contacts) to book your dream Sardinian vacation or for any information about our villas.
