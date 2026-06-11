@@ -7,9 +7,9 @@ translations:
   de: "/umgebung/park"
   fr: "/surroundings/park"
 hero:
-  eyebrow: "Residence · Parco"
-  title: "Il Parco"
-  subtitle: "Macchia mediterranea e graniti millenari nella natura incontaminata della Gallura."
+  eyebrow: "Capo Testa"
+  title: "Area Marina Protetta"
+  description: "Nel cuore delle bocche di bonifacio, l'area marina protetta di Capo Testa tra imponenti rocce di granito levigate dal vento, antichi boschi di  ginepro e un mare di biodiversità."
   image: "/img/calaspinosasantateresa.jpg"
   imageAlt: "Parco naturale in Gallura"
 textBlock:
