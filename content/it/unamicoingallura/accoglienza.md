@@ -16,8 +16,8 @@ hero:
     label: "Contattaci"
     href: "/residence/contatti"
   secondaryCta:
-    label: "Tutti i Servizi"
-    href: "/servizi"
+    label: "Accoglienza in loco"
+    href: "/accoglienza"
 textBlock:
   eyebrow: "Reception"
   title: "Il tuo punto di riferimento in vacanza"
