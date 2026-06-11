@@ -12,12 +12,12 @@ hero:
   subtitle: "Situate lungo il fiordo naturale di Porto Pozzo, le numerose calette di Conca Verde si frastagliano lungo tutta la costa. Minuscole insenature con bassi fondali sabbiosi adatte anche ai piu piccoli."
   image: "/img/9043700.jpg"
   imageAlt: "Calette di Conca Verde Porto Pozzo Gallura"
-  primaryCta:
-    label: "Noleggia un Gommone"
-    href: "/servizi/accoglienza"
+ primaryCta:
+    label: "Tariffe e Disponibilità"
+    href: "/residence/tariffe"
   secondaryCta:
-    label: "Escursioni in barca"
-    href: "/servizi/escursioni"
+    label: "Contattaci"
+    href: "/residence/contatti"
 
 textBlock:
   eyebrow: "Il Fiordo di Porto Pozzo"
