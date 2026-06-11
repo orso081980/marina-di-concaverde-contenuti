@@ -13,11 +13,11 @@ hero:
   image: "/img/portocervo.jpg"
   imageAlt: "Costa Smeralda Porto Cervo Sardegna"
   primaryCta:
-    label: "Rent a Car / NCC"
-    href: "/servizi/ncc"
+    label: "Tariffe e Disponibilità"
+    href: "/residence/tariffe"
   secondaryCta:
-    label: "Escursioni Organizzate"
-    href: "/servizi/escursioni"
+    label: "Contattaci"
+    href: "/residence/contatti"
 
 textBlock:
   eyebrow: "La Costa più famosa d'Italia"
