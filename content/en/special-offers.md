@@ -1,7 +1,7 @@
 ---
 title: "Special Offers — Marina di Conca Verde"
-description: "Discover special offers and value packages for your stay at Marina di Conca Verde, Sardinia."
-specialOffer: false
+description: "Discover special offers and advantageous packages for your stay at Marina di Conca Verde, Sardinia."
+specialOffer: true
 translations:
   it: "/offerte-speciali"
   en: "/special-offers"
@@ -10,7 +10,7 @@ translations:
 hero:
   eyebrow: "Promotions"
   title: "Special Offers"
-  subtitle: "Packages and promotions for your Sardinia stay."
+  subtitle: "Packages and promotions for your stay in Sardinia."
   image: "/img/1028.jpg"
   imageAlt: "Special Offers Marina di Conca Verde"
   primaryCta:
@@ -20,10 +20,10 @@ hero:
     label: "Rates"
     href: "/rates"
 textBlock:
-  eyebrow: "Coming soon"
-  title: "No active offers at the moment"
+  eyebrow: "Coming Soon"
+  title: "No offers currently active"
 ---
 
-There are no special offers active at the moment. Check back soon to discover our seasonal packages and promotions.
+There are currently no active special offers. Check back soon to discover our seasonal packages and promotions.
 
-For information or to request a personalised quote, [contact us](/en/contact).
+For information or to request a personalized quote, [contact us](/contact).

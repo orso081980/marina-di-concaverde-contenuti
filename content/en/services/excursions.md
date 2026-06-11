@@ -1,6 +1,6 @@
 ---
 title: "Excursions — Marina di Conca Verde, Porto Pozzo"
-description: "Boat excursions to the La Maddalena archipelago, horse riding in the scrubland, quad bikes, windsurfing, kitesurfing and fishing with lunch on board. Activities for everyone from Porto Pozzo."
+description: "Boat excursions with lunch on board to the La Maddalena archipelago, horseback, kayak, wind surf, kite surf and sport fishing."
 translations:
   it: "/unamicoingallura/escursioni"
   en: "/services/excursions"
@@ -9,37 +9,48 @@ translations:
 hero:
   eyebrow: "Services · Excursions"
   title: "Excursions"
-  subtitle: "Sailing, horse riding, quad bikes, windsurfing, kitesurfing and fishing: Gallura at 360°."
-  image: "/img/escursioni.jpg"
-  imageAlt: "Boat excursion La Maddalena Archipelago"
+  subtitle: "by dinghy, sailing, horseback, quad, windsurfing, kitesurfing and fishing: Gallura at 360°."
+  image: "/img/noleggio-gommoni-santa-teresa13.jpg"
+  imageAlt: "Boat excursion La Maddalena archipelago"
   primaryCta:
-    label: "Book an Excursion"
+    label: "Contact Us"
     href: "/contact"
   secondaryCta:
     label: "Ferry Information"
     href: "/ferries"
 textBlock:
   eyebrow: "Excursions"
-  title: "Gallura: a wealth of experiences"
+  title: "Gallura: a range of experiences"
 stats:
   - value: "Sailing"
     label: "La Maddalena Archipelago"
-  - value: "Horse Riding"
+  - value: "Horseback"
     label: "In the Gallurese scrub"
   - value: "Wind & Kite"
     label: "Water sports"
   - value: "Fishing"
-    label: "With lunch on board"
+    label: "Deep sea"
 ---
 
-Whatever your passion or curiosity to try something new, we have a fantastic range of activities available.
+Whatever your passion or curiosity to try a new experience, we can suggest a fantastic range of activities.
 
-Excursions on **horseback**, by **mountain bike**, **quad bike**, **sailing boat** or a trip to the islands.
+Excursions **on horseback**, **mountain biking**, **kayaking**, **sailing** or a trip to the islands.
+
+<div style="margin: 2rem 0;"></div>
 
 ## 🌟 Our Activities
 
-- **🏄‍♂️ Windsurfing and kitesurfing schools** — Learn water sports with certified instructors in the crystal-clear waters of Gallura
-- **🎣 A fishing trip with lunch on board** — Authentic traditional fishing experience with lunch prepared from the fresh catch
-- **🏛️ A walk to the archaeological park and giants' tombs** — Discover Sardinia's Nuragic history in a unique natural setting
-- **🍽️ Organised trips to central Sardinia** — Savour the strong flavours and authentic life of the locals
-- **🌆 Dinners in Porto Cervo at the most renowned restaurants** — Evenings in the most exclusive clubs on the Costa Smeralda
+- **🏄‍♂️ Windsurfing and kitesurfing schools**  
+  Learn water sports with certified instructors in the crystal-clear waters of Gallura
+
+- **🎣 A deep sea fishing trip**  
+  Authentic adrenaline-filled fishing experience
+
+- **🏛️ A stroll through the archaeological park and giants' tombs**  
+  Discover the Nuragic history of Sardinia in a unique natural setting
+
+- **🍽️ Organized trips to central Sardinia**  
+  Taste the strong flavors and authentic life of those who live these places
+
+- **🌆 Dinners in Porto Cervo's most renowned restaurants**  
+  Evenings in the most exclusive Costa Smeralda clubs

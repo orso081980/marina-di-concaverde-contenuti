@@ -1,6 +1,6 @@
 ---
 title: "Services — Marina di Conca Verde, Porto Pozzo"
-description: "All residence services: reception, NCC transfer, excursions, diving, mountain bike. Everything you need for an unforgettable holiday in Gallura."
+description: "All residence services: reception, information on boat excursions, kayaking, diving and mountain biking. Everything needed for an unforgettable Gallura vacation."
 translations:
   it: "/unamicoingallura"
   en: "/services"
@@ -8,9 +8,9 @@ translations:
   fr: "/services"
 hero:
   eyebrow: "Gallura · Sardinia"
-  title: "Services"
-  subtitle: "Everything you need to make the most of your holiday in Porto Pozzo."
-  image: "/img/1361.jpg"
+  title: "Local Expertise"
+  subtitle: "All the information you need to make the most of your Sardinian vacation."
+  image: "/img/cinquecento2.JPG"
   imageAlt: "Services Marina di Conca Verde"
   primaryCta:
     label: "Book Your Stay"
@@ -19,27 +19,17 @@ hero:
     label: "Contact Us"
     href: "/contact"
 textBlock:
-  eyebrow: "Our Services"
-  title: "A hassle-free holiday"
+  eyebrow: "Services"
+  title: "A worry-free vacation"
 stats:
   - value: "Reception"
-    label: "12h assistance"
-  - value: "Transfer"
+    label: "Personal assistance"
+  - value: "Transport info"
     label: "To/from airport"
   - value: "Excursions"
-    label: "Boat and horse riding"
-  - value: "Diving + MTB"
+    label: "By boat and horseback"
+  - value: "Kayak + MTB"
     label: "Nature sports"
 ---
 
-We are here for you.
-
-Renting a Villa at Marina di Conca Verde also means having a range of essential services to spend your holiday in peace, with the support of people who know all the best activities and places to visit. Don't forget to experience at least some of these opportunities: farm stays, organised excursions, quad bikes, diving, kite surfing, sailing and horse riding.
-
-## Cleaning
-
-Rita is our excellent housekeeper, available on request for daily cleaning. Ask at reception for any housekeeping needs for villa and kitchen/bedroom supplies.
-
-## Maintenance
-
-Our maintenance man, Gianluca, is in charge of ensuring all villas and gardens are in perfect working order. Essential for a carefree holiday.
+Staying in a Villa at Marina di Conca Verde also means having a series of essential tips available to spend your vacation in tranquility and with the support of those who know all the activities and best places to visit. Don't forget to experience or at least enjoy some of these opportunities: farm stays, archipelago excursions, breathtaking sunsets, kayaking, diving, kite surfing, sailing and horseback outings.

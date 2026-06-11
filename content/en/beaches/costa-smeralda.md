@@ -1,6 +1,6 @@
 ---
-title: "Costa Smeralda — Porto Cervo and surroundings, Gallura"
-description: "The Costa Smeralda, 30 minutes from the residence: Porto Cervo, Cala di Volpe, Capriccioli, Liscia Ruja. Italy's most exclusive coastline, to experience at least for a day."
+title: "Costa Smeralda — Porto Cervo and Surroundings, Gallura"
+description: "The Costa Smeralda 45 minutes from the residence: Porto Cervo, Cala di Volpe, Capriccioli, Liscia Ruja. Italy's most exclusive location, to experience even just for a day."
 translations:
   it: "/spiagge/costa-smeralda"
   en: "/beaches/costa-smeralda"
@@ -9,61 +9,49 @@ translations:
 hero:
   eyebrow: "Beaches · Costa Smeralda"
   title: "Costa Smeralda"
-  subtitle: "Just 30 minutes by car, Italy's most exclusive coastline: Porto Cervo, Cala di Volpe and Sardinia's most iconic beaches."
+  subtitle: "45 minutes by car, Italy's most exclusive coast: Porto Cervo, Cala di Volpe and the most iconic Sardinian beaches."
   image: "/img/1367.jpg"
   imageAlt: "Costa Smeralda Porto Cervo Sardinia"
   primaryCta:
     label: "Rent a Car / NCC"
     href: "/services/ncc"
   secondaryCta:
-    label: "Organised Excursions"
+    label: "Organized Excursions"
     href: "/services/excursions"
 textBlock:
   eyebrow: "Italy's Most Famous Coast"
-  title: "An experience to live at least once"
+  title: "An experience worth living at least once"
 stats:
-  - value: "30 min"
-    label: "From the residence by car"
+  - value: "45 min"
+    label: "From residence by car"
   - value: "Porto Cervo"
-    label: "Capital of the Costa Smeralda"
+    label: "Most exclusive promenade"
   - value: "Cala di Volpe"
-    label: "Iconic beach"
+    label: "The VIP beach"
   - value: "Capriccioli"
-    label: "The most beloved beach"
+    label: "Most beloved beach"
 ---
 
-Just **30 minutes by car** from the residence, you enter one of the world's most celebrated stretches of coast: the **Costa Smeralda**. Founded in the 1960s by the Aga Khan, this strip of Gallurese coast defined the concept of Mediterranean beach luxury.
+Just **45 minutes by car** from the residence you enter one of the most famous stretches of coast in the world: the **Costa Smeralda**. Founded in the 1960s by the Aga Khan, this corner of the Gallurese coast has redefined the concept of luxury vacations in the Mediterranean.
 
-A day at the Costa Smeralda is an experience worth the trip.
-
-## Unmissable Beaches
+## Must-See Beaches
 
 ### Capriccioli
 
-Considered by many as the most beautiful beach on the Costa Smeralda. Three little coves separated by granite rocks, transparent waters with incredible shades. Not too large, which makes it intimate and special.
+Considered by many to be the most beautiful beach on the Costa Smeralda. Three coves separated by granite cliffs, transparent waters with incredible hues. Not too large, which makes it intimate and special.
 
 ### Liscia Ruja
 
-The longest beach on the Costa Smeralda (approx. 800 m). Fine white sand, shallow waters and unforgettable water colours.
+The longest beach on the Costa Smeralda (about 800 m). Very fine white sand, shallow waters and unforgettable water colors.
 
 ### Cala di Volpe
 
-The cove in the bay facing the hotel of the same name, one of the most famous in the world. Crystal-clear waters and postcard scenery.
+The cove in the bay in front of the famous hotel, one of the most famous in the world.
 
 ### Cala Granu
 
-One of the most exclusive coves, with emerald green water — perhaps the origin of the entire coast's name.
+One of the most exclusive coves, with emerald green water — perhaps where the entire coast gets its name.
 
 ## Porto Cervo
 
-The social heart of the Costa Smeralda. The historic centre with its characteristic Mediterranean architecture, the Piazzetta with its cafés and boutiques, the marina full of luxury yachts. Even just an evening stroll is worth the visit.
-
-## How to Get There
-
-In high season, finding parking near the most famous beaches can be difficult. We recommend:
-
-- Leaving **early in the morning** (before 10am)
-- Using our **NCC transfer service**
-- Organising a **boat trip** to reach the coves from the sea (test)
-
-[Book a transfer →](/en/services/ncc)
+The glamorous heart of the Costa Smeralda. The historic center with characteristic Mediterranean architecture, the Piazzetta with its cafes and boutiques, the harbor full of luxury yachts. Even just an evening stroll is worth the visit.

@@ -1,6 +1,6 @@
 ---
-title: "Archipelago & Beaches — Marina di Conca Verde, Porto Pozzo"
-description: "The Conca Verde coves, La Maddalena Archipelago, Gallura beaches and the Costa Smeralda. The most beautiful sea in Sardinia, right on your doorstep."
+title: "The Archipelago and Beaches — Marina di Conca Verde"
+description: "The coves of Conca Verde, the La Maddalena Archipelago, the beaches of Gallura and the Costa Smeralda. The most beautiful sea reachable on foot, by boat or in a few minutes by car."
 translations:
   it: "/spiagge"
   en: "/beaches"
@@ -8,10 +8,10 @@ translations:
   fr: "/beaches"
 hero:
   eyebrow: "Gallura · Sardinia"
-  title: "Archipelago & Beaches"
-  subtitle: "The Conca Verde coves, La Maddalena Archipelago and the most beautiful coastline in Northern Sardinia."
-  gallery: ["/img/1285.jpg", "/img/1294.jpg", "/img/1295.jpg"]
-  altGallery: ["La Maddalena Archipelago", "Conca Verde beach", "Gallura coves Sardinia"]
+  title: "The Archipelago and Beaches"
+  subtitle: "The coves of Conca Verde, the La Maddalena Archipelago and the most beautiful coastlines of North Sardinia."
+  gallery: ["/img/pexels-bovistas-2157537713-34951696.jpg", "/img/valle-erica.jpg", "/img/2299.jpg", "/img/1376.jpg"]
+  altGallery: ["La Maddalena Archipelago", "Conca Verde Beach", "Gallura Coves Sardinia"]
   galleryCta:
     label: "Open Gallery"
     href: "#"
@@ -22,41 +22,41 @@ hero:
     label: "Boat Excursions"
     href: "/services/excursions"
 textBlock:
-  eyebrow: "The Sea of Gallura"
-  title: "Crystal-clear waters just steps from the residence"
+  eyebrow: "Gallura's Sea"
+  title: "Crystal-clear waters just steps away from the residence"
 stats:
   - value: "Conca Verde"
     label: "Natural fjord"
-  - value: "La Maddalena"
-    label: "10 min by dinghy"
+  - value: "Pink Beach"
+    label: "15 min by dinghy"
   - value: "Costa Smeralda"
-    label: "30 min by car"
-  - value: "Coves"
-    label: "Hidden and untouched"
+    label: "40 min by car"
+  - value: "Capo Testa"
+    label: "Whitest beach and sculpted rocks"
 ---
 
-Staying at Marina di Conca Verde means being at the heart of one of the most extraordinary stretches of sea in the Mediterranean. From the natural fjord of **Conca Verde** to the **La Maddalena Archipelago**, from the unspoilt beaches of **Gallura** to the glamorous **Costa Smeralda**: everything is just minutes away.
+Staying at Marina di Conca Verde means having the privilege of being at the heart of one of the most extraordinary stretches of sea in the Mediterranean. From the natural fjord of **Conca Verde** to the **La Maddalena Archipelago**, from the untouched beaches of **Gallura** to the glittering **Costa Smeralda**: everything is reachable in just a few minutes.
 
-## Conca Verde Coves
+## The Coves of Conca Verde
 
-The Porto Pozzo fjord is dotted with hidden coves, reachable on foot or by sea. Crystal-clear waters, shallow seabeds and fine sand: perfect for families and anyone seeking peace away from the crowds.
+The Porto Pozzo fjord is dotted with hidden coves, reachable on foot or by sea. Crystal-clear waters, shallow sandy bottoms: perfect for families and those seeking peace away from the crowds.
 
-[Discover the coves →](/en/beaches/coves)
+[Discover the coves →](/beaches/coves)
 
 ## La Maddalena Archipelago
 
-Just **10 minutes by dinghy** from the residence, the La Maddalena National Park opens up: Spargi, Budelli with its famous pink beach, Santa Maria, Razzoli. A protected paradise of rare beauty.
+Just **15 minutes by dinghy** from the residence opens the La Maddalena Archipelago National Park: Spargi, Budelli with the famous pink beach, Santa Maria, Razzoli. A pristine paradise of rare beauty.
 
-[Discover the Archipelago →](/en/beaches/maddalena)
+[Discover the Archipelago →](/beaches/maddalena)
 
 ## Gallura Beaches
 
-Gallura offers kilometres of beaches among the most beautiful in the Mediterranean. From the Porto Pozzo coastline towards Santa Teresa Gallura and Palau: each beach has its own character, between pink granite and turquoise water.
+Gallura offers miles of beaches among the most beautiful in the Mediterranean. From the dunes of Rena Majore through the protected marine area of Capo Testa to Palau at the gateway to the Costa Smeralda: each beach has its own character, between pink granite, turquoise water and untouched nature.
 
-[Discover the beaches →](/en/beaches/gallura)
+[Discover the beaches →](/beaches/gallura)
 
 ## Costa Smeralda
 
-Just 30 minutes by car you reach the legendary **Costa Smeralda**: Porto Cervo, Cala di Volpe, Capriccioli. An unmissable day trip even just for a day.
+Just 45 minutes by car brings you to the renowned **Costa Smeralda**: Porto Cervo, Cala di Volpe, Capriccioli. An unmissable excursion even just for a day.
 
-[Discover the Costa Smeralda →](/en/beaches/costa-smeralda)
+[Discover the Costa Smeralda →](/beaches/costa-smeralda)

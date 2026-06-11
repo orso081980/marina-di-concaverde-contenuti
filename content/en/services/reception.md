@@ -1,37 +1,37 @@
 ---
-title: "Reception — Marina di Conca Verde, Porto Pozzo"
-description: "The residence reception service: assisted check-in, personalised advice, taxi booking, transfer, excursions and car hire in Gallura."
+title: "Welcome & Reception — Marina di Conca Verde, Porto Pozzo"
+description: "The welcome service of the residence: check-in by appointment, information on activities, beaches and restaurants in Gallura."
 translations:
   it: "/unamicoingallura/accoglienza"
   en: "/services/reception"
   de: "/dienstleistungen/rezeption"
   fr: "/services/reception"
 hero:
-  eyebrow: "Services · Reception"
-  title: "Reception"
-  subtitle: "Our team is on hand to make your stay absolutely perfect."
-  image: "/img/reception-2.jpg"
+  eyebrow: "Services · Welcome"
+  title: "Welcome"
+  subtitle: "We are at your disposal to make your stay absolutely perfect."
+  image: "/img/IMG_5942r.JPG"
   imageAlt: "Reception Marina di Conca Verde"
   primaryCta:
     label: "Contact Us"
     href: "/contact"
   secondaryCta:
-    label: "All Services"
-    href: "/services"
+    label: "On-site Welcome"
+    href: "/services/reception"
 textBlock:
   eyebrow: "Reception"
-  title: "Your point of reference on holiday"
+  title: "Your reference point on vacation"
 stats:
-  - value: "08:00–20:00"
-    label: "Reception hours"
-  - value: "🇮🇹, 🇬🇧, 🇩🇪"
+  - value: "On-site assistance"
+    label: "also via whatsapp"
+  - value: "🇮🇹, 🇬🇧, 🇪🇸"
     label: "Languages spoken"
-  - value: "Local advice"
+  - value: "Local Advice"
     label: "Authentic experience"
-  - value: "Bookings"
-    label: "Taxi, excursions, cars"
+  - value: "Information"
+    label: "Beaches, excursions, restaurants"
 ---
 
-We are available for check-in, assistance throughout your stay and advice on how to make the most of your holiday.
+During check-in we will tell you about the area, beaches and activities not to miss.
 
-Don't hesitate to call us even for tips on where to go and how to plan your days. Through us you can book taxis, transfer services, excursions, car hire and mountain bikes.
+Reachable also on Whatsapp for advice on where to go and how to plan your days.

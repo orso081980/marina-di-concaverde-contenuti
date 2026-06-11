@@ -24,7 +24,7 @@ footer:
   companyAddress2: "07026 Olbia (OT)"
   vatPrefix: "VAT No."
   contacts: "Contact"
-  contactHref: "/contact"
+  contactHref: "/residence/contatti"
   phone: "Phone"
   email: "Email"
   social: "Follow us"
@@ -87,7 +87,7 @@ pricing:
   notePrefix: "These are the maximum list rental rates. For discounted rates and all-inclusive offers,"
   noteContactUs: "contact us"
   noteSuffix: "or calculate your quote by entering your arrival and departure dates in the calendar."
-  contactHref: "/contact"
+  contactHref: "/residence/contatti"
 
 sidebar:
   partners: "Visit our partners"

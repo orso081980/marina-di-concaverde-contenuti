@@ -1,6 +1,6 @@
 ---
 title: "Farm Stays — Surroundings of Porto Pozzo, Gallura"
-description: "The best farm stays near Porto Pozzo and Santa Teresa Gallura: genuine Gallurese cuisine, local produce, cheeses, cured meats and artisan wines in the Sardinian countryside."
+description: "The best farm stays near Porto Pozzo and Santa Teresa Gallura: genuine Gallurese cuisine, zero-km products, cheeses, cured meats and wines of own production in the Sardinian countryside."
 translations:
   it: "/dintorni/agriturismo"
   en: "/surroundings/farm-stays"
@@ -9,9 +9,9 @@ translations:
 hero:
   eyebrow: "Surroundings · Farm Stays"
   title: "Farm Stays"
-  subtitle: "Fresh cheeses, pane carasau, suckling pig and farm wine: Gallurese country cooking at the table."
+  subtitle: "Fresh and aged cheeses, carasau bread, suckling pig, vermentino, cannonau, myrtle and Seadas: Gallura on the table."
   image: "/img/1351.jpg"
-  imageAlt: "Farm stay Gallurese countryside Sardinia"
+  imageAlt: "Agriturismo Gallurese countryside Sardinia"
   primaryCta:
     label: "Book a Visit"
     href: "/contact"
@@ -23,30 +23,55 @@ textBlock:
   title: "Authentic Gallura, at the table"
 stats:
   - value: "Suckling Pig"
-    label: "Spit-roasted"
+    label: "Roasted piglet"
   - value: "Cheese"
-    label: "Sardinian Pecorino DOP"
-  - value: "Km 0"
+    label: "Pecorino Sardo DOP"
+  - value: "Zero km"
     label: "All produced locally"
   - value: "Myrtle"
     label: "Sardinia's liqueur"
 ---
 
-**Gallura's farm stays** represent one of the most authentic and genuine gastronomic experiences Sardinia can offer. In these family-run farms, lunch or dinner becomes a journey into Gallurese peasant tradition: everything is produced on site, from the pig to the wine, including cheeses, bread and garden vegetables.
+The **farm stays of Gallura** represent one of the most authentic and genuine gastronomic experiences that Sardinia can offer. In these family-run farms, lunch or dinner becomes a journey through Gallurese gastronomic tradition: everything is produced locally, from pork to wine, through cheeses, bread and garden vegetables.
 
 ## Gallurese Farm Stay Cuisine
 
-A typical lunch at a Gallura farm stay includes:
+A typical farm stay lunch in Gallura includes:
 
-### Starters
+### Appetizers
 
-- **Cured meats** — salami, cured ham and aged sausage
-- **Cheeses** — fresh, medium-aged and aged pecorino, with corbezzolo honey or myrtle jam
-- **Olives** flavoured with wild fennel
-- **Pane carasau** (music paper): the crunchy Sardinian flatbread
+- **Cured meats** of pork — salami, raw ham, coppa and aged sausage
+- **Cheeses** — fresh pecorino, medium-aged and aged, with corbezzolo honey or myrtle jam
+- **Aromatic olives** with wild fennel
+- **Carasau bread** (music paper): the crispy Sardinian bread, ideal for pairing with appetizers
 
 ### First Courses
 
-- **Gallurese soup** (_suppa cuata_): the emblem of tradition — layers of old bread with meat broth and cheese, baked in the oven
-- **Malloreddus** (Sardinian gnocchetti) with pork ragù
-- **Culurgiones** (ravioli filled with potato, pecorino and mint)
+- **Gallurese soup** (_suppa cuata_): the iconic dish of tradition — stale bread in layers with meat broth and cheese, gratin in the oven
+- **Malloreddus** (Sardinian gnocchi) with pork ragù
+- **Pulicioni** (sweet ravioli filled with ricotta and lemon zest)
+
+### Second Courses
+
+- **Suckling pig on a spit**: piglet from Sardinian native breeds, slowly cooked on a spit for 3–4 hours and served on cork platters with myrtle essences. The flagship of Gallurese farm stays
+- **Lamb on the grill** with rosemary, myrtle and juniper.
+
+### Desserts
+
+- **Seadas**: fried pastry filled with fresh cheese and topped with honey or sugar
+- **Papassini**: typical glazed dry sweets
+
+### Wines and Liqueurs
+
+- **Vermentino di Gallura DOCG** — the typical white wine of the area
+- **Cannonau di Sardegna** — the most well-known red of the island
+- **Nebbiolo di Gallura** — the typical red of the Luras/Tempio hills area
+- **Myrtle** — Sardinia's digestif par excellence, red (from black myrtle berries)
+
+## How to Reach Them
+
+The farm stays of Gallura are scattered throughout the interior, 10 to 50 km from the residence, many can be found. Upon your arrival at our villas, we will be happy to recommend the best farm stays in the area.
+
+## Direct Sales
+
+Many farm stays also sell their products directly on the farm: cheeses, cured meats, honey, preserves, liqueurs and wines. A great souvenir to enjoy once you get back home!
