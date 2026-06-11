@@ -10,7 +10,7 @@ hero:
   eyebrow: "Dintorni · Mete"
   title: "Mete Preferite"
   subtitle: "Le destinazioni imperdibili della Gallura: isole, spiagge bianche, borghi storici e paesaggi indimenticabili."
-  image: "/img/2299.jpg"
+  image: "/img/IMG_3353.heic"
   imageAlt: "Arcipelago La Maddalena Sardegna"
   primaryCta:
     label: "Escursioni in barca"
