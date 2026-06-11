@@ -12,12 +12,6 @@ hero:
   subtitle: "Le destinazioni imperdibili della Gallura: isole, spiagge bianche, borghi storici e paesaggi indimenticabili."
   image: "/img/IMG_2831.jpg"
   imageAlt: "Arcipelago La Maddalena Sardegna"
-  primaryCta:
-    label: "Escursioni in barca"
-    href: "/spiagge/escursioni"
-  secondaryCta:
-    label: "Traghetti"
-    href: "/residence/traghetti"
 textBlock:
   eyebrow: "Mete Preferite"
   title: "Il meglio della Sardegna settentrionale"
