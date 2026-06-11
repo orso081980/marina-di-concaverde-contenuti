@@ -13,11 +13,11 @@ hero:
   image: "/img/1285.jpg"
   imageAlt: "Arcipelago della Maddalena Sardegna"
   primaryCta:
+    label: "Tariffe e Disponibilità"
+    href: "/residence/tariffe"
+  secondaryCta:
     label: "Contattaci"
     href: "/residence/contatti"
-  secondaryCta:
-    label: "Accoglienza in loco"
-    href: "/accoglienza"
 
 textBlock:
   eyebrow: "Parco Nazionale"
