@@ -13,12 +13,11 @@ hero:
   image: "/img/valle-erica.jpg"
   imageAlt: "Spiagge della Gallura Sardegna"
   primaryCta:
-    label: "Rent a Car / NCC"
-    href: "/servizi/ncc"
+    label: "Tariffe e Disponibilità"
+    href: "/residence/tariffe"
   secondaryCta:
-    label: "Escursioni in barca"
-    href: "/servizi/escursioni"
-
+    label: "Contattaci"
+    href: "/residence/contatti"
 textBlock:
   eyebrow: "Da EST a OVEST la costa della Gallura"
   title: "Sabbia bianca, granito rosa, acqua turchese"
