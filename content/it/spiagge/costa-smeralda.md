@@ -10,7 +10,7 @@ hero:
   eyebrow: "Spiagge · Costa Smeralda"
   title: "Costa Smeralda"
   subtitle: "A 45 minuti di auto, la Costa più esclusiva d'Italia: Porto Cervo, Cala di Volpe e le spiagge più iconiche della Sardegna."
-  image: "/img/1367.jpg"
+  image: "/img/portocervo.jpg"
   imageAlt: "Costa Smeralda Porto Cervo Sardegna"
   primaryCta:
     label: "Rent a Car / NCC"
