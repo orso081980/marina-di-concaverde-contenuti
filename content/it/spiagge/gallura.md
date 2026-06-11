@@ -10,7 +10,7 @@ hero:
   eyebrow: "Spiagge · Gallura"
   title: "Spiagge della Gallura"
   subtitle: "Granito rosa, macchia mediterranea e acque turchesi: le spiagge della Gallura sono tra le più belle del Mediterraneo."
-  image: "/img/1285.jpg"
+  image: "/img/valle-erica.jpg"
   imageAlt: "Spiagge della Gallura Sardegna"
   primaryCta:
     label: "Rent a Car / NCC"
