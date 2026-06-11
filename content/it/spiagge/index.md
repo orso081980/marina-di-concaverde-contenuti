@@ -19,8 +19,8 @@ hero:
     label: "Scopri le Calette"
     href: "/spiagge/calette"
   secondaryCta:
-    label: "Escursioni in barca"
-    href: "/servizi/escursioni"
+    label: "Tariffe e Disponibilità"
+    href: "/residence/tariffe"
 
 textBlock:
   eyebrow: "Il Mare della Gallura"
