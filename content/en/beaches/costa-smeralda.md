@@ -10,14 +10,14 @@ hero:
   eyebrow: "Beaches · Costa Smeralda"
   title: "Costa Smeralda"
   subtitle: "45 minutes by car, Italy's most exclusive coast: Porto Cervo, Cala di Volpe and the most iconic Sardinian beaches."
-  image: "/img/1367.jpg"
+  image: "/img/portocervo.jpg"
   imageAlt: "Costa Smeralda Porto Cervo Sardinia"
   primaryCta:
-    label: "Rent a Car / NCC"
-    href: "/services/ncc"
+    label: "Rates & Availability"
+    href: "/residence/rates"
   secondaryCta:
-    label: "Organized Excursions"
-    href: "/services/excursions"
+    label: "Contact Us"
+    href: "/residence/contacts"
 textBlock:
   eyebrow: "Italy's Most Famous Coast"
   title: "An experience worth living at least once"

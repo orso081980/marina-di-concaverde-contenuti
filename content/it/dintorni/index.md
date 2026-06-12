@@ -11,7 +11,7 @@ hero:
   title: "Dintorni"
   subtitle: "Ristoranti, agriturismi, spiagge, isole e itinerari nella Gallura più autentica."
   gallery: ["/img/IMG_2682b.jpg", "/img/mappadintorni.jpg", "/img/1370.jpg", "/img/1377.jpg"]
-  altGallery: ["Dintorni Porto Pozzo Gallura", "Mete preferite Gallura", "Percorsi Sardegna"]
+  altGallery: ["Dintorni Porto Pozzo Gallura", "Mete preferite Gallura", "Percorsi Sardegna", "Mappe Calette"]
   galleryCta:
     label: "Apri la galleria"
     href: "#"
@@ -55,8 +55,8 @@ Il porto più glamour d'Italia, famoso in tutto il mondo. Vale la visita anche s
 
 ## Esplora per Categoria
 
-- [Ristoranti]/it/dintorni/ristoranti) → I migliori locali della zona
-- [Agriturismo]/it/dintorni/agriturismo) → Autentica cucina gallurese
-- [Discoteche]/it/dintorni/discoteche) → Vita notturna in Gallura
-- [Mete Preferite]/it/dintorni/mete) → Le spiagge e le isole da non perdere
-- [Itinerari]/it/dintorni/itinerari) → Suggerimenti di viaggio
+- [Ristoranti](/it/dintorni/ristoranti) → I migliori locali della zona
+- [Agriturismo](/it/dintorni/agriturismo) → Autentica cucina gallurese
+- [Discoteche](/it/dintorni/discoteche) → Vita notturna in Gallura
+- [Mete Preferite](/it/dintorni/mete) → Le spiagge e le isole da non perdere
+- [Itinerari](/it/dintorni/itinerari) → Suggerimenti di viaggio

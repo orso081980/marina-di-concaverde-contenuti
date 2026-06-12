@@ -11,7 +11,7 @@ hero:
   title: "Surroundings"
   subtitle: "Restaurants, farm stays, beaches, islands and itineraries in the most authentic Gallura."
   gallery: ["/img/IMG_2682b.jpg", "/img/mappadintorni.jpg", "/img/1370.jpg", "/img/1377.jpg"]
-  altGallery: ["Surroundings Porto Pozzo Gallura", "Preferred destinations Gallura", "Sardinia itineraries"]
+  altGallery: ["Surroundings Porto Pozzo Gallura", "Preferred destinations Gallura", "Sardinia itineraries", "Maps and beaches"]
   galleryCta:
     label: "Open Gallery"
     href: "#"

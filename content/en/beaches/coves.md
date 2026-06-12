@@ -13,11 +13,11 @@ hero:
   image: "/img/9043700.jpg"
   imageAlt: "Coves of Conca Verde Porto Pozzo Gallura"
   primaryCta:
-    label: "Rent a Dinghy"
-    href: "/services/reception"
+    label: "Rates & Availability"
+    href: "/residence/rates"
   secondaryCta:
-    label: "Boat Excursions"
-    href: "/services/excursions"
+    label: "Contact Us"
+    href: "/residence/contacts"
 textBlock:
   eyebrow: "The Porto Pozzo Fjord"
   title: "Hidden coves just around the corner"

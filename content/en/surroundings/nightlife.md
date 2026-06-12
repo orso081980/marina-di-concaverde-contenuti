@@ -1,5 +1,5 @@
 ---
-title: "Nightlife and Nightlife — From Santa Teresa Gallura to Porto Cervo and the Costa Smeralda"
+title: "Nightclubs and Nightlife — From Santa Teresa Gallura to Porto Cervo and the Costa Smeralda"
 description: "Nightlife on the Costa Smeralda: evening venues, bars, sunset bars and nightclubs between Santa Teresa Gallura, Palau and the Costa Smeralda, Gallura, Sardinia."
 translations:
   it: "/dintorni/discoteche"

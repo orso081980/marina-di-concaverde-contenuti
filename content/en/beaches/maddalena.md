@@ -10,7 +10,7 @@ hero:
   eyebrow: "Beaches · La Maddalena"
   title: "La Maddalena Archipelago"
   subtitle: "15 minutes by dinghy, the National Park of the La Maddalena Archipelago: islands and waters of extraordinary beauty."
-  image: "/img/1285.jpg"
+  image: "/img/spargi.jpg"
   imageAlt: "La Maddalena Archipelago Sardinia"
   primaryCta:
     label: "Rates & Availability"
