@@ -1,17 +1,17 @@
 ---
-title: "Restaurants in Gallura — From Porto Pozzo to Costa Smeralda"
-description: "Best seafood restaurants and Gallurese cuisine: Porto Pozzo, Santa Teresa Gallura, Palau and Costa Smeralda with ratings and recommendations"
+title: "Restaurants — Surroundings, Gallura"
+description: "The best restaurants in the surroundings between Palau and Santa Teresa Gallura: fresh fish, Gallurese cuisine, seafront restaurants and typical Sardinian trattorias."
 translations:
   it: "/dintorni/ristoranti"
   en: "/surroundings/restaurants"
   de: "/umgebung/restaurants"
   fr: "/surroundings/restaurants"
 hero:
-  eyebrow: "Surroundings · Food"
+  eyebrow: "Surroundings · Restaurants"
   title: "Restaurants"
-  subtitle: "The best of Gallurese gastronomy: fresh fish, sea urchins, lobster and seafood pasta."
+  subtitle: "The authentic Gallurese cuisine: fresh fish, handmade pasta and local wines in the surroundings."
   image: "/img/ristoranti.jpg"
-  imageAlt: "Seafood restaurant Porto Pozzo Gallura"
+  imageAlt: "Fish restaurant Gallura Sardinia"
   primaryCta:
     label: "Back to Surroundings"
     href: "/surroundings"
@@ -19,65 +19,64 @@ hero:
     label: "Farm Stays"
     href: "/surroundings/farm-stays"
 textBlock:
-  eyebrow: "Local Restaurants"
-  title: "The authentic flavour of Gallura"
+  eyebrow: "Restaurants"
+  title: "Authentic flavours of Gallura"
 stats:
-  - value: "Porto Pozzo"
-    label: "5 km from the residence"
-  - value: "Santa Teresa"
-    label: "10 km from the residence"
-  - value: "Seafood"
-    label: "The main dish"
-  - value: "Sea Urchins"
-    label: "A Sardinian delicacy"
+  - value: "Fresh Fish"
+    label: "From the local fish market"
+  - value: "Gallurese Cuisine"
+    label: "Typical local recipes"
+  - value: "Sardinian Wines"
+    label: "Vermentino and Cannonau"
+  - value: "Pizzerias"
+    label: "Including wood-fired oven"
 ---
 
-## Porto Pozzo (5 km)
+Porto Pozzo and its surroundings offer a selection of venues to satisfy every taste and budget. From the fishermen's trattoria to the gourmet restaurant in Santa Teresa Gallura, including delicious artisan gelaterias.
 
-Porto Pozzo has some of the best seafood restaurants in Gallura, many directly on the water. It's possible to eat **fresh fish daily**, including sea urchins in season, mullet bottarga, lobster and excellent pasta with seafood:
+## Porto Pozzo
 
-### Gallurese Cuisine Specialties
+The village of Porto Pozzo hosts several venues run by local families, where fresh fish is always available:
 
-- **Zuppa Gallurese** — a rich soup of pasta, mussels, clams and other shellfish
-- **Spaghetti alle Arselle** — spaghetti with clams, simple and delicious
-- **Bottarga** — mullet roe, grated on pasta or as an appetizer
-- **Sea Urchins** (Ricci di mare) — a true Sardinian delicacy, raw or in pasta
-- **Lobster à l'arramicata** — live lobster cooked with garlic, oil and a touch of chili
-- **Brodetto** — mixed fish soup
-- **Maialetto** — suckling pig roasted, typically served during summer banquets
+- **Fish trattorias**
+- **Pizzerias**
+- **Bars and artisan gelaterias**
 
-In Porto Pozzo you'll find welcoming family restaurants and beach clubs where you can enjoy great seafood while having your feet in the sand.
+_Ask on arrival for current recommendations on local venues._
 
 ## Santa Teresa Gallura (10 km)
 
-The main center of Gallura with restaurants along the port, overlooking the Bonifacio Strait and islands. From simple pizza to elegant fish restaurants:
+The centre of Santa Teresa Gallura offers a lively gastronomic scene with dozens of restaurants, from family trattorias to more refined venues:
 
-### Recommended Areas
+### Absolutely Worth Trying
 
-- **Port waterfront** — Many restaurants with outdoor tables overlooking the boats and the Corsican coast
-- **Piazza Libertà** — The main square with restaurants and bars with views of the Spanish tower and Bonifacio Strait
-- **Centro storico** — Historic center with traditional trattorias and local specialties
+**Typical Gallurese cuisine:**
 
-A must-try when in Santa Teresa is the **sea urchin pasta** in season, or the fresh **lobster** with no frills — just lemon, oil and a sea view.
+- _Zuppa gallurese_ (suppa cuata): homemade bread, meat broth and cheese gratin in the oven — the symbol dish of the tradition
+- Gallurese ravioli: ravioli filled with ricotta, lemon zest and sugar.
+- _Maialetto allo spiedo_: suckling pig slowly roasted on a spit with myrtle aromas.
+
+**Fish and seafood:**
+
+- Sardinian lobster alla catalana (with fresh tomatoes and red onion)
+- Mullet bottarga and clams
+- Grilled or spicy octopus
+- Breaded sardines
+- Mussel soup
 
 ## Palau (15 km)
 
-Smaller and more charming than Santa Teresa, with excellent family-run restaurants and beach clubs:
+Palau, gateway to the La Maddalena archipelago, offers excellent fish restaurants and Gallurese trattorias with outstanding local cuisine.
 
-- **Port restaurants** — Many establishments directly on the water with outdoor tables
-- **Summer venues** — Beach clubs open in the evening with DJ sets and dining on the sand
-- **Local cuisine** — Less touristy than Santa Teresa, with genuine Gallurese dishes
+## Practical Tips
 
-## Costa Smeralda (50 km)
+- **Reservations**: in July and August it is essential to book at least 1–2 days in advance
+- **Opening hours**: restaurants open for dinner from 20:00; lunch generally from 13:00
 
-Porto Cervo and the Costa Smeralda offer **fine dining at international level** with Michelin stars and celebrity chefs, luxury beach clubs, and restaurants for all budgets. Here you can find some of the best restaurants in Italy.
+## Gallura Wines
 
-## Tips for Dining in Gallura
+Don't forget to pair your fish with an excellent **Vermentino di Gallura DOCG**: a fresh, floral white wine, perfect with fish. For meat, **Cannonau di Sardegna** is the structured and mineral red par excellence.
 
-- **Book ahead** in summer — Popular restaurants fill up quickly, especially seafood establishments
-- **Lunch** is typically served 12:00–15:00; dinner 19:30–23:00
-- **Fish prices** change with the season and daily catch — always ask before ordering
-- **Beach clubs** typically open in evening and offer a festive atmosphere with DJ sets
 - **Day trips** — Perfect for combining lunch with a visit to beaches or hiking trails
 
 At reception, we'll be happy to recommend the best restaurants for your preferences and make reservations.

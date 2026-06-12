@@ -1,82 +1,81 @@
 ---
-title: "Itineraries in Gallura — 3-Day and 7-Day Routes"
-description: "The best itineraries for Northern Sardinia: 7-day guide to La Maddalena, Costa Smeralda, Bonifacio and Gallura nature."
+title: "Itineraries — Surroundings of Porto Pozzo, Gallura"
+description: "Day trips and multi-day itineraries from Porto Pozzo: La Maddalena archipelago, Gallura tour, Corsica, Costa Smeralda and archaeological sites. Tips for planning the perfect vacation."
 translations:
   it: "/dintorni/itinerari"
   en: "/surroundings/routes"
   de: "/umgebung/routen"
   fr: "/surroundings/routes"
 hero:
-  eyebrow: "Surroundings · Routes"
-  title: "Travel Itineraries"
-  subtitle: "The best routes through northern Sardinia: 7 unforgettable days between islands, beaches, and Gallura nature."
+  eyebrow: "Surroundings · Itineraries"
+  title: "Itineraries"
+  subtitle: "How to organise your Conca Verde vacation: day trips, by boat or by car, practical tips."
   image: "/img/1028.jpg"
-  imageAlt: "Itinerary route Gallura Sardinia"
+  imageAlt: "Itineraries Gallura Northern Sardinia"
+  primaryCta:
+    label: "Organised Excursions"
+    href: "/services/excursions"
+  secondaryCta:
+    label: "Car Rental / NCC"
+    href: "/services/ncc"
 textBlock:
-  eyebrow: "Suggested Itineraries"
-  title: "7 days in Gallura"
+  eyebrow: "Itineraries"
+  title: "How to discover Gallura on vacation"
 stats:
-  - value: "La Maddalena"
-    label: "Day 1–2"
-  - value: "Bonifacio"
-    label: "Day 2"
-  - value: "Costa Smeralda"
-    label: "Day 4"
-  - value: "Nature & Hiking"
-    label: "Day 5–7"
+  - value: "1 day"
+    label: "La Maddalena by boat"
+  - value: "1 day"
+    label: "Bonifacio by ferry"
+  - value: "2–3 days"
+    label: "Complete Gallura"
+  - value: "7 days"
+    label: "Weekly programme"
 ---
 
-## Complete 7-Day Itinerary
+Discover the **recommended itineraries** for those staying at Marina di Conca Verde. You can choose from single-day trips and multi-day programmes covering the most beautiful places in Gallura and beyond.
 
-| **Day** | **Morning** | **Afternoon** | **Evening** |
-|---------|-----------|--------------|-----------|
-| **Day 1** | Arrival at Conca Verde, settling in, welcome tour | Visit to Porto Pozzo beaches and close surroundings | Dinner at local restaurant, sunset walk |
-| **Day 2** | Boat excursion to **La Maddalena Archipelago** — visit to Caprera (Garibaldi Museum) and Spargi | Afternoon at Pink Beach Budelli and Cala Corsara (swim, snorkel) | Dinner in Palau or Santa Teresa on the port |
-| **Day 3** | Day trip to **Bonifacio, Corsica** (ferry 15 min from Santa Teresa) — Citadel, cliffs, and historic center | Scala du Rei d'Aragona (187 steps in the rock), Roman cisterns, marine caves | Return by ferry to Santa Teresa in the evening, dinner |
-| **Day 4** | Drive to **Costa Smeralda** (50 min) — Porto Cervo village and shopping | Phi Beach or other beaches (Liscia Ruja, Cala di Volpe) or Billionaire Club for aperitivo | Fine dining in Porto Cervo or return to Conca Verde for dinner |
-| **Day 5** | **Hiking in Gallura** — Capo Testa coastal trail (5 km, easy) with lighthouse and views of Bonifacio | Relax on the beach in Rena Bianca or Rena Majore | Dinner at a Gallurese farm stay, typical cuisine (suckling pig, myrtle) |
-| **Day 6** | Mountain biking or hiking in the **interior** (Tempio Pausania area, Valle della Luna) | Visit to Tempio Pausania historic center and local crafts markets | Dinner in Palau at a beach club with live music |
-| **Day 7** | Relax at Conca Verde or on Porto Pozzo beaches | Last-minute shopping or visit to Palau | Evening aperitivo at sunset, goodbyes |
+---
 
-## Practical Information for Your Trip
+## 1-Day Trip: La Maddalena Archipelago 🏝
 
-### How to Get Around
+**By dinghy or boat directly from Conca Verde beach**
 
-- **Car Rental**: Recommended for full freedom. A compact car is sufficient for all roads.
-- **Ferries**: Connections to La Maddalena (Palau) and Bonifacio (Santa Teresa) — book in advance in summer
-- **Dinghy/Boat**: Available for rent or through excursion providers to reach islands
+The classic choice. Leave early in the morning (8:00–9:00) with a rented dinghy and spend the day exploring the national park islands.
 
-### Best Seasons
+---
 
-- **May–June**: Perfect weather, not yet crowded, sea is warm
-- **July–August**: Peak season, very hot (occasionally above 35°C), crowded beaches and restaurants
-- **September–October**: Ideal weather, fewer crowds, sea still warm for swimming
+## 1-Day Trip: Bonifacio and Corsica 🏰
 
-### What to Pack
+**By ferry from Santa Teresa Gallura (10 km)**
 
-- Sunscreen and UV protection (sun is intense)
-- Hiking boots for trail walks
-- Snorkel equipment (if not renting)
-- Water sports clothing
-- Light clothes for the warm season
+Drive to Santa Teresa Gallura and take the ferry to Bonifacio (50 min).
 
-### Restaurant and Ferry Bookings
+→ [Ferry schedules Santa Teresa–Bonifacio](/ferries)
 
-Reservations are **highly recommended** in summer:
+---
 
-- **Ferry to Bonifacio**: Book 3–4 days in advance
-- **Ferry to La Maddalena**: Book several days ahead
-- **Restaurants**: Reserve 1–2 days before, especially for evening dining
-- **Excursions**: Book through reception for guided tours and activities
+## 1-Day Trip: Tour of Gallura by Car 🚗
 
-### Car Rental and Logistics
+A tour of the main attractions of the Gallurese interior and coast, ideal for those who want to understand the territory in depth.
 
-- **Distances**: Everything is within 1 hour of Conca Verde — no long drives necessary
-- **Fuel**: Plenty of gas stations throughout Gallura
-- **Parking**: Always available, even in high season in parking areas
-- **Road Conditions**: All roads are excellent and modern
+---
 
-### Weather Considerations
+---
+
+## Recommended Weekly Programme 🗓
+
+| Day       | Suggested Activity                                |
+| --------- | ------------------------------------------------- |
+| Saturday  | Arrival, settling in, dinner in Porto Pozzo       |
+| Sunday    | Relax on the beach at the residence               |
+| Monday    | La Maddalena Archipelago trip by boat             |
+| Tuesday   | Horseback excursion through the scrub + farm stay |
+| Wednesday | Day trip to Bonifacio by ferry                    |
+| Thursday  | Visit to nearby coves                             |
+| Friday    | Costa Smeralda and Porto Cervo tour by car        |
+| Saturday  | Departure                                         |
+
+---
 
 - **Windy Coast**: The Bonifacio Strait is windy; boat excursions may be canceled in strong wind
 - **Summer Heat**: Midday heat (12:00–16:00) is intense; plan activities early morning or late afternoon

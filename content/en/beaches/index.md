@@ -19,8 +19,8 @@ hero:
     label: "Discover the Coves"
     href: "/beaches/coves"
   secondaryCta:
-    label: "Boat Excursions"
-    href: "/services/excursions"
+    label: "Rates & Availability"
+    href: "/residence/rates"
 textBlock:
   eyebrow: "Gallura's Sea"
   title: "Crystal-clear waters just steps away from the residence"

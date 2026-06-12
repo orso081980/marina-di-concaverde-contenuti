@@ -61,4 +61,5 @@ pricingData:
       cost: "€ 90"
 ---
 
-::PricingTable ::
+::PricingTable 
+::

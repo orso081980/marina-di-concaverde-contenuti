@@ -140,74 +140,39 @@ typeGalleries:
       - "Independent Two-Bedroom — veranda"
 ---
 
-The Villas are equipped with everything necessary for a relaxing vacation. Ideal for enjoying the outdoors, they all feature covered **verandas**, outdoor showers, laundry facilities and barbecue. Interior comfort is guaranteed by the presence of Air Conditioning, TV and Washing Machine in each villa.
+The villas are fully equipped with everything needed for a relaxing holiday. Designed for outdoor living, each villa features a **covered veranda**, outdoor furniture, an outdoor shower, a washbasin, and a barbecue. Indoor comfort is ensured by the presence of air conditioning, a TV, and a washing machine in every villa.
 
-## Villa Typologies
+## Villa Types
 
-There are **4 typologies**:
+There are **4 types** of villas:
 
 ### One-Bedroom Villa
 
-The One-Bedroom Villa is perfect for couples or small families. It features one double bedroom, full bathroom, living room with kitchenette, and a comfortable external veranda with sea view and barbecue.
-
-**Features:**
-
-- 1 double bedroom with air conditioning
-- Bathroom with shower
+- 1 double bedroom
+- Bathroom with CeraSarda ceramic shower
 - Living room with kitchenette
-- Parking space
-- Furnished external veranda with barbecue
-- Direct beach access
-
-### Corner One-Bedroom Villa
-
-The Corner One-Bedroom is an upgraded version of the standard one-bedroom, free on three sides. It offers more light and outdoor space, with a double wooden deck, sofa bed in the living room, and the ability to accommodate up to 4 guests.
-
-**Features:**
-
-- All One-Bedroom amenities
-- Corner villa free on 3 sides
-- Large sun deck and wooden terrace
-- Sea view
-- Sofa bed in living room
-- Up to 4 beds
+- Spacious covered veranda with barbecue
+- Small patio with outdoor shower in natural stone and washbasin
+- Private parking space
 
 ### Two-Bedroom Villa
 
-The Two-Bedroom Villa is the most popular option. It offers two double bedrooms, a junior bedroom, two full bathrooms, spacious living area, and panoramic verandas. Perfect for families or friends traveling together.
-
-**Features:**
-
 - 1 double bedroom
-- 1 junior bedroom with bunk bed
-- 2 full bathrooms with shower
-- Air Conditioning
-- Living room with kitchenette
-- Large external veranda with barbecue
-- Washing machine
-- TV with international channels
-- Parking space
+- 1 junior bedroom with bunk beds
+- Bathroom with CeraSarda ceramic shower
+- Kitchenette
+- Living room with sofa bed
+- Spacious veranda with garden
+- Outdoor shower in natural stone and washbasin
 
-### Independent Two-Bedroom Villa
+### Detached Two-Bedroom Villa _(upon request)_
 
-Our premium villa offering maximum privacy. The Independent Two-Bedroom features a small private garden, exclusive patio with Gallurese stone barbecue, and the finest interior finishes.
+Detached on **all four sides**, with large outdoor spaces and sea views.
 
-**Features:**
+### Corner One-Bedroom Villa _(upon request)_
 
-- All Two-Bedroom amenities
-- Free on 4 sides
-- Private garden with BBQ patio
-- Exclusive sea-view veranda
-- Washing machine and dryer
-- Premium finishes throughout
-- Parking area
+Detached on **three sides**, accommodates up to 4 guests, and features a large sea-view sun terrace.
 
-## Booking Information
+## Pets
 
-- **Minimum stay**: 3 nights (flexible in low season)
-- **Check-in**: 16:00 (flexible in low season)
-- **Check-out**: 10:00 (late checkout available upon request)
-- **Rates**: See [Rates & Availability](/residence/rates)
-- **Special Offers**: Check our latest promotions
-
-[Contact us](/residence/contacts) to book your dream Sardinian vacation or for any information about our villas.
+Pets are allowed only during certain periods and exclusively upon prior written authorization. An additional cleaning fee applies.
