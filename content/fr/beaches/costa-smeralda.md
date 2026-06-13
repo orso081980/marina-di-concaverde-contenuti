@@ -10,7 +10,7 @@ hero:
   eyebrow: "Plages · Costa Smeralda"
   title: "Costa Smeralda"
   subtitle: "À 30 minutes en voiture, le littoral le plus exclusif d'Italie : Porto Cervo, Cala di Volpe et les plages les plus iconiques de Sardaigne."
-  image: "/img/1367.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/1367.jpg"
   imageAlt: "Costa Smeralda Porto Cervo Sardaigne"
   primaryCta:
     label: "Rent a Car / NCC"

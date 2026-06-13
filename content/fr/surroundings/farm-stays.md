@@ -10,7 +10,7 @@ hero:
   eyebrow: "Environs · Agritourisme"
   title: "Agritourisme"
   subtitle: "Fromages frais, pane carasau, cochon de lait et vin de ferme : la Gallura paysanne à table."
-  image: "/img/1351.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/1351.jpg"
   imageAlt: "Agritourisme campagne gallurese Sardaigne"
   primaryCta:
     label: "Réserver une visite"

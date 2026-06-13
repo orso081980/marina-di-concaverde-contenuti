@@ -10,7 +10,7 @@ hero:
   eyebrow: "Summer awaits you"
   title: "Custom Rates"
   subtitle: "Get a quote right away using our online calendar"
-  image: "/img/1298.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/1298.jpg"
   imageAlt: "Villa Marina di Conca Verde"
   primaryCta:
     label: "Request Availability"
@@ -61,5 +61,4 @@ pricingData:
       cost: "€ 90"
 ---
 
-::PricingTable 
-::
+::PricingTable ::

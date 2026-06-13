@@ -10,7 +10,12 @@ hero:
   eyebrow: "Conca Verde · Santa Teresa Gallura"
   title: "Il Residence"
   subtitle: "Villette in stile Stazzu Gallurese affacciate sul fiordo di Porto Pozzo."
-  gallery: ["/img/9043693.webp", "/img/IMG_8768rr.JPG", "/img/IMG_8769.JPG"]
+  gallery:
+    [
+      "https://cdn.marinadiconcaverde.it/img/9043693.webp",
+      "https://cdn.marinadiconcaverde.it/img/IMG_8768rr.JPG",
+      "https://cdn.marinadiconcaverde.it/img/IMG_8769.JPG",
+    ]
   altGallery: ["Residence Marina di Conca Verde", "Villette Porto Pozzo", "Il fiordo di Porto Pozzo"]
   galleryCta:
     label: "Apri la galleria"

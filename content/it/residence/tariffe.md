@@ -10,7 +10,7 @@ hero:
   eyebrow: "L'estate ti aspetta"
   title: "Tariffe su misura"
   subtitle: "Fai un preventivo subito grazie al calendario online"
-  image: "/img/1298.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/1298.jpg"
   imageAlt: "Villetta Marina di Conca Verde"
   primaryCta:
     label: "Richiedi Disponibilità"
@@ -61,5 +61,4 @@ pricingData:
       cost: "€ 90"
 ---
 
-::PricingTable 
-::
+::PricingTable ::

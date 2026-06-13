@@ -10,7 +10,7 @@ hero:
   eyebrow: "Anreise · Fähren"
   title: "Fähren"
   subtitle: "Wie Sie Sardinien auf dem Seeweg erreichen und von Santa Teresa Gallura nach Korsika gelangen."
-  image: "/img/traghetti.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/traghetti.jpg"
   imageAlt: "Fähre Sardinien Hafen Santa Teresa Gallura"
   primaryCta:
     label: "Fähre buchen"

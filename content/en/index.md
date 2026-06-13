@@ -12,14 +12,14 @@ hero:
   subtitle: "On the fjord of Porto Pozzo, across from the La Maddalena Archipelago."
   gallery:
     [
-      "/img/IMG_3071r.JPG",
-      "/img/9043698.webp",
-      "/img/IMG_8768rr.JPG",
-      "/img/9043704.jpg",
-      "/img/9043693.webp",
-      "/img/1028.jpg",
-      "/img/9043705.webp",
-      "/img/IMG_8720r.JPG",
+      "https://cdn.marinadiconcaverde.it/img/IMG_3071r.JPG",
+      "https://cdn.marinadiconcaverde.it/img/9043698.webp",
+      "https://cdn.marinadiconcaverde.it/img/IMG_8768rr.JPG",
+      "https://cdn.marinadiconcaverde.it/img/9043704.jpg",
+      "https://cdn.marinadiconcaverde.it/img/9043693.webp",
+      "https://cdn.marinadiconcaverde.it/img/1028.jpg",
+      "https://cdn.marinadiconcaverde.it/img/9043705.webp",
+      "https://cdn.marinadiconcaverde.it/img/IMG_8720r.JPG",
     ]
   altGallery: ["Marina di Conca Verde", "Porto Pozzo", "Beach"]
   galleryCta:

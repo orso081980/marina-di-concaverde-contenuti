@@ -10,7 +10,8 @@ hero:
   eyebrow: "Porto Pozzo · Gallura"
   title: "Die Residenz"
   subtitle: "Villen im Stazzu-Gallurese-Stil mit Blick auf den Fjord von Porto Pozzo."
-  gallery: ["/img/2297.jpg", "/img/2298.jpg", "/img/2299.jpg"]
+  gallery:
+    ["https://cdn.marinadiconcaverde.it/img/2297.jpg", "https://cdn.marinadiconcaverde.it/img/2298.jpg", "https://cdn.marinadiconcaverde.it/img/2299.jpg"]
   altGallery: ["Residence Marina di Conca Verde", "Villen Porto Pozzo", "Fjord von Porto Pozzo"]
   galleryCta:
     label: "Galerie öffnen"

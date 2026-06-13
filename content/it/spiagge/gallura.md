@@ -10,7 +10,7 @@ hero:
   eyebrow: "Spiagge · Gallura"
   title: "Spiagge della Gallura"
   subtitle: "Granito rosa, macchia mediterranea e acque turchesi: le spiagge della Gallura sono tra le più belle del Mediterraneo."
-  image: "/img/valle-erica.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/valle-erica.jpg"
   imageAlt: "Spiagge della Gallura Sardegna"
   primaryCta:
     label: "Tariffe e Disponibilità"
@@ -44,7 +44,6 @@ La spiaggia principale di Santa Teresa Gallura, nel centro della cittadina. Ampi
 
 Una penisola di granito scolpita dal vento, con calette nascoste e panorami mozzafiato sulle Bocche di Bonifacio. Una delle mete più fotografate della Sardegna.
 
-
 ### Porto Pollo (20 km)
 
 La mecca del kitesurf e windsurf in Sardegna, grazie al vento di Maestrale. Anche senza senza tavola, la spiaggia è spettacolare.
@@ -55,4 +54,4 @@ Cittadina vivace con spiagge attrezzate, porto turistico e partenza per i traghe
 
 ## Come Spostarsi
 
-La maggior parte di queste spiagge è raggiungibile **in auto in 10–25 minuti** dal residence. 
+La maggior parte di queste spiagge è raggiungibile **in auto in 10–25 minuti** dal residence.

@@ -10,7 +10,7 @@ hero:
   eyebrow: "Capo Testa"
   title: "Protected Marine Area"
   description: "In the heart of the Bonifacio Strait, the marine protected area of Capo Testa among imposing granite rocks smoothed by wind, ancient juniper forests and a sea of biodiversity."
-  image: "/img/calaspinosasantateresa.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/calaspinosasantateresa.jpg"
   imageAlt: "Natural park in Gallura"
 textBlock:
   eyebrow: "The Park"

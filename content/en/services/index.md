@@ -10,7 +10,7 @@ hero:
   eyebrow: "Gallura · Sardinia"
   title: "Local Expertise"
   subtitle: "All the information you need to make the most of your Sardinian vacation."
-  image: "/img/cinquecento2.JPG"
+  image: "https://cdn.marinadiconcaverde.it/img/cinquecento2.JPG"
   imageAlt: "Services Marina di Conca Verde"
   primaryCta:
     label: "Book Your Stay"

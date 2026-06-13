@@ -10,7 +10,7 @@ hero:
   eyebrow: "Dienstleistungen · Rezeption"
   title: "Rezeption"
   subtitle: "Unser Team steht zu Ihrer Verfügung, um Ihren Aufenthalt absolut perfekt zu gestalten."
-  image: "/img/reception-2.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/reception-2.jpg"
   imageAlt: "Rezeption Marina di Conca Verde"
   primaryCta:
     label: "Kontakt aufnehmen"

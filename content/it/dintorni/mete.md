@@ -10,7 +10,7 @@ hero:
   eyebrow: "Dintorni · Mete"
   title: "Mete Preferite"
   subtitle: "Le destinazioni imperdibili della Gallura: isole, spiagge bianche, borghi storici e paesaggi indimenticabili."
-  image: "/img/IMG_2831.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/IMG_2831.jpg"
   imageAlt: "Arcipelago La Maddalena Sardegna"
 textBlock:
   eyebrow: "Mete Preferite"
@@ -60,7 +60,7 @@ La Gallura è famosa per le sue spiagge: sabbia bianca finissima, acque traspare
 - **Rena Bianca** (Santa Teresa Gallura, 10 km) — la spiaggia del paese con vista su Bonifacio
 - **Capo Testa** (Santa Teresa Gallura, 12 km) — Penisola che comprende 3 spiagge, una piu bella dell'altra e il mitico faro di Capo Testa tra le rocce di granito modellate dal vento
 - **Valle dell'erica** (Porto Pozzo, 4 km) — piccolo gioiello con vista sull'arcipelago a soli 5km da Conca Verde.
-- **Rena Majore** Sulla costa ovest a 15 min d'auto da Conca Verde questa spiaggia dominata dalle estese dune di sabbia regala tramonti che fermano il tempo. 
+- **Rena Majore** Sulla costa ovest a 15 min d'auto da Conca Verde questa spiaggia dominata dalle estese dune di sabbia regala tramonti che fermano il tempo.
 
 ## 🏎 Porto Cervo e la Costa Smeralda (50 km)
 

@@ -10,7 +10,13 @@ hero:
   eyebrow: "Gallura · Sardegna"
   title: "Dintorni"
   subtitle: "Ristoranti, agriturismi, spiagge, isole e itinerari nella Gallura più autentica."
-  gallery: ["/img/IMG_2682b.jpg", "/img/mappadintorni.jpg", "/img/1370.jpg", "/img/1377.jpg"]
+  gallery:
+    [
+      "https://cdn.marinadiconcaverde.it/img/IMG_2682b.jpg",
+      "https://cdn.marinadiconcaverde.it/img/mappadintorni.jpg",
+      "https://cdn.marinadiconcaverde.it/img/1370.jpg",
+      "https://cdn.marinadiconcaverde.it/img/1377.jpg",
+    ]
   altGallery: ["Dintorni Porto Pozzo Gallura", "Mete preferite Gallura", "Percorsi Sardegna", "Mappe Calette"]
   galleryCta:
     label: "Apri la galleria"

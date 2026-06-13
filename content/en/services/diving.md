@@ -10,7 +10,7 @@ hero:
   eyebrow: "Services · Diving"
   title: "Diving"
   subtitle: "The most beautiful seabeds in the Mediterranean, between Capo Testa, Santa Teresa Gallura and Palau, just minutes from the residence."
-  image: "/img/diving-sarde.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/diving-sarde.jpg"
   imageAlt: "Diving seabeds Gallura Sardinia"
   primaryCta:
     label: "Contact Us"

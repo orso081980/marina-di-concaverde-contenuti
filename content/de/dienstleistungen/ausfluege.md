@@ -10,7 +10,7 @@ hero:
   eyebrow: "Dienstleistungen · Ausflüge"
   title: "Ausflüge"
   subtitle: "Segeln, Reiten, Quad, Windsurfen, Kitesurfen und Angeln: Gallura in seiner ganzen Vielfalt."
-  image: "/img/escursioni.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/escursioni.jpg"
   imageAlt: "Bootsausflug Maddalena-Archipel"
   primaryCta:
     label: "Ausflug buchen"

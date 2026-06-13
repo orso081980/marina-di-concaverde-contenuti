@@ -10,7 +10,7 @@ hero:
   eyebrow: "Résidence · Parc"
   title: "Le Parc"
   subtitle: "Maquis méditerranéen et granits millénaires dans la nature préservée de la Gallura."
-  image: "/img/park.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/park.jpg"
   imageAlt: "Parc naturel Conca Verde Gallura"
 textBlock:
   eyebrow: "Le Parc"

@@ -10,7 +10,7 @@ hero:
   eyebrow: "Anlage · Wege"
   title: "Wege & Routen"
   subtitle: "Küstenpfade, Mountainbiketrails und Seewege inmitten der spektakulärsten Panoramen von Gallura."
-  image: "/img/percorsi-2.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/percorsi-2.jpg"
   imageAlt: "Küstenpfad im Fjord von Porto Pozzo"
 textBlock:
   eyebrow: "Wege"

@@ -10,7 +10,7 @@ hero:
   eyebrow: "Strände · La Maddalena"
   title: "Maddalena-Archipel"
   subtitle: "Nur 10 Minuten mit dem Schlauchboot entfernt, der Nationalpark des Maddalena-Archipels: Inseln und Gewässer von außergewöhnlicher Schönheit."
-  image: "/img/1285.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/1285.jpg"
   imageAlt: "Maddalena-Archipel Sardinien"
   primaryCta:
     label: "Ausflug buchen"

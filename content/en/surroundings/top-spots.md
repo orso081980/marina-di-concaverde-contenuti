@@ -10,7 +10,7 @@ hero:
   eyebrow: "Surroundings · Destinations"
   title: "Preferred Spots"
   subtitle: "Must-see destinations of Gallura: islands, white beaches, historic villages and unforgettable landscapes."
-  image: "/img/IMG_2831.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/IMG_2831.jpg"
   imageAlt: "La Maddalena Archipelago Sardinia"
 textBlock:
   eyebrow: "Preferred Spots"

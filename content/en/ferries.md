@@ -10,7 +10,7 @@ hero:
   eyebrow: "Travel · Ferries"
   title: "Ferries"
   subtitle: "How to get to Sardinia by ferry and how to reach Corsica from Santa Teresa Gallura."
-  image: "/img/traghetti.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/traghetti.jpg"
   imageAlt: "Ferry Sardinia port Santa Teresa Gallura"
   primaryCta:
     label: "Book a Ferry"

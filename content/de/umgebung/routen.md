@@ -10,7 +10,7 @@ hero:
   eyebrow: "Umgebung · Routen"
   title: "Routen"
   subtitle: "Wie Sie Ihren Urlaub in Porto Pozzo planen: Tagesausflüge, Mehrtagesrouten und praktische Tipps."
-  image: "/img/1028.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/1028.jpg"
   imageAlt: "Routen Gallura Nordsardinien"
   primaryCta:
     label: "Organisierte Ausflüge"

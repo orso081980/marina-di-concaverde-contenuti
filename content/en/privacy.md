@@ -10,7 +10,7 @@ hero:
   eyebrow: "Info · Privacy"
   title: "Legal Notice & Privacy Policy"
   subtitle: "Information on personal data processing and legal notices for this website."
-  image: "/img/1028.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/1028.jpg"
   imageAlt: "Privacy Policy Marina di Conca Verde"
   primaryCta:
     label: "Contact"

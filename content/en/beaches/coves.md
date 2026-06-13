@@ -10,7 +10,7 @@ hero:
   eyebrow: "Beaches · Conca Verde"
   title: "The Coves of Conca Verde"
   subtitle: "Located along the natural fjord of Porto Pozzo, the numerous coves of Conca Verde fringe the entire coast. Tiny inlets with low sandy bottoms suitable for the smallest."
-  image: "/img/9043700.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/9043700.jpg"
   imageAlt: "Coves of Conca Verde Porto Pozzo Gallura"
   primaryCta:
     label: "Rates & Availability"

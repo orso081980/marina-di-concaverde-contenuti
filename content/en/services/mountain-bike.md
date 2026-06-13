@@ -10,7 +10,7 @@ hero:
   eyebrow: "Services · Mountain Bike"
   title: "Mountain Bike"
   subtitle: "Explore unspoiled Gallura on two wheels: coastal trails, Mediterranean scrub and breathtaking views."
-  image: "/img/mountain-bike.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/mountain-bike.jpg"
   imageAlt: "Mountain bike trails Gallura Sardinia"
   primaryCta:
     label: "Contact Us"

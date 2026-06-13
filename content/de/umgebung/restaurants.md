@@ -10,7 +10,7 @@ hero:
   eyebrow: "Umgebung · Restaurants"
   title: "Restaurants"
   subtitle: "Authentische gallurese Küche: frischer Fisch, hausgemachte Pasta und Lokalweine um Porto Pozzo."
-  image: "/img/1367.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/1367.jpg"
   imageAlt: "Fischrestaurant Gallura Sardinien"
   primaryCta:
     label: "Zurück zur Umgebung"

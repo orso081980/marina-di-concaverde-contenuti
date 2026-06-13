@@ -10,7 +10,7 @@ hero:
   eyebrow: "Dintorni · Ristoranti"
   title: "Ristoranti"
   subtitle: "La cucina gallurese autentica: pesce fresco, pasta fatta a mano e vini locali nei dintorni."
-  image: "/img/ristoranti.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/ristoranti.jpg"
   imageAlt: "Ristorante di pesce Gallura Sardegna"
   primaryCta:
     label: "Torna ai Dintorni"
@@ -38,9 +38,9 @@ Porto Pozzo e i dintorni offrono una selezione di locali che soddisfa ogni gusto
 
 Il borgo di Porto Pozzo ospita diversi locali gestiti da famiglie locali, dove il pesce fresco non manca mai:
 
-- **Trattorie di pesce** 
-- **Pizzerie** 
-- **Bar e gelaterie artigianali** 
+- **Trattorie di pesce**
+- **Pizzerie**
+- **Bar e gelaterie artigianali**
 
 _Chiedete al vostro arrivo per i consigli del momento sui locali._
 
@@ -72,7 +72,6 @@ Palau, porta dell'arcipelago de La Maddalena, offre ottimi ristoranti di pesce e
 
 - **Prenotazione**: in luglio e agosto è indispensabile prenotare con almeno 1–2 giorni di anticipo
 - **Orari**: i ristoranti aprono per cena dalle 20:00; pranzo generalmente dalle 13:00
-
 
 ## I Vini della Gallura
 

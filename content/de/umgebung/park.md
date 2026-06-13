@@ -10,7 +10,7 @@ hero:
   eyebrow: "Anlage · Park"
   title: "Der Park"
   subtitle: "Mittelmeervegetation und jahrtausendealte Granitfelsen in der unberührten Natur von Gallura."
-  image: "/img/park.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/park.jpg"
   imageAlt: "Naturpark Conca Verde Gallura"
 textBlock:
   eyebrow: "Der Park"

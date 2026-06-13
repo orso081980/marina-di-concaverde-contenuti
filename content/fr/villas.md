@@ -10,7 +10,7 @@ hero:
   eyebrow: "Hébergement · Gallura"
   title: "Les Villas"
   subtitle: "Style Stazzu Gallurese : granit sarde apparent, bois massif et tout le confort moderne."
-  image: "/img/1297.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/1297.jpg"
   imageAlt: "Villas du résidence Marina di Conca Verde"
   primaryCta:
     label: "Tarifs & Disponibilités"
@@ -41,10 +41,10 @@ typeGalleries:
       - "Véranda extérieure vivable"
       - "Petit espace vert"
     images:
-      - "/img/1297.jpg"
-      - "/img/1299.jpg"
-      - "/img/1300.jpg"
-      - "/img/1301.jpg"
+      - "https://cdn.marinadiconcaverde.it/img/1297.jpg"
+      - "https://cdn.marinadiconcaverde.it/img/1299.jpg"
+      - "https://cdn.marinadiconcaverde.it/img/1300.jpg"
+      - "https://cdn.marinadiconcaverde.it/img/1301.jpg"
     altGallery:
       - "Villa Studio — extérieur"
       - "Villa Studio — véranda"
@@ -59,9 +59,9 @@ typeGalleries:
       - "Grands espaces extérieurs privés"
       - "Jardin exclusif"
     images:
-      - "/img/1370.jpg"
-      - "/img/1371.jpg"
-      - "/img/1372.jpg"
+      - "https://cdn.marinadiconcaverde.it/img/1370.jpg"
+      - "https://cdn.marinadiconcaverde.it/img/1371.jpg"
+      - "https://cdn.marinadiconcaverde.it/img/1372.jpg"
     altGallery:
       - "Villa Indépendante — extérieur"
       - "Villa Indépendante — jardin"
@@ -76,10 +76,10 @@ typeGalleries:
       - "Séjour avec canapé-lit"
       - "Véranda extérieure vivable avec jardin"
     images:
-      - "/img/1285.jpg"
-      - "/img/1367.jpg"
-      - "/img/1368.jpg"
-      - "/img/1369.jpg"
+      - "https://cdn.marinadiconcaverde.it/img/1285.jpg"
+      - "https://cdn.marinadiconcaverde.it/img/1367.jpg"
+      - "https://cdn.marinadiconcaverde.it/img/1368.jpg"
+      - "https://cdn.marinadiconcaverde.it/img/1369.jpg"
     altGallery:
       - "Villa Deux Pièces — extérieur"
       - "Villa Deux Pièces — véranda"
@@ -94,9 +94,9 @@ typeGalleries:
       - "4 couchages"
       - "Espaces extérieurs plus grands"
     images:
-      - "/img/1373.jpg"
-      - "/img/1374.jpg"
-      - "/img/1375.jpg"
+      - "https://cdn.marinadiconcaverde.it/img/1373.jpg"
+      - "https://cdn.marinadiconcaverde.it/img/1374.jpg"
+      - "https://cdn.marinadiconcaverde.it/img/1375.jpg"
     altGallery:
       - "Studio d'Angle — extérieur"
       - "Studio d'Angle — véranda"

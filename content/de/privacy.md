@@ -10,7 +10,7 @@ hero:
   eyebrow: "Info · Datenschutz"
   title: "Rechtliche Hinweise & Datenschutzerklärung"
   subtitle: "Informationen zur Verarbeitung personenbezogener Daten und zu den rechtlichen Hinweisen der Website."
-  image: "/img/1028.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/1028.jpg"
   imageAlt: "Datenschutzerklärung Marina di Conca Verde"
   primaryCta:
     label: "Kontakt"

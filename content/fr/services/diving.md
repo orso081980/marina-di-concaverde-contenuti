@@ -10,7 +10,7 @@ hero:
   eyebrow: "Services · Plongée"
   title: "Plongée"
   subtitle: "Les plus beaux fonds marins de la Méditerranée, entre Santa Teresa Gallura et Palau, à quelques minutes de la résidence."
-  image: "/img/diving.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/diving.jpg"
   imageAlt: "Plongée fonds marins Gallura Sardaigne"
   primaryCta:
     label: "Réserver une sortie"

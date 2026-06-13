@@ -10,7 +10,7 @@ hero:
   eyebrow: "Services · Transfer"
   title: "Getting Around the Island"
   subtitle: "Car and motorcycle rentals. NCC and taxis throughout Sardinia."
-  image: "/img/FIAT_500_F_1966.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/FIAT_500_F_1966.jpg"
   imageAlt: "Transfer service Sardinia"
   primaryCta:
     label: "Contact Us"

@@ -10,7 +10,7 @@ hero:
   eyebrow: "Spiagge · La Maddalena"
   title: "Arcipelago della Maddalena"
   subtitle: "A 15 minuti di gommone, il Parco Nazionale dell'Arcipelago della Maddalena: isole e acque di straordinaria bellezza."
-  image: "/img/spargi.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/spargi.jpg"
   imageAlt: "Arcipelago della Maddalena Sardegna"
   primaryCta:
     label: "Tariffe e Disponibilità"

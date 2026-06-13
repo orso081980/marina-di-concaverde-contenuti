@@ -10,7 +10,7 @@ hero:
   eyebrow: "Surroundings · Nightlife"
   title: "Nightlife"
   subtitle: "From cocktails at sunset on promontories to Costa Smeralda nightclubs: Gallurese nights."
-  image: "/img/1362.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/1362.jpg"
   imageAlt: "Nightlife Gallura Costa Smeralda Sardinia"
   primaryCta:
     label: "Back to Surroundings"

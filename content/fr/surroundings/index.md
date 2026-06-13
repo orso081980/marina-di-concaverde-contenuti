@@ -10,7 +10,8 @@ hero:
   eyebrow: "Gallura · Sardaigne"
   title: "Les Environs"
   subtitle: "Restaurants, agritourisme, plages, îles et itinéraires dans la Gallura la plus authentique."
-  gallery: ["/img/1370.jpg", "/img/mete.jpg", "/img/percorsi.jpg"]
+  gallery:
+    ["https://cdn.marinadiconcaverde.it/img/1370.jpg", "https://cdn.marinadiconcaverde.it/img/mete.jpg", "https://cdn.marinadiconcaverde.it/img/percorsi.jpg"]
   altGallery: ["Environs Porto Pozzo Gallura", "Destinations préférées Gallura", "Itinéraires Sardaigne"]
   galleryCta:
     label: "Ouvrir la galerie"

@@ -10,7 +10,7 @@ hero:
   eyebrow: "Voyage · Ferries"
   title: "Ferries"
   subtitle: "Comment rejoindre la Sardaigne par la mer et comment aller en Corse depuis Santa Teresa Gallura."
-  image: "/img/traghetti.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/traghetti.jpg"
   imageAlt: "Ferry Sardaigne port Santa Teresa Gallura"
   primaryCta:
     label: "Réserver un Ferry"

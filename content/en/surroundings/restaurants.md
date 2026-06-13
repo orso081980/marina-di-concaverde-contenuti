@@ -10,7 +10,7 @@ hero:
   eyebrow: "Surroundings · Restaurants"
   title: "Restaurants"
   subtitle: "The authentic Gallurese cuisine: fresh fish, handmade pasta and local wines in the surroundings."
-  image: "/img/ristoranti.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/ristoranti.jpg"
   imageAlt: "Fish restaurant Gallura Sardinia"
   primaryCta:
     label: "Back to Surroundings"

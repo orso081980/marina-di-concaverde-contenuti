@@ -10,7 +10,7 @@ hero:
   eyebrow: "Spiagge · Costa Smeralda"
   title: "Costa Smeralda"
   subtitle: "A 45 minuti di auto, la Costa più esclusiva d'Italia: Porto Cervo, Cala di Volpe e le spiagge più iconiche della Sardegna."
-  image: "/img/portocervo.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/portocervo.jpg"
   imageAlt: "Costa Smeralda Porto Cervo Sardegna"
   primaryCta:
     label: "Tariffe e Disponibilità"
@@ -47,7 +47,7 @@ La spiaggia più lunga della Costa Smeralda (circa 800 m). Sabbia bianca finissi
 
 ### Cala di Volpe
 
-La caletta nella baia davanti all'omonimo hotel, uno dei più famosi al mondo. 
+La caletta nella baia davanti all'omonimo hotel, uno dei più famosi al mondo.
 
 ### Cala Granu
 
