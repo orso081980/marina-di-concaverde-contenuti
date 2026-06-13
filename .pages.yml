@@ -83,6 +83,62 @@ content:
     fields:
       - name: title
         type: string
+        required: true
+      - name: description
+        type: text
+      - name: translations
+        type: object
+      - name: hero
+        type: object
+        fields:
+          - name: eyebrow
+            type: string
+          - name: title
+            type: string
+          - name: subtitle
+            type: string
+          - name: gallery
+            type: string
+            list: true
+          - name: altGallery
+            type: string
+            list: true
+          - name: galleryCta
+            type: object
+            fields:
+              - name: label
+                type: string
+              - name: href
+                type: string
+          - name: primaryCta
+            type: object
+            fields:
+              - name: label
+                type: string
+              - name: href
+                type: string
+          - name: secondaryCta
+            type: object
+            fields:
+              - name: label
+                type: string
+              - name: href
+                type: string
+      - name: textBlock
+        type: object
+        fields:
+          - name: eyebrow
+            type: string
+          - name: title
+            type: string
+      - name: stats
+        type: object
+        list: true
+        fields:
+          - name: value
+            type: string
+          - name: label
+            type: string
       - name: body
         type: rich-text
 
@@ -95,6 +151,62 @@ content:
     fields:
       - name: title
         type: string
+        required: true
+      - name: description
+        type: text
+      - name: translations
+        type: object
+      - name: hero
+        type: object
+        fields:
+          - name: eyebrow
+            type: string
+          - name: title
+            type: string
+          - name: subtitle
+            type: string
+          - name: gallery
+            type: string
+            list: true
+          - name: altGallery
+            type: string
+            list: true
+          - name: galleryCta
+            type: object
+            fields:
+              - name: label
+                type: string
+              - name: href
+                type: string
+          - name: primaryCta
+            type: object
+            fields:
+              - name: label
+                type: string
+              - name: href
+                type: string
+          - name: secondaryCta
+            type: object
+            fields:
+              - name: label
+                type: string
+              - name: href
+                type: string
+      - name: textBlock
+        type: object
+        fields:
+          - name: eyebrow
+            type: string
+          - name: title
+            type: string
+      - name: stats
+        type: object
+        list: true
+        fields:
+          - name: value
+            type: string
+          - name: label
+            type: string
       - name: body
         type: rich-text
 
@@ -107,6 +219,62 @@ content:
     fields:
       - name: title
         type: string
+        required: true
+      - name: description
+        type: text
+      - name: translations
+        type: object
+      - name: hero
+        type: object
+        fields:
+          - name: eyebrow
+            type: string
+          - name: title
+            type: string
+          - name: subtitle
+            type: string
+          - name: gallery
+            type: string
+            list: true
+          - name: altGallery
+            type: string
+            list: true
+          - name: galleryCta
+            type: object
+            fields:
+              - name: label
+                type: string
+              - name: href
+                type: string
+          - name: primaryCta
+            type: object
+            fields:
+              - name: label
+                type: string
+              - name: href
+                type: string
+          - name: secondaryCta
+            type: object
+            fields:
+              - name: label
+                type: string
+              - name: href
+                type: string
+      - name: textBlock
+        type: object
+        fields:
+          - name: eyebrow
+            type: string
+          - name: title
+            type: string
+      - name: stats
+        type: object
+        list: true
+        fields:
+          - name: value
+            type: string
+          - name: label
+            type: string
       - name: body
         type: rich-text
 
@@ -119,5 +287,61 @@ content:
     fields:
       - name: title
         type: string
+        required: true
+      - name: description
+        type: text
+      - name: translations
+        type: object
+      - name: hero
+        type: object
+        fields:
+          - name: eyebrow
+            type: string
+          - name: title
+            type: string
+          - name: subtitle
+            type: string
+          - name: gallery
+            type: string
+            list: true
+          - name: altGallery
+            type: string
+            list: true
+          - name: galleryCta
+            type: object
+            fields:
+              - name: label
+                type: string
+              - name: href
+                type: string
+          - name: primaryCta
+            type: object
+            fields:
+              - name: label
+                type: string
+              - name: href
+                type: string
+          - name: secondaryCta
+            type: object
+            fields:
+              - name: label
+                type: string
+              - name: href
+                type: string
+      - name: textBlock
+        type: object
+        fields:
+          - name: eyebrow
+            type: string
+          - name: title
+            type: string
+      - name: stats
+        type: object
+        list: true
+        fields:
+          - name: value
+            type: string
+          - name: label
+            type: string
       - name: body
         type: rich-text
