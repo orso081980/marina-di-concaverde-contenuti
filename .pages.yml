@@ -1,0 +1,880 @@
+media:
+  input: content/media
+  output: https://cdn.marinadiconcaverde.it
+  rename: safe
+  categories: [image, video]
+
+content:
+  # ── Site-wide configuration ──────────────────────────────────────────────────
+  - name: common
+    label: Site Configuration
+    type: file
+    path: content/_common.md
+    format: yaml-frontmatter
+    fields:
+      - name: publishedLocales
+        label: Published Languages
+        type: string
+        list: true
+      - name: contactEmail
+        label: Contact Email
+        type: string
+      - name: googleMapsUrl
+        label: Google Maps URL
+        type: string
+      - name: googleMapsEmbed
+        label: Google Maps Embed URL
+        type: string
+      - name: elfsightId
+        label: Elfsight Widget ID
+        type: string
+      - name: magellanoApiKey
+        label: Magellano API Key
+        type: string
+      - name: cin
+        label: CIN Code
+        type: string
+      - name: partners
+        label: Partners
+        type: object
+        list: true
+        fields:
+          - name: name
+            label: Name
+            type: string
+          - name: url
+            label: Website URL
+            type: string
+          - name: img
+            label: Logo
+            type: image
+
+  # ── Navigation ───────────────────────────────────────────────────────────────
+  - name: navigation
+    label: Navigation
+    type: group
+    items:
+      - name: nav_it
+        label: Navigation (Italiano)
+        type: file
+        path: content/it/_nav.md
+        format: yaml-frontmatter
+        fields:
+          - name: ferryHref
+            label: Ferry Link URL
+            type: string
+          - name: navItems
+            label: Navigation Items
+            type: object
+            list: true
+            fields:
+              - name: label
+                type: string
+              - name: href
+                type: string
+              - name: children
+                label: Sub-items
+                type: object
+                list: true
+                fields:
+                  - name: label
+                    type: string
+                  - name: href
+                    type: string
+                  - name: icon
+                    type: string
+              - name: extralinks
+                label: Extra Links
+                type: object
+                list: true
+                fields:
+                  - name: label
+                    type: string
+                  - name: href
+                    type: string
+                  - name: icon
+                    type: string
+          - name: quickLinks
+            label: Quick Links
+            type: object
+            list: true
+            fields:
+              - name: icon
+                type: string
+              - name: label
+                type: string
+              - name: sublabel
+                type: string
+              - name: href
+                type: string
+              - name: image
+                type: image
+          - name: bookingOptions
+            label: Booking Options
+            type: object
+            list: true
+            fields:
+              - name: value
+                type: string
+              - name: label
+                type: string
+
+      - name: nav_en
+        label: Navigation (English)
+        type: file
+        path: content/en/_nav.md
+        format: yaml-frontmatter
+        fields:
+          - name: ferryHref
+            label: Ferry Link URL
+            type: string
+          - name: navItems
+            label: Navigation Items
+            type: object
+            list: true
+            fields:
+              - name: label
+                type: string
+              - name: href
+                type: string
+              - name: children
+                label: Sub-items
+                type: object
+                list: true
+                fields:
+                  - name: label
+                    type: string
+                  - name: href
+                    type: string
+                  - name: icon
+                    type: string
+              - name: extralinks
+                label: Extra Links
+                type: object
+                list: true
+                fields:
+                  - name: label
+                    type: string
+                  - name: href
+                    type: string
+                  - name: icon
+                    type: string
+          - name: quickLinks
+            label: Quick Links
+            type: object
+            list: true
+            fields:
+              - name: icon
+                type: string
+              - name: label
+                type: string
+              - name: sublabel
+                type: string
+              - name: href
+                type: string
+              - name: image
+                type: image
+          - name: bookingOptions
+            label: Booking Options
+            type: object
+            list: true
+            fields:
+              - name: value
+                type: string
+              - name: label
+                type: string
+
+      - name: nav_de
+        label: Navigation (Deutsch)
+        type: file
+        path: content/de/_nav.md
+        format: yaml-frontmatter
+        fields:
+          - name: ferryHref
+            label: Ferry Link URL
+            type: string
+          - name: navItems
+            label: Navigation Items
+            type: object
+            list: true
+            fields:
+              - name: label
+                type: string
+              - name: href
+                type: string
+              - name: children
+                label: Sub-items
+                type: object
+                list: true
+                fields:
+                  - name: label
+                    type: string
+                  - name: href
+                    type: string
+                  - name: icon
+                    type: string
+              - name: extralinks
+                label: Extra Links
+                type: object
+                list: true
+                fields:
+                  - name: label
+                    type: string
+                  - name: href
+                    type: string
+                  - name: icon
+                    type: string
+          - name: quickLinks
+            label: Quick Links
+            type: object
+            list: true
+            fields:
+              - name: icon
+                type: string
+              - name: label
+                type: string
+              - name: sublabel
+                type: string
+              - name: href
+                type: string
+              - name: image
+                type: image
+          - name: bookingOptions
+            label: Booking Options
+            type: object
+            list: true
+            fields:
+              - name: value
+                type: string
+              - name: label
+                type: string
+
+      - name: nav_fr
+        label: Navigation (Français)
+        type: file
+        path: content/fr/_nav.md
+        format: yaml-frontmatter
+        fields:
+          - name: ferryHref
+            label: Ferry Link URL
+            type: string
+          - name: navItems
+            label: Navigation Items
+            type: object
+            list: true
+            fields:
+              - name: label
+                type: string
+              - name: href
+                type: string
+              - name: children
+                label: Sub-items
+                type: object
+                list: true
+                fields:
+                  - name: label
+                    type: string
+                  - name: href
+                    type: string
+                  - name: icon
+                    type: string
+              - name: extralinks
+                label: Extra Links
+                type: object
+                list: true
+                fields:
+                  - name: label
+                    type: string
+                  - name: href
+                    type: string
+                  - name: icon
+                    type: string
+          - name: quickLinks
+            label: Quick Links
+            type: object
+            list: true
+            fields:
+              - name: icon
+                type: string
+              - name: label
+                type: string
+              - name: sublabel
+                type: string
+              - name: href
+                type: string
+              - name: image
+                type: image
+          - name: bookingOptions
+            label: Booking Options
+            type: object
+            list: true
+            fields:
+              - name: value
+                type: string
+              - name: label
+                type: string
+
+  # ── Pages — one collection per language ──────────────────────────────────────
+  - name: pages_it
+    label: Pages (Italiano)
+    type: collection
+    path: content/it
+    exclude: ["_nav.md", "_ui.md"]
+    format: yaml-frontmatter
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: description
+        label: SEO Description
+        type: text
+      - name: seoImage
+        label: SEO Image
+        type: image
+      - name: keywords
+        label: SEO Keywords
+        type: string
+      - name: translations
+        label: URL Translations
+        type: object
+        fields:
+          - name: it
+            label: IT path
+            type: string
+          - name: en
+            label: EN path
+            type: string
+          - name: de
+            label: DE path
+            type: string
+          - name: fr
+            label: FR path
+            type: string
+      - name: hero
+        label: Hero Section
+        type: object
+        fields:
+          - name: eyebrow
+            label: Eyebrow Text
+            type: string
+          - name: title
+            label: Title
+            type: string
+          - name: subtitle
+            label: Subtitle
+            type: string
+          - name: image
+            label: Hero Image (single)
+            type: image
+          - name: imageAlt
+            label: Hero Image Alt Text
+            type: string
+          - name: video
+            label: Hero Video URL
+            type: string
+          - name: gallery
+            label: Gallery Images
+            type: image
+            list: true
+          - name: altGallery
+            label: Gallery Alt Texts
+            type: string
+            list: true
+          - name: galleryCta
+            label: Gallery CTA Button
+            type: object
+            fields:
+              - name: label
+                type: string
+              - name: href
+                type: string
+          - name: primaryCta
+            label: Primary CTA Button
+            type: object
+            fields:
+              - name: label
+                type: string
+              - name: href
+                type: string
+          - name: secondaryCta
+            label: Secondary CTA Button
+            type: object
+            fields:
+              - name: label
+                type: string
+              - name: href
+                type: string
+      - name: textBlock
+        label: Text Block
+        type: object
+        fields:
+          - name: eyebrow
+            label: Eyebrow Text
+            type: string
+          - name: title
+            label: Title
+            type: string
+      - name: stats
+        label: Highlights / Stats
+        type: object
+        list: true
+        fields:
+          - name: value
+            label: Value
+            type: string
+          - name: label
+            label: Label
+            type: string
+      - name: typeGalleries
+        label: Type Galleries (villa types, etc.)
+        type: object
+        list: true
+        fields:
+          - name: label
+            label: Type Name
+            type: string
+          - name: badge
+            label: Badge Text
+            type: string
+          - name: highlight
+            label: Highlight Note
+            type: string
+          - name: features
+            label: Features
+            type: string
+            list: true
+          - name: images
+            label: Gallery Images
+            type: image
+            list: true
+          - name: altGallery
+            label: Image Alt Texts
+            type: string
+            list: true
+      - name: body
+        label: Page Body
+        type: rich-text
+
+  - name: pages_en
+    label: Pages (English)
+    type: collection
+    path: content/en
+    exclude: ["_nav.md", "_ui.md"]
+    format: yaml-frontmatter
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: description
+        label: SEO Description
+        type: text
+      - name: seoImage
+        label: SEO Image
+        type: image
+      - name: keywords
+        label: SEO Keywords
+        type: string
+      - name: translations
+        label: URL Translations
+        type: object
+        fields:
+          - name: it
+            label: IT path
+            type: string
+          - name: en
+            label: EN path
+            type: string
+          - name: de
+            label: DE path
+            type: string
+          - name: fr
+            label: FR path
+            type: string
+      - name: hero
+        label: Hero Section
+        type: object
+        fields:
+          - name: eyebrow
+            label: Eyebrow Text
+            type: string
+          - name: title
+            label: Title
+            type: string
+          - name: subtitle
+            label: Subtitle
+            type: string
+          - name: image
+            label: Hero Image (single)
+            type: image
+          - name: imageAlt
+            label: Hero Image Alt Text
+            type: string
+          - name: video
+            label: Hero Video URL
+            type: string
+          - name: gallery
+            label: Gallery Images
+            type: image
+            list: true
+          - name: altGallery
+            label: Gallery Alt Texts
+            type: string
+            list: true
+          - name: galleryCta
+            label: Gallery CTA Button
+            type: object
+            fields:
+              - name: label
+                type: string
+              - name: href
+                type: string
+          - name: primaryCta
+            label: Primary CTA Button
+            type: object
+            fields:
+              - name: label
+                type: string
+              - name: href
+                type: string
+          - name: secondaryCta
+            label: Secondary CTA Button
+            type: object
+            fields:
+              - name: label
+                type: string
+              - name: href
+                type: string
+      - name: textBlock
+        label: Text Block
+        type: object
+        fields:
+          - name: eyebrow
+            label: Eyebrow Text
+            type: string
+          - name: title
+            label: Title
+            type: string
+      - name: stats
+        label: Highlights / Stats
+        type: object
+        list: true
+        fields:
+          - name: value
+            label: Value
+            type: string
+          - name: label
+            label: Label
+            type: string
+      - name: typeGalleries
+        label: Type Galleries (villa types, etc.)
+        type: object
+        list: true
+        fields:
+          - name: label
+            label: Type Name
+            type: string
+          - name: badge
+            label: Badge Text
+            type: string
+          - name: highlight
+            label: Highlight Note
+            type: string
+          - name: features
+            label: Features
+            type: string
+            list: true
+          - name: images
+            label: Gallery Images
+            type: image
+            list: true
+          - name: altGallery
+            label: Image Alt Texts
+            type: string
+            list: true
+      - name: body
+        label: Page Body
+        type: rich-text
+
+  - name: pages_de
+    label: Pages (Deutsch)
+    type: collection
+    path: content/de
+    exclude: ["_nav.md", "_ui.md"]
+    format: yaml-frontmatter
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: description
+        label: SEO Description
+        type: text
+      - name: seoImage
+        label: SEO Image
+        type: image
+      - name: keywords
+        label: SEO Keywords
+        type: string
+      - name: translations
+        label: URL Translations
+        type: object
+        fields:
+          - name: it
+            label: IT path
+            type: string
+          - name: en
+            label: EN path
+            type: string
+          - name: de
+            label: DE path
+            type: string
+          - name: fr
+            label: FR path
+            type: string
+      - name: hero
+        label: Hero Section
+        type: object
+        fields:
+          - name: eyebrow
+            label: Eyebrow Text
+            type: string
+          - name: title
+            label: Title
+            type: string
+          - name: subtitle
+            label: Subtitle
+            type: string
+          - name: image
+            label: Hero Image (single)
+            type: image
+          - name: imageAlt
+            label: Hero Image Alt Text
+            type: string
+          - name: video
+            label: Hero Video URL
+            type: string
+          - name: gallery
+            label: Gallery Images
+            type: image
+            list: true
+          - name: altGallery
+            label: Gallery Alt Texts
+            type: string
+            list: true
+          - name: galleryCta
+            label: Gallery CTA Button
+            type: object
+            fields:
+              - name: label
+                type: string
+              - name: href
+                type: string
+          - name: primaryCta
+            label: Primary CTA Button
+            type: object
+            fields:
+              - name: label
+                type: string
+              - name: href
+                type: string
+          - name: secondaryCta
+            label: Secondary CTA Button
+            type: object
+            fields:
+              - name: label
+                type: string
+              - name: href
+                type: string
+      - name: textBlock
+        label: Text Block
+        type: object
+        fields:
+          - name: eyebrow
+            label: Eyebrow Text
+            type: string
+          - name: title
+            label: Title
+            type: string
+      - name: stats
+        label: Highlights / Stats
+        type: object
+        list: true
+        fields:
+          - name: value
+            label: Value
+            type: string
+          - name: label
+            label: Label
+            type: string
+      - name: typeGalleries
+        label: Type Galleries (villa types, etc.)
+        type: object
+        list: true
+        fields:
+          - name: label
+            label: Type Name
+            type: string
+          - name: badge
+            label: Badge Text
+            type: string
+          - name: highlight
+            label: Highlight Note
+            type: string
+          - name: features
+            label: Features
+            type: string
+            list: true
+          - name: images
+            label: Gallery Images
+            type: image
+            list: true
+          - name: altGallery
+            label: Image Alt Texts
+            type: string
+            list: true
+      - name: body
+        label: Page Body
+        type: rich-text
+
+  - name: pages_fr
+    label: Pages (Français)
+    type: collection
+    path: content/fr
+    exclude: ["_nav.md", "_ui.md"]
+    format: yaml-frontmatter
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: description
+        label: SEO Description
+        type: text
+      - name: seoImage
+        label: SEO Image
+        type: image
+      - name: keywords
+        label: SEO Keywords
+        type: string
+      - name: translations
+        label: URL Translations
+        type: object
+        fields:
+          - name: it
+            label: IT path
+            type: string
+          - name: en
+            label: EN path
+            type: string
+          - name: de
+            label: DE path
+            type: string
+          - name: fr
+            label: FR path
+            type: string
+      - name: hero
+        label: Hero Section
+        type: object
+        fields:
+          - name: eyebrow
+            label: Eyebrow Text
+            type: string
+          - name: title
+            label: Title
+            type: string
+          - name: subtitle
+            label: Subtitle
+            type: string
+          - name: image
+            label: Hero Image (single)
+            type: image
+          - name: imageAlt
+            label: Hero Image Alt Text
+            type: string
+          - name: video
+            label: Hero Video URL
+            type: string
+          - name: gallery
+            label: Gallery Images
+            type: image
+            list: true
+          - name: altGallery
+            label: Gallery Alt Texts
+            type: string
+            list: true
+          - name: galleryCta
+            label: Gallery CTA Button
+            type: object
+            fields:
+              - name: label
+                type: string
+              - name: href
+                type: string
+          - name: primaryCta
+            label: Primary CTA Button
+            type: object
+            fields:
+              - name: label
+                type: string
+              - name: href
+                type: string
+          - name: secondaryCta
+            label: Secondary CTA Button
+            type: object
+            fields:
+              - name: label
+                type: string
+              - name: href
+                type: string
+      - name: textBlock
+        label: Text Block
+        type: object
+        fields:
+          - name: eyebrow
+            label: Eyebrow Text
+            type: string
+          - name: title
+            label: Title
+            type: string
+      - name: stats
+        label: Highlights / Stats
+        type: object
+        list: true
+        fields:
+          - name: value
+            label: Value
+            type: string
+          - name: label
+            label: Label
+            type: string
+      - name: typeGalleries
+        label: Type Galleries (villa types, etc.)
+        type: object
+        list: true
+        fields:
+          - name: label
+            label: Type Name
+            type: string
+          - name: badge
+            label: Badge Text
+            type: string
+          - name: highlight
+            label: Highlight Note
+            type: string
+          - name: features
+            label: Features
+            type: string
+            list: true
+          - name: images
+            label: Gallery Images
+            type: image
+            list: true
+          - name: altGallery
+            label: Image Alt Texts
+            type: string
+            list: true
+      - name: body
+        label: Page Body
+        type: rich-text
