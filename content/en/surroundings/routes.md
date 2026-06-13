@@ -10,7 +10,7 @@ hero:
   eyebrow: "Surroundings · Itineraries"
   title: "Itineraries"
   subtitle: "How to organise your Conca Verde vacation: day trips, by boat or by car, practical tips."
-  image: "/img/1028.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/1028.jpg"
   imageAlt: "Itineraries Gallura Northern Sardinia"
   primaryCta:
     label: "Organised Excursions"

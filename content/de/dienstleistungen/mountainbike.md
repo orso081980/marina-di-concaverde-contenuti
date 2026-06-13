@@ -10,7 +10,7 @@ hero:
   eyebrow: "Dienstleistungen · Mountainbike"
   title: "Mountainbike"
   subtitle: "Erkunden Sie das unberührte Gallura im Sattel: Küstenpfade, Mittelmeervegetation und atemberaubende Aussichten."
-  image: "/img/mountain-bike.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/mountain-bike.jpg"
   imageAlt: "Mountainbike Trails Gallura Sardinien"
   primaryCta:
     label: "Verleih buchen"

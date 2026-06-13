@@ -10,7 +10,7 @@ hero:
   eyebrow: "Servizi · Mountain Bike"
   title: "Mountain Bike"
   subtitle: "Esplora la Gallura incontaminata in sella: sentieri costieri, macchia mediterranea e panorami mozzafiato."
-  image: "/img/mountain-bike.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/mountain-bike.jpg"
   imageAlt: "Mountain bike sentieri Gallura Sardegna"
   primaryCta:
     label: "Contattaci"
@@ -34,6 +34,6 @@ stats:
 
 La bicicletta è senz'altro uno dei **mezzi migliori per prendere contatto con la natura** ed esplorare le zone più incontaminate e belle della Gallura. Dai sentieri costieri panoramici alle piste sterrate nell'entroterra, ogni pedalata diventa un'avventura visiva.
 
-##  Mountain Bike
+## Mountain Bike
 
 Possiamo suggerirti le migliori attività di noleggio di mountain bike elettriche o tradizionali ma soprattutto le migliori guide per scoprire posti nascosti e introvabili.

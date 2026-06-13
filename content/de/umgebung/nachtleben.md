@@ -10,7 +10,7 @@ hero:
   eyebrow: "Umgebung · Nachtleben"
   title: "Nachtleben"
   subtitle: "Von Sonnenuntergangscocktails auf den Klippen bis zu den Diskotheken der Costa Smeralda."
-  image: "/img/1362.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/1362.jpg"
   imageAlt: "Nachtleben Gallura Costa Smeralda Sardinien"
   primaryCta:
     label: "Zurück zur Umgebung"

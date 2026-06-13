@@ -10,7 +10,12 @@ hero:
   eyebrow: "Conca Verde · Santa Teresa Gallura"
   title: "The Residence"
   subtitle: "Villas in Gallurese Stazzu style overlooking the Porto Pozzo fjord."
-  gallery: ["/img/9043693.webp", "/img/IMG_8768rr.JPG", "/img/IMG_8769.JPG"]
+  gallery:
+    [
+      "https://cdn.marinadiconcaverde.it/img/9043693.webp",
+      "https://cdn.marinadiconcaverde.it/img/IMG_8768rr.JPG",
+      "https://cdn.marinadiconcaverde.it/img/IMG_8769.JPG",
+    ]
   altGallery: ["Marina di Conca Verde Residence", "Villas Porto Pozzo", "The Porto Pozzo fjord"]
   galleryCta:
     label: "Open gallery"

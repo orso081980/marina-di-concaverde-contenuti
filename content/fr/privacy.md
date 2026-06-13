@@ -10,7 +10,7 @@ hero:
   eyebrow: "Info · Confidentialité"
   title: "Mentions Légales et Politique de Confidentialité"
   subtitle: "Informations sur le traitement des données personnelles et les mentions légales du site."
-  image: "/img/1028.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/1028.jpg"
   imageAlt: "Politique de confidentialité Marina di Conca Verde"
   primaryCta:
     label: "Contact"

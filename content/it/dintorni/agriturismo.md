@@ -10,7 +10,7 @@ hero:
   eyebrow: "Dintorni · Agriturismo"
   title: "Agriturismo"
   subtitle: "Formaggi freschi e stagionati, pane carasau, maialetto, vermentino, cannonau, mirto e Seadas: la Gallura a tavola."
-  image: "/img/1351.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/1351.jpg"
   imageAlt: "Agriturismo campagna gallurese Sardegna"
   primaryCta:
     label: "Prenota una Visita"
@@ -60,14 +60,13 @@ Un tipico pranzo in agriturismo nella Gallura comprende:
 
 - **Seadas**: pastella fritta ripiena di formaggio fresco e ricoperta di miele o zucchero
 - **Papassini**: tipici dolci secchi glassati
-  
 
 ### Vini e Liquori
 
 - **Vermentino di Gallura DOCG** — il vino bianco tipico della zona
 - **Cannonau di Sardegna** — il rosso più noto dell'isola
-- **Nebbiolo di Gallura** — il rosso tipico delle colline zona di Luras/Tempio 
-- **Mirto** — digestivo sardo per eccellenza, rosso (da bacche di mirto nero) 
+- **Nebbiolo di Gallura** — il rosso tipico delle colline zona di Luras/Tempio
+- **Mirto** — digestivo sardo per eccellenza, rosso (da bacche di mirto nero)
 
 ## Come Raggiungerli
 

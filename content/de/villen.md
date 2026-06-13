@@ -10,7 +10,7 @@ hero:
   eyebrow: "Unterkunft · Gallura"
   title: "Die Villen"
   subtitle: "Stazzu-Gallurese-Stil: sichtbarer sardischer Granit, Massivholz und moderner Komfort."
-  image: "/img/1297.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/1297.jpg"
   imageAlt: "Villen Marina di Conca Verde"
   primaryCta:
     label: "Preise & Verfügbarkeit"
@@ -41,10 +41,10 @@ typeGalleries:
       - "Bewohnbare Außenveranda"
       - "Kleiner Garten"
     images:
-      - "/img/1297.jpg"
-      - "/img/1299.jpg"
-      - "/img/1300.jpg"
-      - "/img/1301.jpg"
+      - "https://cdn.marinadiconcaverde.it/img/1297.jpg"
+      - "https://cdn.marinadiconcaverde.it/img/1299.jpg"
+      - "https://cdn.marinadiconcaverde.it/img/1300.jpg"
+      - "https://cdn.marinadiconcaverde.it/img/1301.jpg"
     altGallery:
       - "Studio-Villa — Außenansicht"
       - "Studio-Villa — Veranda"
@@ -60,10 +60,10 @@ typeGalleries:
       - "Wohnzimmer mit Schlafsofa"
       - "Bewohnbare Außenveranda mit Garten"
     images:
-      - "/img/1285.jpg"
-      - "/img/1367.jpg"
-      - "/img/1368.jpg"
-      - "/img/1369.jpg"
+      - "https://cdn.marinadiconcaverde.it/img/1285.jpg"
+      - "https://cdn.marinadiconcaverde.it/img/1367.jpg"
+      - "https://cdn.marinadiconcaverde.it/img/1368.jpg"
+      - "https://cdn.marinadiconcaverde.it/img/1369.jpg"
     altGallery:
       - "Zweizimmer-Villa — Außenansicht"
       - "Zweizimmer-Villa — Veranda"
@@ -78,9 +78,9 @@ typeGalleries:
       - "Große private Außenbereiche"
       - "Exklusiver Garten"
     images:
-      - "/img/1370.jpg"
-      - "/img/1371.jpg"
-      - "/img/1372.jpg"
+      - "https://cdn.marinadiconcaverde.it/img/1370.jpg"
+      - "https://cdn.marinadiconcaverde.it/img/1371.jpg"
+      - "https://cdn.marinadiconcaverde.it/img/1372.jpg"
     altGallery:
       - "Freistehende Villa — Außenansicht"
       - "Freistehende Villa — Garten"
@@ -94,9 +94,9 @@ typeGalleries:
       - "4 Schlafplätze"
       - "Größere Außenbereiche"
     images:
-      - "/img/1373.jpg"
-      - "/img/1374.jpg"
-      - "/img/1375.jpg"
+      - "https://cdn.marinadiconcaverde.it/img/1373.jpg"
+      - "https://cdn.marinadiconcaverde.it/img/1374.jpg"
+      - "https://cdn.marinadiconcaverde.it/img/1375.jpg"
     altGallery:
       - "Eck-Studio — Außenansicht"
       - "Eck-Studio — Veranda"

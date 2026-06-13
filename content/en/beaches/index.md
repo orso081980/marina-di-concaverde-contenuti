@@ -10,7 +10,13 @@ hero:
   eyebrow: "Gallura · Sardinia"
   title: "The Archipelago and Beaches"
   subtitle: "The coves of Conca Verde, the La Maddalena Archipelago and the most beautiful coastlines of North Sardinia."
-  gallery: ["/img/pexels-bovistas-2157537713-34951696.jpg", "/img/valle-erica.jpg", "/img/2299.jpg", "/img/1376.jpg"]
+  gallery:
+    [
+      "https://cdn.marinadiconcaverde.it/img/pexels-bovistas-2157537713-34951696.jpg",
+      "https://cdn.marinadiconcaverde.it/img/valle-erica.jpg",
+      "https://cdn.marinadiconcaverde.it/img/2299.jpg",
+      "https://cdn.marinadiconcaverde.it/img/1376.jpg",
+    ]
   altGallery: ["La Maddalena Archipelago", "Conca Verde Beach", "Gallura Coves Sardinia"]
   galleryCta:
     label: "Open Gallery"

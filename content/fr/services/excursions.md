@@ -10,7 +10,7 @@ hero:
   eyebrow: "Services · Excursions"
   title: "Excursions"
   subtitle: "Voile, équitation, quad, windsurf, kitesurf et pêche : la Gallura à 360°."
-  image: "/img/escursioni.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/escursioni.jpg"
   imageAlt: "Excursion en bateau archipel de La Maddalena"
   primaryCta:
     label: "Réserver une excursion"

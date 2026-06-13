@@ -11,7 +11,7 @@ hero:
   eyebrow: "Promotions"
   title: "Offres Spéciales"
   subtitle: "Formules et promotions pour votre séjour en Sardaigne."
-  image: "/img/1028.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/1028.jpg"
   imageAlt: "Offres Spéciales Marina di Conca Verde"
   primaryCta:
     label: "Contact"

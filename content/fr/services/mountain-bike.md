@@ -10,7 +10,7 @@ hero:
   eyebrow: "Services · VTT"
   title: "VTT"
   subtitle: "Explorez la Gallura préservée en selle : sentiers côtiers, maquis méditerranéen et vues à couper le souffle."
-  image: "/img/mountain-bike.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/mountain-bike.jpg"
   imageAlt: "VTT sentiers Gallura Sardaigne"
   primaryCta:
     label: "Réserver une location"

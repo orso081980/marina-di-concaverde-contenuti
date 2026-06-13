@@ -10,7 +10,7 @@ hero:
   eyebrow: "Beaches · Gallura"
   title: "Beaches of Gallura"
   subtitle: "Pink granite, Mediterranean scrub and turquoise waters: the beaches of Gallura are among the most beautiful in the Mediterranean."
-  image: "/img/valle-erica.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/valle-erica.jpg"
   imageAlt: "Beaches of Gallura Sardinia"
   primaryCta:
     label: "Rates & Availability"

@@ -10,7 +10,7 @@ hero:
   eyebrow: "Strände · Costa Smeralda"
   title: "Costa Smeralda"
   subtitle: "Nur 30 Minuten mit dem Auto, Italiens exklusivste Küste: Porto Cervo, Cala di Volpe und die ikonischsten Strände Sardiniens."
-  image: "/img/1367.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/1367.jpg"
   imageAlt: "Costa Smeralda Porto Cervo Sardinien"
   primaryCta:
     label: "Mietwagen / Transfer"

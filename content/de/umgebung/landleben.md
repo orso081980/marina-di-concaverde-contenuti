@@ -10,7 +10,7 @@ hero:
   eyebrow: "Umgebung · Landleben"
   title: "Landgasthäuser"
   subtitle: "Frischkäse, Pane Carasau, Spanferkel und Hofwein: Gallura bäuerlich bei Tisch."
-  image: "/img/1351.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/1351.jpg"
   imageAlt: "Agriturismus gallurese Landschaft Sardinien"
   primaryCta:
     label: "Besuch anfragen"

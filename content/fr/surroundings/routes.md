@@ -10,7 +10,7 @@ hero:
   eyebrow: "Environs · Itinéraires"
   title: "Itinéraires"
   subtitle: "Comment organiser vos vacances à Porto Pozzo : excursions d'une journée, circuits de plusieurs jours et conseils pratiques."
-  image: "/img/1028.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/1028.jpg"
   imageAlt: "Itinéraires Gallura nord de la Sardaigne"
   primaryCta:
     label: "Excursions organisées"

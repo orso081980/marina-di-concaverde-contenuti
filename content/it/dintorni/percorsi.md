@@ -10,7 +10,7 @@ hero:
   eyebrow: "Residence · Percorsi"
   title: "Percorsi & Itinerari"
   subtitle: "Sentieri costieri e rotte marine tra i panorami più spettacolari della Gallura."
-  image: "/img/valle-luna-percorsi.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/valle-luna-percorsi.jpg"
   imageAlt: "Sentiero costiero"
 
 textBlock:

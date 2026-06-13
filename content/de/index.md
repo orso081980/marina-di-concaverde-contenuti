@@ -10,7 +10,8 @@ hero:
   eyebrow: Willkommen bei
   title: Marina di Conca Verde
   subtitle: Ihr Urlaubsparadies an der Costa Smeralda, Sardinien
-  gallery: ["/img/1375.jpg", "/img/1376.jpg", "/img/1294.jpg"]
+  gallery:
+    ["https://cdn.marinadiconcaverde.it/img/1375.jpg", "https://cdn.marinadiconcaverde.it/img/1376.jpg", "https://cdn.marinadiconcaverde.it/img/1294.jpg"]
   altGallery: ["Marina di Conca Verde", "Porto Pozzo", "Spiaggia"]
   galleryCta:
     label: "Galerie öffnen"

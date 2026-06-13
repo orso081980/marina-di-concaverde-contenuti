@@ -10,7 +10,7 @@ hero:
   eyebrow: "Services · Excursions"
   title: "Excursions"
   subtitle: "by dinghy, sailing, horseback, quad, windsurfing, kitesurfing and fishing: Gallura at 360°."
-  image: "/img/noleggio-gommoni-santa-teresa13.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/noleggio-gommoni-santa-teresa13.jpg"
   imageAlt: "Boat excursion La Maddalena archipelago"
   primaryCta:
     label: "Contact Us"

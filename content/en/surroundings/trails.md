@@ -10,7 +10,7 @@ hero:
   eyebrow: "Residence · Trails"
   title: "Trails & Itineraries"
   subtitle: "Coastal paths and sea routes among the most spectacular landscapes of Gallura."
-  image: "/img/valle-luna-percorsi.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/valle-luna-percorsi.jpg"
   imageAlt: "Coastal trail"
 textBlock:
   eyebrow: "Trails"

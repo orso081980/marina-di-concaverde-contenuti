@@ -10,7 +10,7 @@ hero:
   eyebrow: "Preise · Saison 2025"
   title: "Preise"
   subtitle: "Urlaub in Stazzu-Gallurese-Villen am Fjord von Porto Pozzo. Saisonpreise."
-  image: "/img/1298.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/1298.jpg"
   imageAlt: "Villa Marina di Conca Verde"
   primaryCta:
     label: "Verfügbarkeit anfragen"
@@ -62,5 +62,4 @@ pricingData:
       cost: "€ 75"
 ---
 
-::PricingTable 
-::
+::PricingTable ::

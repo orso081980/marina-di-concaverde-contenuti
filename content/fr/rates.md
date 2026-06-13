@@ -10,7 +10,7 @@ hero:
   eyebrow: "Prix · Saison 2025"
   title: "Tarifs"
   subtitle: "Séjours en villas Stazzu Gallurese sur le fjord de Porto Pozzo. Prix par saison."
-  image: "/img/1298.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/1298.jpg"
   imageAlt: "Villa Marina di Conca Verde"
   primaryCta:
     label: "Demander la disponibilité"
@@ -62,5 +62,4 @@ pricingData:
       cost: "€ 75"
 ---
 
-::PricingTable 
-::
+::PricingTable ::

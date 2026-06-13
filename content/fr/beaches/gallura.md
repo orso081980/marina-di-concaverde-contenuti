@@ -10,7 +10,7 @@ hero:
   eyebrow: "Plages · Gallura"
   title: "Plages de la Gallura"
   subtitle: "Granit rose, maquis méditerranéen et eaux turquoises : les plages de la Gallura comptent parmi les plus belles de la Méditerranée."
-  image: "/img/1285.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/1285.jpg"
   imageAlt: "Plages de la Gallura Sardaigne"
   primaryCta:
     label: "Rent a Car / NCC"

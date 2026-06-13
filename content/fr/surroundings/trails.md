@@ -10,7 +10,7 @@ hero:
   eyebrow: "Résidence · Sentiers"
   title: "Sentiers & Itinéraires"
   subtitle: "Sentiers côtiers, pistes cyclables et routes maritimes parmi les panoramas les plus spectaculaires de la Gallura."
-  image: "/img/percorsi-2.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/percorsi-2.jpg"
   imageAlt: "Sentier côtier dans le fjord de Porto Pozzo"
 textBlock:
   eyebrow: "Sentiers"

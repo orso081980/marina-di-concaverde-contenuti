@@ -10,7 +10,7 @@ hero:
   eyebrow: "Strände · Gallura"
   title: "Strände der Gallura"
   subtitle: "Rosa Granit, mediterrane Macchia und türkises Wasser: die Strände der Gallura gehören zu den schönsten des Mittelmeers."
-  image: "/img/1285.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/1285.jpg"
   imageAlt: "Strände der Gallura Sardinien"
   primaryCta:
     label: "Mietwagen / Transfer"

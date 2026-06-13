@@ -10,7 +10,7 @@ hero:
   eyebrow: "Services · Welcome"
   title: "Welcome"
   subtitle: "We are at your disposal to make your stay absolutely perfect."
-  image: "/img/IMG_5942r.JPG"
+  image: "https://cdn.marinadiconcaverde.it/img/IMG_5942r.JPG"
   imageAlt: "Reception Marina di Conca Verde"
   primaryCta:
     label: "Contact Us"

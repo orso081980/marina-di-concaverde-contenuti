@@ -10,7 +10,7 @@ hero:
   eyebrow: "Servizi · Escursioni"
   title: "Escursioni"
   subtitle: "in gommone, in barca a vela, a cavallo, quad, windsurf, kitesurf e pesca: la Gallura da vivere a 360°."
-  image: "/img/noleggio-gommoni-santa-teresa13.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/noleggio-gommoni-santa-teresa13.jpg"
   imageAlt: "Escursione in barca arcipelago La Maddalena"
   primaryCta:
     label: "Contattaci"

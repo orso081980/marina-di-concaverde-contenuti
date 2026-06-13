@@ -10,7 +10,7 @@ hero:
   eyebrow: "Capo Testa"
   title: "Area Marina Protetta"
   description: "Nel cuore delle bocche di bonifacio, l'area marina protetta di Capo Testa tra imponenti rocce di granito levigate dal vento, antichi boschi di  ginepro e un mare di biodiversità."
-  image: "/img/calaspinosasantateresa.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/calaspinosasantateresa.jpg"
   imageAlt: "Parco naturale in Gallura"
 textBlock:
   eyebrow: "Il Parco"
@@ -26,7 +26,7 @@ stats:
     label: "Biodiversità Marina"
 ---
 
-L’Area Marina Protetta Capo Testa – Punta Falcone, localizzata nel Comune di Santa Teresa Gallura, si delinea sulla superficie marina che si sporge sulle Bocche di Bonifacio e racchiude al suo interno, per estensione, quasi tutta la costa  del comune, caratterizzata da un paesaggio di sabbie bianche e imponenti rocce granitiche che rappresentano dei veri monumenti naturali, localizzati in un ambiente naturale ricco di profumi, forme e colori che coinvolgono tutti i sensi.
+L’Area Marina Protetta Capo Testa – Punta Falcone, localizzata nel Comune di Santa Teresa Gallura, si delinea sulla superficie marina che si sporge sulle Bocche di Bonifacio e racchiude al suo interno, per estensione, quasi tutta la costa del comune, caratterizzata da un paesaggio di sabbie bianche e imponenti rocce granitiche che rappresentano dei veri monumenti naturali, localizzati in un ambiente naturale ricco di profumi, forme e colori che coinvolgono tutti i sensi.
 
 La favorevole posizione del luogo, caratterizzato da insenature e cale adatte anche agli approdi marini, destò interesse per scopi militari, infatti, già nella seconda metà del 1500 Re Filippo II di Spagna decise di costruire la torre costiera di Longosardo, struttura che insieme ad un altro centinaio di torri dislocate in tutto il territorio costiero isolano aveva funzione di difendere e controllare eventuali incursioni nemiche.
 

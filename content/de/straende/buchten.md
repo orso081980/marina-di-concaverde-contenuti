@@ -10,7 +10,7 @@ hero:
   eyebrow: "Strände · Conca Verde"
   title: "Die Buchten von Conca Verde"
   subtitle: "Der Fjord von Porto Pozzo birgt Buchten von seltener Schönheit, mit kristallklarem Wasser und feinem Sand."
-  image: "/img/1285.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/1285.jpg"
   imageAlt: "Buchten von Conca Verde Porto Pozzo Gallura"
   primaryCta:
     label: "Schlauchboot mieten"

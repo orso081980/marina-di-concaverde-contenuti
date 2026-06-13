@@ -10,7 +10,7 @@ hero:
   eyebrow: "Plages · Conca Verde"
   title: "Les Criques de Conca Verde"
   subtitle: "Le fjord de Porto Pozzo cache des criques d'une rare beauté, avec des eaux cristallines et du sable fin."
-  image: "/img/1285.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/1285.jpg"
   imageAlt: "Criques de Conca Verde Porto Pozzo Gallura"
   primaryCta:
     label: "Louer un Pneumatique"

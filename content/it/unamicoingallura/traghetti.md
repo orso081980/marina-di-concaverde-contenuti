@@ -10,7 +10,7 @@ hero:
   eyebrow: "Viaggi · Traghetti"
   title: "Traghetti"
   subtitle: "Come arrivare in Sardegna in traghetto e come raggiungere la Corsica da Santa Teresa Gallura."
-  image: "/img/traghetti.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/traghetti.jpg"
   imageAlt: "Traghetto Sardegna porto Santa Teresa Gallura"
   primaryCta:
     label: "Prenota un Traghetto"
@@ -72,7 +72,6 @@ Olbia è il principale porto di arrivo per il nord Sardegna. I principali operat
 
 Per raggiungere **Bonifacio** in Corsica (la città barocca arroccata sulle scogliere bianche) bastano **50 minuti di traghetto** dal porto di Santa Teresa Gallura (10 km dal residence).
 
-
 - [traghetti.com](https://www.traghetti.com) — comparatore tutte le compagnie
 - [Moby Lines](https://www.moby.it) — booking diretto
 - [Tirrenia](https://www.tirrenia.it) — booking diretto
@@ -81,6 +80,5 @@ Per raggiungere **Bonifacio** in Corsica (la città barocca arroccata sulle scog
 ## Dall'Aeroporto di Olbia al Residence
 
 Se preferisci l'aereo, l'**aeroporto di Olbia–Costa Smeralda** è a soli 60 minuti dal residence.
-
 
 <iframe width="100%" height="900px" frameborder="0" align="center" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; overflow-x: hidden; border: medium none;" src="https://booking.traghettiper.it/main.php?MAREA=S&amp;NPRT=235&amp;CODAFF=TP1199&amp;BLANG=it"></iframe>

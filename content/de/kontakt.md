@@ -10,7 +10,7 @@ hero:
   eyebrow: "Info · Buchungen"
   title: "Kontakt"
   subtitle: "Wir stehen Ihnen für alle Informationen oder Buchungen zur Verfügung."
-  image: "/img/1354.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/1354.jpg"
   imageAlt: "Kontakt Marina di Conca Verde Porto Pozzo"
   primaryCta:
     label: "E-Mail senden"

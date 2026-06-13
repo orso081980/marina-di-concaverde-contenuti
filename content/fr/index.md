@@ -10,7 +10,8 @@ hero:
   eyebrow: Bienvenue à
   title: Marina di Conca Verde
   subtitle: Votre retraite de vacances sur la Costa Smeralda, Sardaigne
-  gallery: ["/img/1375.jpg", "/img/1376.jpg", "/img/1294.jpg"]
+  gallery:
+    ["https://cdn.marinadiconcaverde.it/img/1375.jpg", "https://cdn.marinadiconcaverde.it/img/1376.jpg", "https://cdn.marinadiconcaverde.it/img/1294.jpg"]
   altGallery: ["Marina di Conca Verde", "Porto Pozzo", "Spiaggia"]
   galleryCta:
     label: "Ouvrir la galerie"

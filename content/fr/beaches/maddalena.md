@@ -10,7 +10,7 @@ hero:
   eyebrow: "Plages · La Maddalena"
   title: "Archipel de La Maddalena"
   subtitle: "À 10 minutes en pneumatique, le Parc National de l'Archipel de La Maddalena : des îles et des eaux d'une beauté extraordinaire."
-  image: "/img/1285.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/1285.jpg"
   imageAlt: "Archipel de La Maddalena Sardaigne"
   primaryCta:
     label: "Réserver une Excursion"

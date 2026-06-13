@@ -10,7 +10,7 @@ hero:
   eyebrow: "Dintorni · Itinerari"
   title: "Itinerari"
   subtitle: "Come organizzare la tua vacanza a Conca Verde: gite di un giorno, in barca o in auto, consigli pratici."
-  image: "/img/1028.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/1028.jpg"
   imageAlt: "Itinerari Gallura Sardegna settentrionale"
   primaryCta:
     label: "Escursioni Organizzate"
@@ -42,7 +42,6 @@ Scopri gli **itinerari consigliati** per chi soggiorna a Marina di Conca Verde. 
 
 Il grande classico. Parti la mattina presto (8:00–9:00) con il gommone noleggiato e trascorri la giornata esplorando le isole del parco nazionale.
 
-
 ---
 
 ## Gita di 1 Giorno: Bonifacio e la Corsica 🏰
@@ -61,7 +60,6 @@ Un tour delle principali attrazioni dell'entroterra e della costa gallurese, ada
 
 ---
 
-
 ---
 
 ## Programma Settimanale Consigliato 🗓
@@ -73,7 +71,7 @@ Un tour delle principali attrazioni dell'entroterra e della costa gallurese, ada
 | Lunedì    | Gita arcipelago La Maddalena in barca            |
 | Martedì   | Escursione a cavallo nella macchia + agriturismo |
 | Mercoledì | Gita Bonifacio in traghetto                      |
-| Giovedì   | Visita spiagge calette vicine           |
+| Giovedì   | Visita spiagge calette vicine                    |
 | Venerdì   | Tour Costa Smeralda e Porto Cervo in auto        |
 | Sabato    | Partenza                                         |
 
@@ -81,7 +79,7 @@ Un tour delle principali attrazioni dell'entroterra e della costa gallurese, ada
 
 ## Consigli Pratici per gli Itinerari
 
-- **Auto a noleggio**: quasi indispensabile per l'itinerario in entroterra. 
+- **Auto a noleggio**: quasi indispensabile per l'itinerario in entroterra.
 - **Prenotazioni traghetti**: in luglio e agosto i traghetti per Bonifacio si prenotano con anticipo
 - **Caldo**: nei mesi estivi è consigliabile partire di mattina presto per le escursioni a piedi o in barca
 - **Vento Maestrale**: le Bocche di Bonifacio possono essere molto ventose. Verificate sempre le previsioni prima di prendere il gommone

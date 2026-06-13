@@ -10,7 +10,7 @@ hero:
   eyebrow: "Environs · Vie Nocturne"
   title: "Vie Nocturne"
   subtitle: "Du cocktail au coucher de soleil sur les promontoires aux discothèques de la Costa Smeralda."
-  image: "/img/1362.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/1362.jpg"
   imageAlt: "Vie nocturne Gallura Costa Smeralda Sardaigne"
   primaryCta:
     label: "Retour aux environs"

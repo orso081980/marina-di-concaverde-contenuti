@@ -10,7 +10,7 @@ hero:
   eyebrow: "Surroundings · Farm Stays"
   title: "Farm Stays"
   subtitle: "Fresh and aged cheeses, carasau bread, suckling pig, vermentino, cannonau, myrtle and Seadas: Gallura on the table."
-  image: "/img/1351.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/1351.jpg"
   imageAlt: "Agriturismo Gallurese countryside Sardinia"
   primaryCta:
     label: "Book a Visit"

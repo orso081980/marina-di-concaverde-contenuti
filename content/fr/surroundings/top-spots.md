@@ -10,7 +10,7 @@ hero:
   eyebrow: "Environs · Destinations"
   title: "Destinations Préférées"
   subtitle: "Les destinations incontournables de la Gallura : îles, plages blanches, villages historiques et paysages inoubliables."
-  image: "/img/mete.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/mete.jpg"
   imageAlt: "Archipel de La Maddalena Sardaigne"
   primaryCta:
     label: "Excursions en bateau"
@@ -35,10 +35,13 @@ stats:
 Porto Pozzo est dans une position **extraordinairement privilégiée** : dans un rayon de 50 km se trouvent certaines des destinations touristiques les plus célèbres et les plus belles du monde.
 
 ## Archipel de La Maddalena
+
 Un Parc National d'une beauté naturelle extraordinaire : 27 îles et îlots aux eaux cristallines, plages de sable rose et faune unique.
 
 ## Bonifacio, Corse
+
 À seulement 20 minutes en ferry depuis Santa Teresa Gallura, Bonifacio est une ville médiévale perchée sur des falaises — l'une des plus spectaculaires de toute la Méditerranée.
 
 ## Costa Smeralda
+
 Célèbre dans le monde entier pour son glamour et sa beauté naturelle : Porto Cervo, Baia Sardinia et Cala di Volpe.

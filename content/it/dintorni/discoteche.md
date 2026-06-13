@@ -10,7 +10,7 @@ hero:
   eyebrow: "Dintorni · Nightlife"
   title: "Vita Notturna"
   subtitle: "Dal cocktail al tramonto sui promontori alle discoteche della Costa Smeralda: la notte gallurese."
-  image: "/img/1362.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/1362.jpg"
   imageAlt: "Vita notturna Gallura Costa Smeralda Sardegna"
   primaryCta:
     label: "Torna ai Dintorni"

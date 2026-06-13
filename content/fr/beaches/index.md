@@ -10,7 +10,8 @@ hero:
   eyebrow: "Gallura · Sardaigne"
   title: "L'Archipel et les Plages"
   subtitle: "Les criques de Conca Verde, l'Archipel de La Maddalena et les plus beaux littoraux du Nord de la Sardaigne."
-  gallery: ["/img/1285.jpg", "/img/1294.jpg", "/img/1295.jpg"]
+  gallery:
+    ["https://cdn.marinadiconcaverde.it/img/1285.jpg", "https://cdn.marinadiconcaverde.it/img/1294.jpg", "https://cdn.marinadiconcaverde.it/img/1295.jpg"]
   altGallery: ["Archipel La Maddalena", "Plage Conca Verde", "Criques Gallura Sardaigne"]
   galleryCta:
     label: "Ouvrir la galerie"
