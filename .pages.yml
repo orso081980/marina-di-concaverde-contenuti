@@ -47,7 +47,7 @@ content:
             type: string
           - name: img
             label: Logo
-            type: sting
+            type: image
 
   # ── Navigation ───────────────────────────────────────────────────────────────
   - name: navigation
@@ -108,7 +108,7 @@ content:
               - name: href
                 type: string
               - name: image
-                type: sting
+                type: image
           - name: bookingOptions
             label: Booking Options
             type: object
@@ -173,7 +173,7 @@ content:
               - name: href
                 type: string
               - name: image
-                type: sting
+                type: image
           - name: bookingOptions
             label: Booking Options
             type: object
@@ -238,7 +238,7 @@ content:
               - name: href
                 type: string
               - name: image
-                type: sting
+                type: image
           - name: bookingOptions
             label: Booking Options
             type: object
@@ -303,7 +303,7 @@ content:
               - name: href
                 type: string
               - name: image
-                type: sting
+                type: image
           - name: bookingOptions
             label: Booking Options
             type: object
@@ -331,7 +331,7 @@ content:
         type: text
       - name: seoImage
         label: SEO Image
-        type: sting
+        type: image
       - name: keywords
         label: SEO Keywords
         type: string
@@ -366,7 +366,7 @@ content:
             type: string
           - name: image
             label: Hero Image (single)
-            type: sting
+            type: image
           - name: imageAlt
             label: Hero Image Alt Text
             type: string
@@ -375,7 +375,7 @@ content:
             type: string
           - name: gallery
             label: Gallery Images
-            type: sting
+            type: image
             list: true
           - name: altGallery
             label: Gallery Alt Texts
@@ -446,7 +446,7 @@ content:
             list: true
           - name: images
             label: Gallery Images
-            type: sting
+            type: image
             list: true
           - name: altGallery
             label: Image Alt Texts
@@ -472,7 +472,7 @@ content:
         type: text
       - name: seoImage
         label: SEO Image
-        type: sting
+        type: image
       - name: keywords
         label: SEO Keywords
         type: string
@@ -507,7 +507,7 @@ content:
             type: string
           - name: image
             label: Hero Image (single)
-            type: sting
+            type: image
           - name: imageAlt
             label: Hero Image Alt Text
             type: string
@@ -516,7 +516,7 @@ content:
             type: string
           - name: gallery
             label: Gallery Images
-            type: sting
+            type: image
             list: true
           - name: altGallery
             label: Gallery Alt Texts
@@ -587,7 +587,7 @@ content:
             list: true
           - name: images
             label: Gallery Images
-            type: sting
+            type: image
             list: true
           - name: altGallery
             label: Image Alt Texts
@@ -613,7 +613,7 @@ content:
         type: text
       - name: seoImage
         label: SEO Image
-        type: sting
+        type: image
       - name: keywords
         label: SEO Keywords
         type: string
@@ -648,7 +648,7 @@ content:
             type: string
           - name: image
             label: Hero Image (single)
-            type: sting
+            type: image
           - name: imageAlt
             label: Hero Image Alt Text
             type: string
@@ -657,7 +657,7 @@ content:
             type: string
           - name: gallery
             label: Gallery Images
-            type: sting
+            type: image
             list: true
           - name: altGallery
             label: Gallery Alt Texts
@@ -728,7 +728,7 @@ content:
             list: true
           - name: images
             label: Gallery Images
-            type: sting
+            type: image
             list: true
           - name: altGallery
             label: Image Alt Texts
@@ -754,7 +754,7 @@ content:
         type: text
       - name: seoImage
         label: SEO Image
-        type: sting
+        type: image
       - name: keywords
         label: SEO Keywords
         type: string
@@ -789,7 +789,7 @@ content:
             type: string
           - name: image
             label: Hero Image (single)
-            type: sting
+            type: image
           - name: imageAlt
             label: Hero Image Alt Text
             type: string
@@ -798,7 +798,7 @@ content:
             type: string
           - name: gallery
             label: Gallery Images
-            type: sting
+            type: image
             list: true
           - name: altGallery
             label: Gallery Alt Texts
@@ -869,7 +869,7 @@ content:
             list: true
           - name: images
             label: Gallery Images
-            type: sting
+            type: image
             list: true
           - name: altGallery
             label: Image Alt Texts
