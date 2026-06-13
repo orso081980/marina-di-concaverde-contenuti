@@ -1,0 +1,123 @@
+media:
+  input: content/media
+  output: https://977a2b4bf497816f10a436148fcf51b9.r2.cloudflarestorage.com/img
+  rename: safe
+  categories: [image]
+
+content:
+  - name: common
+    label: Site Configuration
+    type: file
+    path: content/_common.md
+    format: yaml-frontmatter
+    fields:
+      - name: publishedLocales
+        type: string
+      - name: contactEmail
+        type: string
+      - name: googleMapsUrl
+        type: string
+      - name: googleMapsEmbed
+        type: text
+      - name: elfsightId
+        type: string
+      - name: magellanoApiKey
+        type: string
+      - name: cin
+        type: string
+
+  - name: navigation
+    label: Navigation
+    type: group
+    items:
+      - name: nav_de
+        label: Navigation (Deutsch)
+        type: file
+        path: content/de/_nav.md
+        format: yaml-frontmatter
+        fields:
+          - name: ferryHref
+            type: string
+          - name: navItems
+            type: text
+
+      - name: nav_en
+        label: Navigation (English)
+        type: file
+        path: content/en/_nav.md
+        format: yaml-frontmatter
+        fields:
+          - name: ferryHref
+            type: string
+          - name: navItems
+            type: text
+
+      - name: nav_fr
+        label: Navigation (Français)
+        type: file
+        path: content/fr/_nav.md
+        format: yaml-frontmatter
+        fields:
+          - name: ferryHref
+            type: string
+          - name: navItems
+            type: text
+
+      - name: nav_it
+        label: Navigation (Italiano)
+        type: file
+        path: content/it/_nav.md
+        format: yaml-frontmatter
+        fields:
+          - name: ferryHref
+            type: string
+          - name: navItems
+            type: text
+
+  - name: pages_de
+    label: Pages (Deutsch)
+    type: collection
+    path: content/de
+    exclude: ["_nav.md", "_ui.md"]
+    format: yaml-frontmatter
+    fields:
+      - name: title
+        type: string
+      - name: body
+        type: rich-text
+
+  - name: pages_en
+    label: Pages (English)
+    type: collection
+    path: content/en
+    exclude: ["_nav.md", "_ui.md"]
+    format: yaml-frontmatter
+    fields:
+      - name: title
+        type: string
+      - name: body
+        type: rich-text
+
+  - name: pages_fr
+    label: Pages (Français)
+    type: collection
+    path: content/fr
+    exclude: ["_nav.md", "_ui.md"]
+    format: yaml-frontmatter
+    fields:
+      - name: title
+        type: string
+      - name: body
+        type: rich-text
+
+  - name: pages_it
+    label: Pages (Italiano)
+    type: collection
+    path: content/it
+    exclude: ["_nav.md", "_ui.md"]
+    format: yaml-frontmatter
+    fields:
+      - name: title
+        type: string
+      - name: body
+        type: rich-text
