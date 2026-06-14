@@ -1,6 +1,6 @@
 media:
   input: content/media
-  output: https://cdn.marinadiconcaverde.it
+  output: https://cdn.marinadiconcaverde.it/img
   rename: safe
   categories: [image, video]
 
@@ -314,6 +314,535 @@ content:
               - name: label
                 type: string
 
+  # ── UI Strings — per-language interface labels ────────────────────────────────
+  - name: ui_strings
+    label: UI Strings
+    type: group
+    items:
+      - name: ui_it
+        label: UI Strings (Italiano)
+        type: file
+        path: content/it/_ui.md
+        format: yaml-frontmatter
+        fields:
+          - name: header
+            label: Header
+            type: object
+            fields:
+              - { name: openMenu, label: Open Menu, type: string }
+              - { name: closeMenu, label: Close Menu, type: string }
+              - { name: mainNav, label: Main Nav Label, type: string }
+              - { name: language, label: Language Label, type: string }
+              - { name: overview, label: Overview Label, type: string }
+              - { name: socialContacts, label: Social & Contacts Label, type: string }
+              - { name: selectLanguage, label: Select Language Label, type: string }
+          - name: nav
+            label: Nav
+            type: object
+            fields:
+              - { name: exploreLabel, label: Explore Label, type: string }
+              - { name: childrenLabel, label: Children Label, type: string }
+              - { name: extralinksLabel, label: Extra Links Label, type: string }
+          - name: footer
+            label: Footer
+            type: object
+            fields:
+              - { name: legalInfo, label: Legal Info, type: string }
+              - { name: companyName, label: Company Name, type: string }
+              - { name: companyLegal, label: Company Legal, type: string }
+              - { name: companyVat, label: VAT Number, type: string }
+              - { name: companyCin, label: CIN Code, type: string }
+              - { name: companyAddressLabel, label: Address Label, type: string }
+              - { name: companyAddress1, label: Address Line 1, type: string }
+              - { name: companyAddress2, label: Address Line 2, type: string }
+              - { name: vatPrefix, label: VAT Prefix, type: string }
+              - { name: contacts, label: Contacts Label, type: string }
+              - { name: contactHref, label: Contact Link URL, type: string }
+              - { name: phone, label: Phone Label, type: string }
+              - { name: email, label: Email Label, type: string }
+              - { name: social, label: Social Label, type: string }
+              - { name: rights, label: Rights Text, type: string }
+              - { name: privacyLink, label: Privacy Link Text, type: string }
+              - { name: privacyHref, label: Privacy Link URL, type: string }
+              - { name: interventiLink, label: Design System Link, type: string }
+          - name: booking
+            label: Booking Widget
+            type: object
+            fields:
+              - { name: title, label: Title, type: string }
+              - { name: arrival, label: Arrival Label, type: string }
+              - { name: departure, label: Departure Label, type: string }
+              - { name: people, label: People Label, type: string }
+              - { name: checkAvailability, label: Check Availability Text, type: string }
+          - name: ferry
+            label: Ferry Banner
+            type: object
+            fields:
+              - { name: title, label: Title, type: string }
+              - { name: subtitle, label: Subtitle, type: string }
+              - { name: cta, label: CTA Text, type: string }
+          - name: tripadvisor
+            label: TripAdvisor Widget
+            type: object
+            fields:
+              - { name: rated, label: Rated Text, type: string }
+              - { name: readReviews, label: Read Reviews Link, type: string }
+              - { name: ratingLabel, label: Rating Label, type: string }
+          - name: contact
+            label: Contact Form
+            type: object
+            fields:
+              - { name: title, label: Form Title, type: string }
+              - { name: name, label: Name Label, type: string }
+              - { name: namePlaceholder, label: Name Placeholder, type: string }
+              - { name: email, label: Email Label, type: string }
+              - { name: emailPlaceholder, label: Email Placeholder, type: string }
+              - { name: phone, label: Phone Label, type: string }
+              - { name: dates, label: Dates Label, type: string }
+              - { name: datesPlaceholder, label: Dates Placeholder, type: string }
+              - { name: message, label: Message Label, type: string }
+              - { name: messagePlaceholder, label: Message Placeholder, type: string }
+              - { name: privacy, label: Privacy Notice, type: string }
+              - { name: submit, label: Submit Button, type: string }
+              - { name: submitting, label: Submitting Text, type: string }
+              - { name: openingMailClient, label: Opening Mail Client Text, type: string }
+              - { name: error, label: Error Text, type: string }
+              - { name: emailSubject, label: Email Subject, type: string }
+              - { name: emailName, label: Email Name Label, type: string }
+              - { name: emailEmail, label: Email Email Label, type: string }
+              - { name: emailPhone, label: Email Phone Label, type: string }
+              - { name: emailPhoneNotProvided, label: Phone Not Provided Text, type: string }
+              - { name: emailDates, label: Email Dates Label, type: string }
+              - { name: emailDatesNotSpecified, label: Dates Not Specified Text, type: string }
+              - { name: emailMessage, label: Email Message Label, type: string }
+          - name: pricing
+            label: Pricing Table Labels
+            type: object
+            fields:
+              - { name: accommodationsTitle, label: Accommodations Title, type: string }
+              - { name: pricesTitle, label: Prices Title, type: string }
+              - { name: supplementsTitle, label: Supplements Title, type: string }
+              - { name: typeColumn, label: Type Column Label, type: string }
+              - { name: bedrooms, label: Bedrooms Label, type: string }
+              - { name: bathroom, label: Bathroom Label, type: string }
+              - { name: beds, label: Beds Label, type: string }
+              - { name: important, label: Important Label, type: string }
+              - { name: notePrefix, label: Note Prefix, type: string }
+              - { name: noteContactUs, label: Note Contact Us, type: string }
+              - { name: noteSuffix, label: Note Suffix, type: string }
+              - { name: contactHref, label: Contact Link URL, type: string }
+          - name: sidebar
+            label: Sidebar Labels
+            type: object
+            fields:
+              - { name: partners, label: Partners Label, type: string }
+              - { name: specialOffers, label: Special Offers Label, type: string }
+              - { name: googleH2, label: Map Heading, type: string }
+          - name: error
+            label: Error Pages
+            type: object
+            fields:
+              - { name: notFoundTitle, label: 404 Title, type: string }
+              - { name: notFoundDesc, label: 404 Description, type: string }
+              - { name: serverErrorTitle, label: Server Error Title, type: string }
+              - { name: serverErrorDesc, label: Server Error Description, type: string }
+              - { name: genericTitle, label: Generic Error Title, type: string }
+              - { name: genericDesc, label: Generic Error Description, type: string }
+              - { name: backHome, label: Back Home Button, type: string }
+
+      - name: ui_en
+        label: UI Strings (English)
+        type: file
+        path: content/en/_ui.md
+        format: yaml-frontmatter
+        fields:
+          - name: header
+            label: Header
+            type: object
+            fields:
+              - { name: openMenu, label: Open Menu, type: string }
+              - { name: closeMenu, label: Close Menu, type: string }
+              - { name: mainNav, label: Main Nav Label, type: string }
+              - { name: language, label: Language Label, type: string }
+              - { name: overview, label: Overview Label, type: string }
+              - { name: socialContacts, label: Social & Contacts Label, type: string }
+              - { name: selectLanguage, label: Select Language Label, type: string }
+          - name: nav
+            label: Nav
+            type: object
+            fields:
+              - { name: exploreLabel, label: Explore Label, type: string }
+              - { name: childrenLabel, label: Children Label, type: string }
+              - { name: extralinksLabel, label: Extra Links Label, type: string }
+          - name: footer
+            label: Footer
+            type: object
+            fields:
+              - { name: legalInfo, label: Legal Info, type: string }
+              - { name: companyName, label: Company Name, type: string }
+              - { name: companyLegal, label: Company Legal, type: string }
+              - { name: companyVat, label: VAT Number, type: string }
+              - { name: companyCin, label: CIN Code, type: string }
+              - { name: companyAddressLabel, label: Address Label, type: string }
+              - { name: companyAddress1, label: Address Line 1, type: string }
+              - { name: companyAddress2, label: Address Line 2, type: string }
+              - { name: vatPrefix, label: VAT Prefix, type: string }
+              - { name: contacts, label: Contacts Label, type: string }
+              - { name: contactHref, label: Contact Link URL, type: string }
+              - { name: phone, label: Phone Label, type: string }
+              - { name: email, label: Email Label, type: string }
+              - { name: social, label: Social Label, type: string }
+              - { name: rights, label: Rights Text, type: string }
+              - { name: privacyLink, label: Privacy Link Text, type: string }
+              - { name: privacyHref, label: Privacy Link URL, type: string }
+              - { name: interventiLink, label: Design System Link, type: string }
+          - name: booking
+            label: Booking Widget
+            type: object
+            fields:
+              - { name: title, label: Title, type: string }
+              - { name: arrival, label: Arrival Label, type: string }
+              - { name: departure, label: Departure Label, type: string }
+              - { name: people, label: People Label, type: string }
+              - { name: checkAvailability, label: Check Availability Text, type: string }
+          - name: ferry
+            label: Ferry Banner
+            type: object
+            fields:
+              - { name: title, label: Title, type: string }
+              - { name: subtitle, label: Subtitle, type: string }
+              - { name: cta, label: CTA Text, type: string }
+          - name: tripadvisor
+            label: TripAdvisor Widget
+            type: object
+            fields:
+              - { name: rated, label: Rated Text, type: string }
+              - { name: readReviews, label: Read Reviews Link, type: string }
+              - { name: ratingLabel, label: Rating Label, type: string }
+          - name: contact
+            label: Contact Form
+            type: object
+            fields:
+              - { name: title, label: Form Title, type: string }
+              - { name: name, label: Name Label, type: string }
+              - { name: namePlaceholder, label: Name Placeholder, type: string }
+              - { name: email, label: Email Label, type: string }
+              - { name: emailPlaceholder, label: Email Placeholder, type: string }
+              - { name: phone, label: Phone Label, type: string }
+              - { name: dates, label: Dates Label, type: string }
+              - { name: datesPlaceholder, label: Dates Placeholder, type: string }
+              - { name: message, label: Message Label, type: string }
+              - { name: messagePlaceholder, label: Message Placeholder, type: string }
+              - { name: privacy, label: Privacy Notice, type: string }
+              - { name: submit, label: Submit Button, type: string }
+              - { name: submitting, label: Submitting Text, type: string }
+              - { name: openingMailClient, label: Opening Mail Client Text, type: string }
+              - { name: error, label: Error Text, type: string }
+              - { name: emailSubject, label: Email Subject, type: string }
+              - { name: emailName, label: Email Name Label, type: string }
+              - { name: emailEmail, label: Email Email Label, type: string }
+              - { name: emailPhone, label: Email Phone Label, type: string }
+              - { name: emailPhoneNotProvided, label: Phone Not Provided Text, type: string }
+              - { name: emailDates, label: Email Dates Label, type: string }
+              - { name: emailDatesNotSpecified, label: Dates Not Specified Text, type: string }
+              - { name: emailMessage, label: Email Message Label, type: string }
+          - name: pricing
+            label: Pricing Table Labels
+            type: object
+            fields:
+              - { name: accommodationsTitle, label: Accommodations Title, type: string }
+              - { name: pricesTitle, label: Prices Title, type: string }
+              - { name: supplementsTitle, label: Supplements Title, type: string }
+              - { name: typeColumn, label: Type Column Label, type: string }
+              - { name: bedrooms, label: Bedrooms Label, type: string }
+              - { name: bathroom, label: Bathroom Label, type: string }
+              - { name: beds, label: Beds Label, type: string }
+              - { name: important, label: Important Label, type: string }
+              - { name: notePrefix, label: Note Prefix, type: string }
+              - { name: noteContactUs, label: Note Contact Us, type: string }
+              - { name: noteSuffix, label: Note Suffix, type: string }
+              - { name: contactHref, label: Contact Link URL, type: string }
+          - name: sidebar
+            label: Sidebar Labels
+            type: object
+            fields:
+              - { name: partners, label: Partners Label, type: string }
+              - { name: specialOffers, label: Special Offers Label, type: string }
+              - { name: googleH2, label: Map Heading, type: string }
+          - name: error
+            label: Error Pages
+            type: object
+            fields:
+              - { name: notFoundTitle, label: 404 Title, type: string }
+              - { name: notFoundDesc, label: 404 Description, type: string }
+              - { name: serverErrorTitle, label: Server Error Title, type: string }
+              - { name: serverErrorDesc, label: Server Error Description, type: string }
+              - { name: genericTitle, label: Generic Error Title, type: string }
+              - { name: genericDesc, label: Generic Error Description, type: string }
+              - { name: backHome, label: Back Home Button, type: string }
+
+      - name: ui_de
+        label: UI Strings (Deutsch)
+        type: file
+        path: content/de/_ui.md
+        format: yaml-frontmatter
+        fields:
+          - name: header
+            label: Header
+            type: object
+            fields:
+              - { name: openMenu, label: Open Menu, type: string }
+              - { name: closeMenu, label: Close Menu, type: string }
+              - { name: mainNav, label: Main Nav Label, type: string }
+              - { name: language, label: Language Label, type: string }
+              - { name: overview, label: Overview Label, type: string }
+              - { name: socialContacts, label: Social & Contacts Label, type: string }
+              - { name: selectLanguage, label: Select Language Label, type: string }
+          - name: nav
+            label: Nav
+            type: object
+            fields:
+              - { name: exploreLabel, label: Explore Label, type: string }
+              - { name: childrenLabel, label: Children Label, type: string }
+              - { name: extralinksLabel, label: Extra Links Label, type: string }
+          - name: footer
+            label: Footer
+            type: object
+            fields:
+              - { name: legalInfo, label: Legal Info, type: string }
+              - { name: companyName, label: Company Name, type: string }
+              - { name: companyLegal, label: Company Legal, type: string }
+              - { name: companyVat, label: VAT Number, type: string }
+              - { name: companyCin, label: CIN Code, type: string }
+              - { name: companyAddressLabel, label: Address Label, type: string }
+              - { name: companyAddress1, label: Address Line 1, type: string }
+              - { name: companyAddress2, label: Address Line 2, type: string }
+              - { name: vatPrefix, label: VAT Prefix, type: string }
+              - { name: contacts, label: Contacts Label, type: string }
+              - { name: contactHref, label: Contact Link URL, type: string }
+              - { name: phone, label: Phone Label, type: string }
+              - { name: email, label: Email Label, type: string }
+              - { name: social, label: Social Label, type: string }
+              - { name: rights, label: Rights Text, type: string }
+              - { name: privacyLink, label: Privacy Link Text, type: string }
+              - { name: privacyHref, label: Privacy Link URL, type: string }
+              - { name: interventiLink, label: Design System Link, type: string }
+          - name: booking
+            label: Booking Widget
+            type: object
+            fields:
+              - { name: title, label: Title, type: string }
+              - { name: arrival, label: Arrival Label, type: string }
+              - { name: departure, label: Departure Label, type: string }
+              - { name: people, label: People Label, type: string }
+              - { name: checkAvailability, label: Check Availability Text, type: string }
+          - name: ferry
+            label: Ferry Banner
+            type: object
+            fields:
+              - { name: title, label: Title, type: string }
+              - { name: subtitle, label: Subtitle, type: string }
+              - { name: cta, label: CTA Text, type: string }
+          - name: tripadvisor
+            label: TripAdvisor Widget
+            type: object
+            fields:
+              - { name: rated, label: Rated Text, type: string }
+              - { name: readReviews, label: Read Reviews Link, type: string }
+              - { name: ratingLabel, label: Rating Label, type: string }
+          - name: contact
+            label: Contact Form
+            type: object
+            fields:
+              - { name: title, label: Form Title, type: string }
+              - { name: name, label: Name Label, type: string }
+              - { name: namePlaceholder, label: Name Placeholder, type: string }
+              - { name: email, label: Email Label, type: string }
+              - { name: emailPlaceholder, label: Email Placeholder, type: string }
+              - { name: phone, label: Phone Label, type: string }
+              - { name: dates, label: Dates Label, type: string }
+              - { name: datesPlaceholder, label: Dates Placeholder, type: string }
+              - { name: message, label: Message Label, type: string }
+              - { name: messagePlaceholder, label: Message Placeholder, type: string }
+              - { name: privacy, label: Privacy Notice, type: string }
+              - { name: submit, label: Submit Button, type: string }
+              - { name: submitting, label: Submitting Text, type: string }
+              - { name: openingMailClient, label: Opening Mail Client Text, type: string }
+              - { name: error, label: Error Text, type: string }
+              - { name: emailSubject, label: Email Subject, type: string }
+              - { name: emailName, label: Email Name Label, type: string }
+              - { name: emailEmail, label: Email Email Label, type: string }
+              - { name: emailPhone, label: Email Phone Label, type: string }
+              - { name: emailPhoneNotProvided, label: Phone Not Provided Text, type: string }
+              - { name: emailDates, label: Email Dates Label, type: string }
+              - { name: emailDatesNotSpecified, label: Dates Not Specified Text, type: string }
+              - { name: emailMessage, label: Email Message Label, type: string }
+          - name: pricing
+            label: Pricing Table Labels
+            type: object
+            fields:
+              - { name: accommodationsTitle, label: Accommodations Title, type: string }
+              - { name: pricesTitle, label: Prices Title, type: string }
+              - { name: supplementsTitle, label: Supplements Title, type: string }
+              - { name: typeColumn, label: Type Column Label, type: string }
+              - { name: bedrooms, label: Bedrooms Label, type: string }
+              - { name: bathroom, label: Bathroom Label, type: string }
+              - { name: beds, label: Beds Label, type: string }
+              - { name: important, label: Important Label, type: string }
+              - { name: notePrefix, label: Note Prefix, type: string }
+              - { name: noteContactUs, label: Note Contact Us, type: string }
+              - { name: noteSuffix, label: Note Suffix, type: string }
+              - { name: contactHref, label: Contact Link URL, type: string }
+          - name: sidebar
+            label: Sidebar Labels
+            type: object
+            fields:
+              - { name: partners, label: Partners Label, type: string }
+              - { name: specialOffers, label: Special Offers Label, type: string }
+              - { name: googleH2, label: Map Heading, type: string }
+          - name: error
+            label: Error Pages
+            type: object
+            fields:
+              - { name: notFoundTitle, label: 404 Title, type: string }
+              - { name: notFoundDesc, label: 404 Description, type: string }
+              - { name: serverErrorTitle, label: Server Error Title, type: string }
+              - { name: serverErrorDesc, label: Server Error Description, type: string }
+              - { name: genericTitle, label: Generic Error Title, type: string }
+              - { name: genericDesc, label: Generic Error Description, type: string }
+              - { name: backHome, label: Back Home Button, type: string }
+
+      - name: ui_fr
+        label: UI Strings (Français)
+        type: file
+        path: content/fr/_ui.md
+        format: yaml-frontmatter
+        fields:
+          - name: header
+            label: Header
+            type: object
+            fields:
+              - { name: openMenu, label: Open Menu, type: string }
+              - { name: closeMenu, label: Close Menu, type: string }
+              - { name: mainNav, label: Main Nav Label, type: string }
+              - { name: language, label: Language Label, type: string }
+              - { name: overview, label: Overview Label, type: string }
+              - { name: socialContacts, label: Social & Contacts Label, type: string }
+              - { name: selectLanguage, label: Select Language Label, type: string }
+          - name: nav
+            label: Nav
+            type: object
+            fields:
+              - { name: exploreLabel, label: Explore Label, type: string }
+              - { name: childrenLabel, label: Children Label, type: string }
+              - { name: extralinksLabel, label: Extra Links Label, type: string }
+          - name: footer
+            label: Footer
+            type: object
+            fields:
+              - { name: legalInfo, label: Legal Info, type: string }
+              - { name: companyName, label: Company Name, type: string }
+              - { name: companyLegal, label: Company Legal, type: string }
+              - { name: companyVat, label: VAT Number, type: string }
+              - { name: companyCin, label: CIN Code, type: string }
+              - { name: companyAddressLabel, label: Address Label, type: string }
+              - { name: companyAddress1, label: Address Line 1, type: string }
+              - { name: companyAddress2, label: Address Line 2, type: string }
+              - { name: vatPrefix, label: VAT Prefix, type: string }
+              - { name: contacts, label: Contacts Label, type: string }
+              - { name: contactHref, label: Contact Link URL, type: string }
+              - { name: phone, label: Phone Label, type: string }
+              - { name: email, label: Email Label, type: string }
+              - { name: social, label: Social Label, type: string }
+              - { name: rights, label: Rights Text, type: string }
+              - { name: privacyLink, label: Privacy Link Text, type: string }
+              - { name: privacyHref, label: Privacy Link URL, type: string }
+              - { name: interventiLink, label: Design System Link, type: string }
+          - name: booking
+            label: Booking Widget
+            type: object
+            fields:
+              - { name: title, label: Title, type: string }
+              - { name: arrival, label: Arrival Label, type: string }
+              - { name: departure, label: Departure Label, type: string }
+              - { name: people, label: People Label, type: string }
+              - { name: checkAvailability, label: Check Availability Text, type: string }
+          - name: ferry
+            label: Ferry Banner
+            type: object
+            fields:
+              - { name: title, label: Title, type: string }
+              - { name: subtitle, label: Subtitle, type: string }
+              - { name: cta, label: CTA Text, type: string }
+          - name: tripadvisor
+            label: TripAdvisor Widget
+            type: object
+            fields:
+              - { name: rated, label: Rated Text, type: string }
+              - { name: readReviews, label: Read Reviews Link, type: string }
+              - { name: ratingLabel, label: Rating Label, type: string }
+          - name: contact
+            label: Contact Form
+            type: object
+            fields:
+              - { name: title, label: Form Title, type: string }
+              - { name: name, label: Name Label, type: string }
+              - { name: namePlaceholder, label: Name Placeholder, type: string }
+              - { name: email, label: Email Label, type: string }
+              - { name: emailPlaceholder, label: Email Placeholder, type: string }
+              - { name: phone, label: Phone Label, type: string }
+              - { name: dates, label: Dates Label, type: string }
+              - { name: datesPlaceholder, label: Dates Placeholder, type: string }
+              - { name: message, label: Message Label, type: string }
+              - { name: messagePlaceholder, label: Message Placeholder, type: string }
+              - { name: privacy, label: Privacy Notice, type: string }
+              - { name: submit, label: Submit Button, type: string }
+              - { name: submitting, label: Submitting Text, type: string }
+              - { name: openingMailClient, label: Opening Mail Client Text, type: string }
+              - { name: error, label: Error Text, type: string }
+              - { name: emailSubject, label: Email Subject, type: string }
+              - { name: emailName, label: Email Name Label, type: string }
+              - { name: emailEmail, label: Email Email Label, type: string }
+              - { name: emailPhone, label: Email Phone Label, type: string }
+              - { name: emailPhoneNotProvided, label: Phone Not Provided Text, type: string }
+              - { name: emailDates, label: Email Dates Label, type: string }
+              - { name: emailDatesNotSpecified, label: Dates Not Specified Text, type: string }
+              - { name: emailMessage, label: Email Message Label, type: string }
+          - name: pricing
+            label: Pricing Table Labels
+            type: object
+            fields:
+              - { name: accommodationsTitle, label: Accommodations Title, type: string }
+              - { name: pricesTitle, label: Prices Title, type: string }
+              - { name: supplementsTitle, label: Supplements Title, type: string }
+              - { name: typeColumn, label: Type Column Label, type: string }
+              - { name: bedrooms, label: Bedrooms Label, type: string }
+              - { name: bathroom, label: Bathroom Label, type: string }
+              - { name: beds, label: Beds Label, type: string }
+              - { name: important, label: Important Label, type: string }
+              - { name: notePrefix, label: Note Prefix, type: string }
+              - { name: noteContactUs, label: Note Contact Us, type: string }
+              - { name: noteSuffix, label: Note Suffix, type: string }
+              - { name: contactHref, label: Contact Link URL, type: string }
+          - name: sidebar
+            label: Sidebar Labels
+            type: object
+            fields:
+              - { name: partners, label: Partners Label, type: string }
+              - { name: specialOffers, label: Special Offers Label, type: string }
+              - { name: googleH2, label: Map Heading, type: string }
+          - name: error
+            label: Error Pages
+            type: object
+            fields:
+              - { name: notFoundTitle, label: 404 Title, type: string }
+              - { name: notFoundDesc, label: 404 Description, type: string }
+              - { name: serverErrorTitle, label: Server Error Title, type: string }
+              - { name: serverErrorDesc, label: Server Error Description, type: string }
+              - { name: genericTitle, label: Generic Error Title, type: string }
+              - { name: genericDesc, label: Generic Error Description, type: string }
+              - { name: backHome, label: Back Home Button, type: string }
+
   # ── Pages — one collection per language ──────────────────────────────────────
   - name: pages_it
     label: Pages (Italiano)
@@ -397,6 +926,9 @@ content:
                 type: string
               - name: href
                 type: string
+              - name: target
+                label: Link Target
+                type: string
           - name: secondaryCta
             label: Secondary CTA Button
             type: object
@@ -404,6 +936,9 @@ content:
               - name: label
                 type: string
               - name: href
+                type: string
+              - name: target
+                label: Link Target
                 type: string
       - name: textBlock
         label: Text Block
@@ -415,6 +950,9 @@ content:
           - name: title
             label: Title
             type: string
+          - name: testo
+            label: Body Text
+            type: text
       - name: stats
         label: Highlights / Stats
         type: object
@@ -452,6 +990,44 @@ content:
             label: Image Alt Texts
             type: string
             list: true
+      - name: specialOffer
+        label: Special Offer Page
+        type: boolean
+      - name: pricingData
+        label: Pricing Data
+        type: object
+        fields:
+          - name: accommodations
+            label: Accommodation Types
+            type: object
+            list: true
+            fields:
+              - name: type
+                label: Type Name
+                type: string
+              - name: bedrooms
+                label: Bedrooms
+                type: number
+              - name: bathrooms
+                label: Bathrooms
+                type: number
+              - name: capacity
+                label: Capacity
+                type: string
+          - name: testo
+            label: Description
+            type: text
+          - name: supplements
+            label: Supplements
+            type: object
+            list: true
+            fields:
+              - name: service
+                label: Service
+                type: string
+              - name: cost
+                label: Cost
+                type: string
       - name: body
         label: Page Body
         type: rich-text
@@ -538,6 +1114,9 @@ content:
                 type: string
               - name: href
                 type: string
+              - name: target
+                label: Link Target
+                type: string
           - name: secondaryCta
             label: Secondary CTA Button
             type: object
@@ -545,6 +1124,9 @@ content:
               - name: label
                 type: string
               - name: href
+                type: string
+              - name: target
+                label: Link Target
                 type: string
       - name: textBlock
         label: Text Block
@@ -556,6 +1138,9 @@ content:
           - name: title
             label: Title
             type: string
+          - name: testo
+            label: Body Text
+            type: text
       - name: stats
         label: Highlights / Stats
         type: object
@@ -593,6 +1178,44 @@ content:
             label: Image Alt Texts
             type: string
             list: true
+      - name: specialOffer
+        label: Special Offer Page
+        type: boolean
+      - name: pricingData
+        label: Pricing Data
+        type: object
+        fields:
+          - name: accommodations
+            label: Accommodation Types
+            type: object
+            list: true
+            fields:
+              - name: type
+                label: Type Name
+                type: string
+              - name: bedrooms
+                label: Bedrooms
+                type: number
+              - name: bathrooms
+                label: Bathrooms
+                type: number
+              - name: capacity
+                label: Capacity
+                type: string
+          - name: testo
+            label: Description
+            type: text
+          - name: supplements
+            label: Supplements
+            type: object
+            list: true
+            fields:
+              - name: service
+                label: Service
+                type: string
+              - name: cost
+                label: Cost
+                type: string
       - name: body
         label: Page Body
         type: rich-text
@@ -679,6 +1302,9 @@ content:
                 type: string
               - name: href
                 type: string
+              - name: target
+                label: Link Target
+                type: string
           - name: secondaryCta
             label: Secondary CTA Button
             type: object
@@ -686,6 +1312,9 @@ content:
               - name: label
                 type: string
               - name: href
+                type: string
+              - name: target
+                label: Link Target
                 type: string
       - name: textBlock
         label: Text Block
@@ -697,6 +1326,9 @@ content:
           - name: title
             label: Title
             type: string
+          - name: testo
+            label: Body Text
+            type: text
       - name: stats
         label: Highlights / Stats
         type: object
@@ -734,6 +1366,44 @@ content:
             label: Image Alt Texts
             type: string
             list: true
+      - name: specialOffer
+        label: Special Offer Page
+        type: boolean
+      - name: pricingData
+        label: Pricing Data
+        type: object
+        fields:
+          - name: accommodations
+            label: Accommodation Types
+            type: object
+            list: true
+            fields:
+              - name: type
+                label: Type Name
+                type: string
+              - name: bedrooms
+                label: Bedrooms
+                type: number
+              - name: bathrooms
+                label: Bathrooms
+                type: number
+              - name: capacity
+                label: Capacity
+                type: string
+          - name: testo
+            label: Description
+            type: text
+          - name: supplements
+            label: Supplements
+            type: object
+            list: true
+            fields:
+              - name: service
+                label: Service
+                type: string
+              - name: cost
+                label: Cost
+                type: string
       - name: body
         label: Page Body
         type: rich-text
@@ -820,6 +1490,9 @@ content:
                 type: string
               - name: href
                 type: string
+              - name: target
+                label: Link Target
+                type: string
           - name: secondaryCta
             label: Secondary CTA Button
             type: object
@@ -827,6 +1500,9 @@ content:
               - name: label
                 type: string
               - name: href
+                type: string
+              - name: target
+                label: Link Target
                 type: string
       - name: textBlock
         label: Text Block
@@ -838,6 +1514,9 @@ content:
           - name: title
             label: Title
             type: string
+          - name: testo
+            label: Body Text
+            type: text
       - name: stats
         label: Highlights / Stats
         type: object
@@ -875,6 +1554,44 @@ content:
             label: Image Alt Texts
             type: string
             list: true
+      - name: specialOffer
+        label: Special Offer Page
+        type: boolean
+      - name: pricingData
+        label: Pricing Data
+        type: object
+        fields:
+          - name: accommodations
+            label: Accommodation Types
+            type: object
+            list: true
+            fields:
+              - name: type
+                label: Type Name
+                type: string
+              - name: bedrooms
+                label: Bedrooms
+                type: number
+              - name: bathrooms
+                label: Bathrooms
+                type: number
+              - name: capacity
+                label: Capacity
+                type: string
+          - name: testo
+            label: Description
+            type: text
+          - name: supplements
+            label: Supplements
+            type: object
+            list: true
+            fields:
+              - name: service
+                label: Service
+                type: string
+              - name: cost
+                label: Cost
+                type: string
       - name: body
         label: Page Body
         type: rich-text
