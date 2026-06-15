@@ -2,7 +2,7 @@
 title: Servizi — Marina di Conca Verde, Porto Pozzo
 description: >-
   Tutti i servizi del residence: reception, info su escursioni in barca, in kayak, diving e mountain bike. Tutto il
-  necessario per una vacanza indimenticabile in Gallura test.
+  necessario per una vacanza indimenticabile in Gallura.
 translations:
   it: /unamicoingallura
   en: /services
