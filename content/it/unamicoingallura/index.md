@@ -12,7 +12,7 @@ hero:
   eyebrow: Gallura · Sardegna
   title: Local Expertise
   subtitle: Tutto le informazioni di cui hai bisogno per vivere al meglio la tua vacanza in Sardegna.
-  image: https://cdn.marinadiconcaverde.it/img/cinquecento(1).webp
+  image: https://cdn.marinadiconcaverde.it/img/cinquecento.webp
   imageAlt: Servizi Marina di Conca Verde
   primaryCta:
     label: Prenota il Soggiorno
