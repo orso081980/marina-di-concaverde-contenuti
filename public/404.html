@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>404 – Marina di Conca Verde</title>
+  <meta name="robots" content="noindex, nofollow">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Inter', sans-serif;
+      font-weight: 300;
+      background: #fff;
+      color: #292524;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 1rem;
+    }
+    .wrap { max-width: 32rem; text-align: center; }
+    .num {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(6rem, 20vw, 9rem);
+      font-weight: 600;
+      line-height: 1;
+      color: #f7edcc;
+      user-select: none;
+    }
+    h1 {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.5rem;
+      font-weight: 600;
+      color: #292524;
+      margin: 0.5rem 0 0.75rem;
+    }
+    p {
+      color: #78716c;
+      line-height: 1.625;
+      margin-bottom: 2rem;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      background: #5c4918;
+      color: #fff;
+      padding: 0.75rem 1.5rem;
+      border-radius: 0.5rem;
+      font-family: 'Inter', sans-serif;
+      font-weight: 500;
+      font-size: 1rem;
+      text-decoration: none;
+      transition: background 0.2s;
+    }
+    .btn:hover { background: #3d300a; }
+    .btn svg { width: 1rem; height: 1rem; fill: currentColor; flex-shrink: 0; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <p class="num">404</p>
+    <h1 id="ttl"></h1>
+    <p id="dsc"></p>
+    <a id="btn" class="btn" href="/it">
+      <svg viewBox="0 0 576 512" aria-hidden="true">
+        <path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1 0-2.2 0-3.3-.1c-1.4 .1-2.8 .1-4.2 .1H416 392c-22.1 0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7 0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5 0-3-.1-4.5-.2c-1.2 .1-2.4 .2-3.6 .2H104c-22.1 0-40-17.9-40-40V360c0-.9 0-1.9 .1-2.8V287.6H32c-18 0-32-14-32-32.1c0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/>
+      </svg>
+      <span id="bnt"></span>
+    </a>
+  </div>
+  <script>
+    (function () {
+      var M = {
+        it: { title: 'Pagina non trovata', desc: 'La pagina che stai cercando non esiste o è stata spostata. Torna alla home per esplorare il sito.', back: 'Torna alla home' },
+        en: { title: 'Page not found', desc: 'The page you are looking for does not exist or has been moved. Go back home to explore the site.', back: 'Back to home' },
+        de: { title: 'Seite nicht gefunden', desc: 'Die Seite, die Sie suchen, existiert nicht oder wurde verschoben. Zurück zur Startseite.', back: 'Zur Startseite' },
+        fr: { title: 'Page introuvable', desc: "La page que vous recherchez n’existe pas ou a été déplacée. Retournez à l’accueil.", back: "Retour à l’accueil" }
+      };
+      var seg = window.location.pathname.split('/')[1] || '';
+      var locale = M[seg] ? seg : 'it';
+      var m = M[locale];
+      document.documentElement.lang = locale;
+      document.getElementById('ttl').textContent = m.title;
+      document.getElementById('dsc').textContent = m.desc;
+      document.getElementById('bnt').textContent = m.back;
+      document.getElementById('btn').href = '/' + locale;
+    })();
+  </script>
+</body>
+</html>

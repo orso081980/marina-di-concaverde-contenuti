@@ -1,0 +1,8 @@
+# ── Old .aspx site redirects (301 Permanent) ──────────────────────────────────
+# Add one line per old URL: /old-path.aspx  /new-path/  301
+# Example:
+# /default.aspx               /it/
+# /residence.aspx             /it/residence/
+# /villette.aspx              /it/villette/
+# /contatti.aspx              /it/residence/contatti/
+# /escursioni.aspx            /it/unamicoingallura/escursioni/
