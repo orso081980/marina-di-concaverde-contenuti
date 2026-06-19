@@ -4,8 +4,8 @@ description: "Informations et liens de réservation pour les ferries vers la Sar
 translations:
   it: "/unamicoingallura/traghetti"
   en: "/ferries"
-  de: "/faehren"
-  fr: "/ferries"
+  de: "/dienstleistungen/faehren"
+  fr: "/services/ferries"
 hero:
   eyebrow: "Voyage · Ferries"
   title: "Ferries"

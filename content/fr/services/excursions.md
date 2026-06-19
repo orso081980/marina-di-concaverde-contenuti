@@ -10,14 +10,14 @@ hero:
   eyebrow: "Services · Excursions"
   title: "Excursions"
   subtitle: "Voile, équitation, quad, windsurf, kitesurf et pêche : la Gallura à 360°."
-  image: "https://cdn.marinadiconcaverde.it/img/escursioni.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/noleggio-gommoni-santa-teresa13.jpg"
   imageAlt: "Excursion en bateau archipel de La Maddalena"
   primaryCta:
     label: "Réserver une excursion"
-    href: "/contact"
+    href: "/residence/contact"
   secondaryCta:
     label: "Informations Ferries"
-    href: "/ferries"
+    href: "/services/ferries"
 textBlock:
   eyebrow: "Excursions"
   title: "La Gallura : un éventail d'expériences"

@@ -4,8 +4,8 @@ description: "Informationen und Buchungslinks für Fähren nach Sardinien: Verbi
 translations:
   it: "/unamicoingallura/traghetti"
   en: "/ferries"
-  de: "/faehren"
-  fr: "/ferries"
+  de: "/dienstleistungen/faehren"
+  fr: "/services/ferries"
 hero:
   eyebrow: "Anreise · Fähren"
   title: "Fähren"

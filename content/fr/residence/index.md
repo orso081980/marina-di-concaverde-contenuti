@@ -11,7 +11,11 @@ hero:
   title: "La Résidence"
   subtitle: "Villas de style Stazzu Gallurese donnant sur le fjord de Porto Pozzo."
   gallery:
-    ["https://cdn.marinadiconcaverde.it/img/2297.jpg", "https://cdn.marinadiconcaverde.it/img/2298.jpg", "https://cdn.marinadiconcaverde.it/img/2299.jpg"]
+    [
+      "https://cdn.marinadiconcaverde.it/img/9043693.webp",
+      "https://cdn.marinadiconcaverde.it/img/IMG_8768rr.JPG",
+      "https://cdn.marinadiconcaverde.it/img/IMG_8769.JPG",
+    ]
   altGallery: ["Résidence Marina di Conca Verde", "Villas Porto Pozzo", "Le fjord de Porto Pozzo"]
   galleryCta:
     label: "Ouvrir la galerie"
@@ -21,7 +25,7 @@ hero:
     href: "/villas"
   secondaryCta:
     label: "Tarifs"
-    href: "/rates"
+    href: "/residence/tarifs"
 textBlock:
   eyebrow: "La Résidence"
   title: "Votre maison sur la côte gallurese"

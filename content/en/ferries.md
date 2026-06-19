@@ -4,8 +4,8 @@ description: "Ferry information and booking links for Sardinia: routes from Civi
 translations:
   it: "/unamicoingallura/traghetti"
   en: "/ferries"
-  de: "/faehren"
-  fr: "/ferries"
+  de: "/dienstleistungen/faehren"
+  fr: "/services/ferries"
 hero:
   eyebrow: "Travel · Ferries"
   title: "Ferries"

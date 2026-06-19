@@ -4,8 +4,8 @@ description: "Informazioni e link per prenotare i traghetti per la Sardegna: tra
 translations:
   it: "/unamicoingallura/traghetti"
   en: "/ferries"
-  de: "/faehren"
-  fr: "/ferries"
+  de: "/dienstleistungen/faehren"
+  fr: "/services/ferries"
 hero:
   eyebrow: "Viaggi · Traghetti"
   title: "Traghetti"

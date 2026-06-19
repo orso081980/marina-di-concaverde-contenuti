@@ -11,7 +11,12 @@ hero:
   title: "Les Environs"
   subtitle: "Restaurants, agritourisme, plages, îles et itinéraires dans la Gallura la plus authentique."
   gallery:
-    ["https://cdn.marinadiconcaverde.it/img/1370.jpg", "https://cdn.marinadiconcaverde.it/img/mete.jpg", "https://cdn.marinadiconcaverde.it/img/percorsi.jpg"]
+    [
+      "https://cdn.marinadiconcaverde.it/img/IMG_2682b.jpg",
+      "https://cdn.marinadiconcaverde.it/img/mappadintorni.jpg",
+      "https://cdn.marinadiconcaverde.it/img/1370.jpg",
+      "https://cdn.marinadiconcaverde.it/img/1377.jpg",
+    ]
   altGallery: ["Environs Porto Pozzo Gallura", "Destinations préférées Gallura", "Itinéraires Sardaigne"]
   galleryCta:
     label: "Ouvrir la galerie"

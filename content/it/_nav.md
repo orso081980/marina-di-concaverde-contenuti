@@ -113,7 +113,7 @@ pageLinks:
   - icon: "map-location-dot"
     label: "I Dintorni"
     href: "/dintorni"
-  - icon: "voicemail"
+  - icon: "phone"
     label: "Contatti"
     href: "/residence/contatti"
 

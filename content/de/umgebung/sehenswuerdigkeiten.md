@@ -10,14 +10,14 @@ hero:
   eyebrow: "Umgebung · Sehenswürdigkeiten"
   title: "Sehenswürdigkeiten"
   subtitle: "Die wichtigsten Ausflugsziele in Gallura: Inseln, weiße Strände, historische Ortschaften und unvergessliche Landschaften."
-  image: "https://cdn.marinadiconcaverde.it/img/mete.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/IMG_2831.jpg"
   imageAlt: "Maddalena-Archipel Sardinien"
   primaryCta:
     label: "Bootsausflüge"
     href: "/dienstleistungen/ausfluege"
   secondaryCta:
     label: "Fähren"
-    href: "/faehren"
+    href: "/dienstleistungen/faehren"
 textBlock:
   eyebrow: "Sehenswürdigkeiten"
   title: "Das Beste Nordsardiniens"

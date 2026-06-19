@@ -10,11 +10,11 @@ hero:
   eyebrow: "Dienstleistungen · Tauchen"
   title: "Tauchen"
   subtitle: "Die schönsten Meeresgründe des Mittelmeers, zwischen Santa Teresa Gallura und Palau, wenige Minuten von der Anlage."
-  image: "https://cdn.marinadiconcaverde.it/img/diving.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/diving-sarde.jpg"
   imageAlt: "Tauchen Meeresboden Gallura Sardinien"
   primaryCta:
     label: "Tauchgang buchen"
-    href: "/kontakt"
+    href: "/residenz/kontakt"
   secondaryCta:
     label: "Alle Dienstleistungen"
     href: "/dienstleistungen"

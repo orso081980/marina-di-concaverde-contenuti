@@ -3,9 +3,9 @@ title: "Kontakt — Marina di Conca Verde, Porto Pozzo"
 description: "Kontaktinformationen der Ferienanlage Marina di Conca Verde in Porto Pozzo, Santa Teresa Gallura. Telefon, E-Mail, WhatsApp und Anfahrt per Auto, Flugzeug oder Fähre."
 translations:
   it: "/residence/contatti"
-  en: "/contact"
-  de: "/kontakt"
-  fr: "/contact"
+  en: "/residence/contacts"
+  de: "/residenz/kontakt"
+  fr: "/residence/contact"
 hero:
   eyebrow: "Info · Buchungen"
   title: "Kontakt"
@@ -17,7 +17,7 @@ hero:
     href: "mailto:mcv@marinadiconcaverde.it"
   secondaryCta:
     label: "Preise"
-    href: "/preise"
+    href: "/residenz/preise"
 textBlock:
   eyebrow: "Kontakt"
   title: "Buchung oder Informationsanfrage"

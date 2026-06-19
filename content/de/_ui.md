@@ -24,7 +24,7 @@ footer:
   companyAddress2: "07026 Olbia (OT)"
   vatPrefix: "USt-IdNr."
   contacts: "Kontakt"
-  contactHref: "/kontakt"
+  contactHref: "/residenz/kontakt"
   phone: "Telefon"
   email: "E-Mail"
   social: "Folgen Sie uns"
@@ -87,7 +87,7 @@ pricing:
   notePrefix: "Dies sind die maximalen Listenpreise. Für ermäßigte Preise und All-inclusive-Angebote"
   noteContactUs: "kontaktieren Sie uns"
   noteSuffix: "oder berechnen Sie Ihr Angebot, indem Sie Ankunfts- und Abreisedatum im Kalender eingeben."
-  contactHref: "/kontakt"
+  contactHref: "/residenz/kontakt"
 
 sidebar:
   partners: "Unsere Partner besuchen"

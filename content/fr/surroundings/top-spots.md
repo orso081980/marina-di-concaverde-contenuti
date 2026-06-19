@@ -10,14 +10,14 @@ hero:
   eyebrow: "Environs · Destinations"
   title: "Destinations Préférées"
   subtitle: "Les destinations incontournables de la Gallura : îles, plages blanches, villages historiques et paysages inoubliables."
-  image: "https://cdn.marinadiconcaverde.it/img/mete.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/IMG_2831.jpg"
   imageAlt: "Archipel de La Maddalena Sardaigne"
   primaryCta:
     label: "Excursions en bateau"
     href: "/services/excursions"
   secondaryCta:
     label: "Ferries"
-    href: "/ferries"
+    href: "/services/ferries"
 textBlock:
   eyebrow: "Destinations Préférées"
   title: "Le meilleur du nord de la Sardaigne"

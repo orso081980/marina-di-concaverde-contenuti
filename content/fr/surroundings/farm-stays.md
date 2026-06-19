@@ -14,7 +14,7 @@ hero:
   imageAlt: "Agritourisme campagne gallurese Sardaigne"
   primaryCta:
     label: "Réserver une visite"
-    href: "/contact"
+    href: "/residence/contact"
   secondaryCta:
     label: "Restaurants"
     href: "/surroundings/restaurants"

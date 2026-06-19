@@ -11,7 +11,12 @@ hero:
   title: "Die Umgebung"
   subtitle: "Restaurants, Landgasthäuser, Strände, Inseln und Routen im authentischsten Gallura."
   gallery:
-    ["https://cdn.marinadiconcaverde.it/img/1370.jpg", "https://cdn.marinadiconcaverde.it/img/mete.jpg", "https://cdn.marinadiconcaverde.it/img/percorsi.jpg"]
+    [
+      "https://cdn.marinadiconcaverde.it/img/IMG_2682b.jpg",
+      "https://cdn.marinadiconcaverde.it/img/mappadintorni.jpg",
+      "https://cdn.marinadiconcaverde.it/img/1370.jpg",
+      "https://cdn.marinadiconcaverde.it/img/1377.jpg",
+    ]
   altGallery: ["Umgebung Porto Pozzo Gallura", "Lieblingsausflugsziele Gallura", "Routen Sardinien"]
   galleryCta:
     label: "Galerie öffnen"

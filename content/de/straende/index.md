@@ -11,7 +11,12 @@ hero:
   title: "Archipel & Strände"
   subtitle: "Die Buchten von Conca Verde, der Maddalena-Archipel und die schönsten Küsten Nordsardiniens."
   gallery:
-    ["https://cdn.marinadiconcaverde.it/img/1285.jpg", "https://cdn.marinadiconcaverde.it/img/1294.jpg", "https://cdn.marinadiconcaverde.it/img/1295.jpg"]
+    [
+      "https://cdn.marinadiconcaverde.it/img/pexels-bovistas-2157537713-34951696.jpg",
+      "https://cdn.marinadiconcaverde.it/img/valle-erica.jpg",
+      "https://cdn.marinadiconcaverde.it/img/2299.jpg",
+      "https://cdn.marinadiconcaverde.it/img/1376.jpg",
+    ]
   altGallery: ["Maddalena-Archipel", "Strand Conca Verde", "Buchten Gallura Sardinien"]
   galleryCta:
     label: "Galerie öffnen"

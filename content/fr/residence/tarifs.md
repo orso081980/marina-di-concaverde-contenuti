@@ -3,9 +3,9 @@ title: "Tarifs — Marina di Conca Verde, Porto Pozzo"
 description: "Tarifs villas studio et deux pièces à Marina di Conca Verde. Prix par saison. Séjours à partir d'un minimum de 3 nuits. Offres spéciales disponibles."
 translations:
   it: "/residence/tariffe"
-  en: "/rates"
-  de: "/preise"
-  fr: "/rates"
+  en: "/residence/rates"
+  de: "/residenz/preise"
+  fr: "/residence/tarifs"
 hero:
   eyebrow: "Prix · Saison 2025"
   title: "Tarifs"
@@ -14,7 +14,7 @@ hero:
   imageAlt: "Villa Marina di Conca Verde"
   primaryCta:
     label: "Demander la disponibilité"
-    href: "/contact"
+    href: "/residence/contact"
   secondaryCta:
     label: "Découvrir les Villas"
     href: "/villas"

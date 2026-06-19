@@ -4,8 +4,8 @@ description: "Contact Marina di Conca Verde residence in Porto Pozzo, Santa Tere
 translations:
   it: "/residence/contatti"
   en: "/residence/contacts"
-  de: "/residence/kontakt"
-  fr: "/residence/contacts"
+  de: "/residenz/kontakt"
+  fr: "/residence/contact"
 hero:
   eyebrow: "Info · Bookings"
   title: "Contact"

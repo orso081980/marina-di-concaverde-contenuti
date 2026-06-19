@@ -14,7 +14,7 @@ hero:
   imageAlt: "Agriturismus gallurese Landschaft Sardinien"
   primaryCta:
     label: "Besuch anfragen"
-    href: "/kontakt"
+    href: "/residenz/kontakt"
   secondaryCta:
     label: "Restaurants"
     href: "/umgebung/restaurants"

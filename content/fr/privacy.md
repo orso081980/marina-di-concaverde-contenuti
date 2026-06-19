@@ -14,7 +14,7 @@ hero:
   imageAlt: "Politique de confidentialité Marina di Conca Verde"
   primaryCta:
     label: "Contact"
-    href: "/contact"
+    href: "/residence/contact"
   secondaryCta:
     label: "Accueil"
     href: "/"

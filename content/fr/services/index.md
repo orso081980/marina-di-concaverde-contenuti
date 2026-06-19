@@ -10,14 +10,14 @@ hero:
   eyebrow: "Gallura · Sardaigne"
   title: "Services"
   subtitle: "Tout ce dont vous avez besoin pour profiter au maximum de vos vacances à Porto Pozzo."
-  image: "https://cdn.marinadiconcaverde.it/img/1361.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/cinquecento.webp"
   imageAlt: "Services Marina di Conca Verde"
   primaryCta:
     label: "Réserver le séjour"
-    href: "/rates"
+    href: "/residence/tarifs"
   secondaryCta:
     label: "Nous contacter"
-    href: "/contact"
+    href: "/residence/contact"
 textBlock:
   eyebrow: "Nos Services"
   title: "Des vacances sans soucis"

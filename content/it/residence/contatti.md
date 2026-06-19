@@ -4,8 +4,8 @@ description: "Contatti del residence Marina di Conca Verde a Porto Pozzo, Santa 
 translations:
   it: "/residence/contatti"
   en: "/residence/contacts"
-  de: "/kontakt"
-  fr: "/contact"
+  de: "/residenz/kontakt"
+  fr: "/residence/contact"
 hero:
   eyebrow: "Info · Prenotazioni"
   title: "Contatti"

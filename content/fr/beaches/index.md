@@ -11,7 +11,12 @@ hero:
   title: "L'Archipel et les Plages"
   subtitle: "Les criques de Conca Verde, l'Archipel de La Maddalena et les plus beaux littoraux du Nord de la Sardaigne."
   gallery:
-    ["https://cdn.marinadiconcaverde.it/img/1285.jpg", "https://cdn.marinadiconcaverde.it/img/1294.jpg", "https://cdn.marinadiconcaverde.it/img/1295.jpg"]
+    [
+      "https://cdn.marinadiconcaverde.it/img/pexels-bovistas-2157537713-34951696.jpg",
+      "https://cdn.marinadiconcaverde.it/img/valle-erica.jpg",
+      "https://cdn.marinadiconcaverde.it/img/2299.jpg",
+      "https://cdn.marinadiconcaverde.it/img/1376.jpg",
+    ]
   altGallery: ["Archipel La Maddalena", "Plage Conca Verde", "Criques Gallura Sardaigne"]
   galleryCta:
     label: "Ouvrir la galerie"

@@ -17,7 +17,7 @@ hero:
     href: "/residence/contatti"
   secondaryCta:
     label: "I Percorsi"
-    href: "/servizi"
+    href: "/dintorni/percorsi"
 textBlock:
   eyebrow: "Mountain Bike"
   title: "La Gallura vista dalla sella"

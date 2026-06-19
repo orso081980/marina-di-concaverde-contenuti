@@ -10,11 +10,11 @@ hero:
   eyebrow: "Dienstleistungen · Transfer"
   title: "NCC & Transfer"
   subtitle: "Transfers vom Flughafen, Mietwagen und Taxi durch ganz Sardinien — kein Stress."
-  image: "https://cdn.marinadiconcaverde.it/img/minivan.jpg"
+  image: "https://cdn.marinadiconcaverde.it/img/FIAT_500_F_1966.jpg"
   imageAlt: "Transferservice Sardinien"
   primaryCta:
     label: "Angebot anfordern"
-    href: "/kontakt"
+    href: "/residenz/kontakt"
   secondaryCta:
     label: "Alle Dienstleistungen"
     href: "/dienstleistungen"

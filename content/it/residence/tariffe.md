@@ -4,8 +4,8 @@ description: "Tariffe villette bilocale e trilocale a Marina di Conca Verde. Pre
 translations:
   it: "/residence/tariffe"
   en: "/residence/rates"
-  de: "/preise"
-  fr: "/rates"
+  de: "/residenz/preise"
+  fr: "/residence/tarifs"
 hero:
   eyebrow: "L'estate ti aspetta"
   title: "Tariffe su misura"

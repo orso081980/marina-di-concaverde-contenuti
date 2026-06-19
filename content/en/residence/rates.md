@@ -4,8 +4,8 @@ description: "Rates for two-bedroom and three-bedroom villas at Marina di Conca 
 translations:
   it: "/residence/tariffe"
   en: "/residence/rates"
-  de: "/preise"
-  fr: "/residence/tariffe"
+  de: "/residenz/preise"
+  fr: "/residence/tarifs"
 hero:
   eyebrow: "Summer awaits you"
   title: "Custom Rates"
