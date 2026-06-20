@@ -25,12 +25,12 @@ cin: "CIN: IT090063B4000E2348"
 # Partner logos (img paths are relative to /public)
 partners:
   - name: "Capo Ceraso Resort"
-    url: "http://www.capocerasoresort.it"
+    url: "https://www.capocerasoresort.it"
     img: "/logos/capo-ceraso.jpg"
   - name: "Baia del Faro"
-    url: "http://www.baiadelfaro.com"
+    url: "https://www.baiadelfaro.com"
     img: "/logos/baia-del-faro.png"
   - name: "Immobilisarda"
-    url: "http://www.immobilsarda.com/"
+    url: "https://www.immobilsarda.com/"
     img: "/logos/immobilsarda.png"
 ---

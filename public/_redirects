@@ -1,3 +1,36 @@
+# ── www → non-www (preserves path) ───────────────────────────────────────────
+https://www.marinadiconcaverde.it/* https://marinadiconcaverde.it/:splat 301
+
+# ── Restructured DE/FR paths (moved to match Italian structure) ────────────────
+/de/faehren                 /de/dienstleistungen/faehren/  301
+/de/preise                  /de/residenz/preise/           301
+/de/kontakt                 /de/residenz/kontakt/          301
+/fr/ferries                 /fr/services/ferries/          301
+/fr/rates                   /fr/residence/tarifs/          301
+/fr/contact                 /fr/residence/contact/         301
+
+# ── Old Italian paths (section reorganisation) ────────────────────────────────
+/it/spiagge/ncc             /it/unamicoingallura/ncc/              301
+/it/spiagge/escursioni      /it/unamicoingallura/escursioni/       301
+/it/servizi/traghetti       /it/unamicoingallura/traghetti/        301
+/it/servizi/ncc             /it/unamicoingallura/ncc/              301
+/it/servizi                 /it/unamicoingallura/                  301
+/it/accoglienza             /it/unamicoingallura/accoglienza/      301
+/it/residence/traghetti     /it/unamicoingallura/traghetti/        301
+
+# ── Non-locale-prefixed paths → correct locale ────────────────────────────────
+# French path that shares slug with EN (must come before the EN /beaches/* wildcard)
+/beaches/criques            /fr/beaches/criques/                   301
+# EN paths without /en/ prefix
+/ferries                    /en/ferries/                           301
+/services/*                 /en/services/:splat                    301
+/beaches/*                  /en/beaches/:splat                     301
+/surroundings/*             /en/surroundings/:splat                301
+# DE paths without /de/ prefix
+/straende/*                 /de/straende/:splat                    301
+/umgebung/*                 /de/umgebung/:splat                    301
+/dienstleistungen/*         /de/dienstleistungen/:splat            301
+
 # ── Old .aspx site redirects (301 Permanent) ──────────────────────────────────
 # Add one line per old URL: /old-path.aspx  /new-path/  301
 # Example:
