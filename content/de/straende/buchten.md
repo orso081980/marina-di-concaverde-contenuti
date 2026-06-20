@@ -14,10 +14,10 @@ hero:
   imageAlt: "Buchten von Conca Verde Porto Pozzo Gallura"
   primaryCta:
     label: "Schlauchboot mieten"
-    href: "/dienstleistungen/rezeption"
+    href: "/dienstleistungen/rezeption/"
   secondaryCta:
     label: "Bootsausflüge"
-    href: "/dienstleistungen/ausfluege"
+    href: "/dienstleistungen/ausfluege/"
 textBlock:
   eyebrow: "Der Fjord von Porto Pozzo"
   title: "Versteckte Buchten direkt vor der Tür"

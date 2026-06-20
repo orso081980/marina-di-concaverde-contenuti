@@ -14,10 +14,10 @@ hero:
   imageAlt: "Archipel de La Maddalena Sardaigne"
   primaryCta:
     label: "Réserver une Excursion"
-    href: "/services/excursions"
+    href: "/services/excursions/"
   secondaryCta:
     label: "Location de Pneumatique"
-    href: "/services/reception"
+    href: "/services/reception/"
 textBlock:
   eyebrow: "Parc National"
   title: "Le paradis des Bouches de Bonifacio"
@@ -60,4 +60,4 @@ Depuis l'embarcadère de la résidence, vous pouvez :
 - Partir en **excursion guidée** en voilier ou en bateau à moteur
 - Organiser une **sortie de pêche** avec déjeuner à bord
 
-[Découvrir les excursions →](/services/excursions)
+[Découvrir les excursions →](/fr/services/excursions/)

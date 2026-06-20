@@ -23,10 +23,10 @@ hero:
     href: "#"
   primaryCta:
     label: "Mete Preferite"
-    href: "/dintorni/mete"
+    href: "/dintorni/mete/"
   secondaryCta:
     label: "Itinerari"
-    href: "/dintorni/itinerari"
+    href: "/dintorni/itinerari/"
 textBlock:
   eyebrow: "I Dintorni"
   title: "Un territorio ricchissimo da esplorare"
@@ -61,8 +61,8 @@ Il porto più glamour d'Italia, famoso in tutto il mondo. Vale la visita anche s
 
 ## Esplora per Categoria
 
-- [Ristoranti](/it/dintorni/ristoranti) → I migliori locali della zona
-- [Agriturismo](/it/dintorni/agriturismo) → Autentica cucina gallurese
-- [Discoteche](/it/dintorni/discoteche) → Vita notturna in Gallura
-- [Mete Preferite](/it/dintorni/mete) → Le spiagge e le isole da non perdere
-- [Itinerari](/it/dintorni/itinerari) → Suggerimenti di viaggio
+- [Ristoranti](/it/dintorni/ristoranti/) → I migliori locali della zona
+- [Agriturismo](/it/dintorni/agriturismo/) → Autentica cucina gallurese
+- [Discoteche](/it/dintorni/discoteche/) → Vita notturna in Gallura
+- [Mete Preferite](/it/dintorni/mete/) → Le spiagge e le isole da non perdere
+- [Itinerari](/it/dintorni/itinerari/) → Suggerimenti di viaggio

@@ -27,10 +27,10 @@ hero:
     href: "#"
   primaryCta:
     label: "Scopri il Residence"
-    href: "/residence"
+    href: "/residence/"
   secondaryCta:
     label: "Tariffe"
-    href: "/residence/tariffe"
+    href: "/residence/tariffe/"
 textBlock:
   eyebrow: "Benvenuti a marina di Conca Verde"
   title: "Gallura - Sardegna"

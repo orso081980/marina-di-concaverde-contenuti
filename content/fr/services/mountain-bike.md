@@ -14,10 +14,10 @@ hero:
   imageAlt: "VTT sentiers Gallura Sardaigne"
   primaryCta:
     label: "Réserver une location"
-    href: "/residence/contact"
+    href: "/residence/contact/"
   secondaryCta:
     label: "Les Sentiers"
-    href: "/surroundings/trails"
+    href: "/surroundings/trails/"
 textBlock:
   eyebrow: "VTT"
   title: "La Gallura vue depuis la selle"

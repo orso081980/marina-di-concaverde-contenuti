@@ -14,10 +14,10 @@ hero:
   imageAlt: "Service transfert Sardaigne"
   primaryCta:
     label: "Demander un devis"
-    href: "/residence/contact"
+    href: "/residence/contact/"
   secondaryCta:
     label: "Tous les services"
-    href: "/services"
+    href: "/services/"
 textBlock:
   eyebrow: "NCC / Transfert"
   title: "Se déplacer en Sardaigne sans stress"

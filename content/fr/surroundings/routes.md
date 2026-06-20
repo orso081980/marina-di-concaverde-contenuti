@@ -14,10 +14,10 @@ hero:
   imageAlt: "Itinéraires Gallura nord de la Sardaigne"
   primaryCta:
     label: "Excursions organisées"
-    href: "/services/excursions"
+    href: "/services/excursions/"
   secondaryCta:
     label: "Location Voiture / NCC"
-    href: "/services/ncc"
+    href: "/services/ncc/"
 textBlock:
   eyebrow: "Itinéraires"
   title: "Comment découvrir la Gallura en vacances"

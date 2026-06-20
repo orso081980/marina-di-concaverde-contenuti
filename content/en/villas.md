@@ -14,10 +14,10 @@ hero:
   imageAlt: "Villas at Marina di Conca Verde residence"
   primaryCta:
     label: "Rates & Availability"
-    href: "/residence/rates"
+    href: "/residence/rates/"
   secondaryCta:
     label: "Contact Us"
-    href: "/residence/contacts"
+    href: "/residence/contacts/"
 textBlock:
   eyebrow: "The Villas"
   title: "Gallurese tradition, timeless quality, relaxing atmosphere and comfort."

@@ -14,10 +14,10 @@ hero:
   imageAlt: "Coves of Conca Verde Porto Pozzo Gallura"
   primaryCta:
     label: "Rates & Availability"
-    href: "/residence/rates"
+    href: "/residence/rates/"
   secondaryCta:
     label: "Contact Us"
-    href: "/residence/contacts"
+    href: "/residence/contacts/"
 textBlock:
   eyebrow: "The Porto Pozzo Fjord"
   title: "Hidden coves just around the corner"

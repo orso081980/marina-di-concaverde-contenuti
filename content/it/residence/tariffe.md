@@ -14,10 +14,10 @@ hero:
   imageAlt: "Villetta Marina di Conca Verde"
   primaryCta:
     label: "Richiedi Disponibilità"
-    href: "/residence/contatti"
+    href: "/residence/contatti/"
   secondaryCta:
     label: "Scopri le Villette"
-    href: "/villette"
+    href: "/villette/"
 textBlock:
   eyebrow: "Tariffe Estate"
   title: "Prezzi trasparenti, nessuna sorpresa"

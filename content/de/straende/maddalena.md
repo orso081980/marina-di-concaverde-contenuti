@@ -14,10 +14,10 @@ hero:
   imageAlt: "Maddalena-Archipel Sardinien"
   primaryCta:
     label: "Ausflug buchen"
-    href: "/dienstleistungen/ausfluege"
+    href: "/dienstleistungen/ausfluege/"
   secondaryCta:
     label: "Schlauchbootvermietung"
-    href: "/dienstleistungen/rezeption"
+    href: "/dienstleistungen/rezeption/"
 textBlock:
   eyebrow: "Nationalpark"
   title: "Das Paradies der Straße von Bonifacio"
@@ -60,4 +60,4 @@ Vom Anleger der Anlage aus können Sie:
 - An einem **geführten Ausflug** per Segelboot oder Motorboot teilnehmen
 - Einen **Angelausflug** mit Mittagessen an Bord organisieren
 
-[Ausflüge entdecken →](/dienstleistungen/ausfluege)
+[Ausflüge entdecken →](/de/dienstleistungen/ausfluege/)

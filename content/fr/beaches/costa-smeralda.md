@@ -14,10 +14,10 @@ hero:
   imageAlt: "Costa Smeralda Porto Cervo Sardaigne"
   primaryCta:
     label: "Rent a Car / NCC"
-    href: "/services/ncc"
+    href: "/services/ncc/"
   secondaryCta:
     label: "Excursions Organisées"
-    href: "/services/excursions"
+    href: "/services/excursions/"
 textBlock:
   eyebrow: "La Côte la Plus Célèbre d'Italie"
   title: "Une expérience à vivre au moins une fois"
@@ -66,4 +66,4 @@ En haute saison, trouver un parking près des plages les plus célèbres peut ê
 - Utiliser notre **service de transfert** avec NCC
 - Organiser une **excursion en bateau** pour rejoindre les criques par la mer
 
-[Réserver un transfert →](/services/ncc)
+[Réserver un transfert →](/fr/services/ncc/)

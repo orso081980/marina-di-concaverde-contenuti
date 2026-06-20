@@ -14,10 +14,10 @@ hero:
   imageAlt: "La Maddalena Archipelago Sardinia"
   primaryCta:
     label: "Rates & Availability"
-    href: "/residence/rates"
+    href: "/residence/rates/"
   secondaryCta:
     label: "Contact Us"
-    href: "/residence/contacts"
+    href: "/residence/contacts/"
 textBlock:
   eyebrow: "National Park"
   title: "The paradise of the Bonifacio Strait"

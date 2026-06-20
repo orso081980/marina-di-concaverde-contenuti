@@ -14,10 +14,10 @@ hero:
   imageAlt: "Fish restaurant Gallura Sardinia"
   primaryCta:
     label: "Back to Surroundings"
-    href: "/surroundings"
+    href: "/surroundings/"
   secondaryCta:
     label: "Farm Stays"
-    href: "/surroundings/farm-stays"
+    href: "/surroundings/farm-stays/"
 textBlock:
   eyebrow: "Restaurants"
   title: "Authentic flavours of Gallura"

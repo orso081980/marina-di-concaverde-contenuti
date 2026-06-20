@@ -14,10 +14,10 @@ hero:
   imageAlt: "Escursione in barca arcipelago La Maddalena"
   primaryCta:
     label: "Contattaci"
-    href: "/residence/contatti"
+    href: "/residence/contatti/"
   secondaryCta:
     label: "Info Traghetti"
-    href: "/servizi/traghetti"
+    href: "/unamicoingallura/traghetti/"
 textBlock:
   eyebrow: "Escursioni"
   title: "La Gallura: un ventaglio di esperienze"

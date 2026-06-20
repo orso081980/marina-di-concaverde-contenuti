@@ -23,10 +23,10 @@ hero:
     href: "#"
   primaryCta:
     label: "Lieblingsausflugsziele"
-    href: "/umgebung/sehenswuerdigkeiten"
+    href: "/umgebung/sehenswuerdigkeiten/"
   secondaryCta:
     label: "Routen"
-    href: "/umgebung/routen"
+    href: "/umgebung/routen/"
 textBlock:
   eyebrow: "Die Umgebung"
   title: "Ein reiches Territorium zum Erkunden"
@@ -61,9 +61,9 @@ Der glamouröseste Hafen Italiens, weltberühmt. Den Besuch wert, allein schon f
 
 ## Entdecken nach Kategorie
 
-- [Restaurants](/umgebung/restaurants) → Die besten Lokale der Gegend
-- [Landleben & Agritourismus](/umgebung/landleben) → Authentische gallurese Küche
-- [Nachtleben](/umgebung/nachtleben) → Abendleben in der Gallura
-- [Beliebte Ziele](/umgebung/sehenswuerdigkeiten) → Die schönsten Strände und Inseln
-- [Naturpark](/umgebung/park) → Nationalpark La Maddalena
-- [Wege & Wanderungen](/umgebung/wege) → Outdoor-Vorschläge
+- [Restaurants](/de/umgebung/restaurants/) → Die besten Lokale der Gegend
+- [Landleben & Agritourismus](/de/umgebung/landleben/) → Authentische gallurese Küche
+- [Nachtleben](/de/umgebung/nachtleben/) → Abendleben in der Gallura
+- [Beliebte Ziele](/de/umgebung/sehenswuerdigkeiten/) → Die schönsten Strände und Inseln
+- [Naturpark](/de/umgebung/park/) → Nationalpark La Maddalena
+- [Wege & Wanderungen](/de/umgebung/wege/) → Outdoor-Vorschläge

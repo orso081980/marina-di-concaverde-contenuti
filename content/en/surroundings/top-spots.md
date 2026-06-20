@@ -51,7 +51,7 @@ Must-see in Bonifacio:
 - The **Scala du Rei d'Aragona** (187 steps carved into the rock)
 - The **Roman cisterns** in the heart of the city
 
-→ [Ferry information Santa Teresa–Bonifacio](/ferries)
+→ [Ferry information Santa Teresa–Bonifacio](/en/ferries/)
 
 ## 🌊 Northern Beaches
 

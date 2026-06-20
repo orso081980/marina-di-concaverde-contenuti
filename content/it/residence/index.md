@@ -22,7 +22,7 @@ hero:
     href: "#"
   primaryCta:
     label: "Le Villette"
-    href: "/villette"
+    href: "/villette/"
 textBlock:
   eyebrow: "Il Residence"
   title: "Un angolo autentico della Gallura"

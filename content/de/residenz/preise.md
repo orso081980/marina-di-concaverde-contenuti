@@ -14,10 +14,10 @@ hero:
   imageAlt: "Villa Marina di Conca Verde"
   primaryCta:
     label: "Verfügbarkeit anfragen"
-    href: "/residenz/kontakt"
+    href: "/residenz/kontakt/"
   secondaryCta:
     label: "Die Villen entdecken"
-    href: "/villen"
+    href: "/villen/"
 textBlock:
   eyebrow: "Preise 2025"
   title: "Transparente Preise, keine Überraschungen"

@@ -16,10 +16,10 @@ hero:
   imageAlt: Services Marina di Conca Verde
   primaryCta:
     label: Book Your Stay
-    href: /residence/rates
+    href: /residence/rates/
   secondaryCta:
     label: Contact Us
-    href: /residence/contacts
+    href: /residence/contacts/
   gallery: []
   altGallery: []
   galleryCta: {}

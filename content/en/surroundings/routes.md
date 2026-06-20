@@ -14,10 +14,10 @@ hero:
   imageAlt: "Itineraries Gallura Northern Sardinia"
   primaryCta:
     label: "Organised Excursions"
-    href: "/services/excursions"
+    href: "/services/excursions/"
   secondaryCta:
     label: "Car Rental / NCC"
-    href: "/services/ncc"
+    href: "/services/ncc/"
 textBlock:
   eyebrow: "Itineraries"
   title: "How to discover Gallura on vacation"
@@ -50,7 +50,7 @@ The classic choice. Leave early in the morning (8:00–9:00) with a rented dingh
 
 Drive to Santa Teresa Gallura and take the ferry to Bonifacio (50 min).
 
-→ [Ferry schedules Santa Teresa–Bonifacio](/ferries)
+→ [Ferry schedules Santa Teresa–Bonifacio](/en/ferries/)
 
 ---
 

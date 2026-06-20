@@ -14,10 +14,10 @@ hero:
   imageAlt: "Itinerari Gallura Sardegna settentrionale"
   primaryCta:
     label: "Escursioni Organizzate"
-    href: "/spiagge/escursioni"
+    href: "/unamicoingallura/escursioni/"
   secondaryCta:
     label: "Noleggio Auto / NCC"
-    href: "/spiagge/ncc"
+    href: "/unamicoingallura/ncc/"
 textBlock:
   eyebrow: "Itinerari"
   title: "Come scoprire la Gallura in vacanza"
@@ -50,7 +50,7 @@ Il grande classico. Parti la mattina presto (8:00–9:00) con il gommone noleggi
 
 Raggiungi Santa Teresa Gallura in auto e prendi il traghetto per Bonifacio (50 min).
 
-→ [Orari traghetti Santa Teresa–Bonifacio](/it/residence/traghetti)
+→ [Orari traghetti Santa Teresa–Bonifacio](/it/unamicoingallura/traghetti/)
 
 ---
 

@@ -14,10 +14,10 @@ hero:
   imageAlt: "Tauchen Meeresboden Gallura Sardinien"
   primaryCta:
     label: "Tauchgang buchen"
-    href: "/residenz/kontakt"
+    href: "/residenz/kontakt/"
   secondaryCta:
     label: "Alle Dienstleistungen"
-    href: "/dienstleistungen"
+    href: "/dienstleistungen/"
 textBlock:
   eyebrow: "Tauchen"
   title: "Die Meeresgründe von Gallura erkunden"

@@ -14,10 +14,10 @@ hero:
   imageAlt: "Bootsausflug Maddalena-Archipel"
   primaryCta:
     label: "Ausflug buchen"
-    href: "/residenz/kontakt"
+    href: "/residenz/kontakt/"
   secondaryCta:
     label: "Fähren-Informationen"
-    href: "/dienstleistungen/faehren"
+    href: "/dienstleistungen/faehren/"
 textBlock:
   eyebrow: "Ausflüge"
   title: "Gallura: ein breites Spektrum an Erlebnissen"

@@ -16,10 +16,10 @@ hero:
   imageAlt: Servizi Marina di Conca Verde
   primaryCta:
     label: Prenota il Soggiorno
-    href: /residence/tariffe
+    href: /residence/tariffe/
   secondaryCta:
     label: Contattaci
-    href: /residence/contatti
+    href: /residence/contatti/
   gallery: []
   altGallery: []
   galleryCta: {}

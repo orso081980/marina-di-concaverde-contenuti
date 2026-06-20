@@ -14,10 +14,10 @@ hero:
   imageAlt: "Costa Smeralda Porto Cervo Sardinia"
   primaryCta:
     label: "Rates & Availability"
-    href: "/residence/rates"
+    href: "/residence/rates/"
   secondaryCta:
     label: "Contact Us"
-    href: "/residence/contacts"
+    href: "/residence/contacts/"
 textBlock:
   eyebrow: "Italy's Most Famous Coast"
   title: "An experience worth living at least once"

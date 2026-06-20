@@ -14,10 +14,10 @@ hero:
   imageAlt: "Plongée fonds marins Gallura Sardaigne"
   primaryCta:
     label: "Réserver une sortie"
-    href: "/residence/contact"
+    href: "/residence/contact/"
   secondaryCta:
     label: "Tous les services"
-    href: "/services"
+    href: "/services/"
 textBlock:
   eyebrow: "Plongée"
   title: "Explorer les fonds marins de la Gallura"

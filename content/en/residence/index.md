@@ -22,7 +22,7 @@ hero:
     href: "#"
   primaryCta:
     label: "The Villas"
-    href: "/villas"
+    href: "/villas/"
 textBlock:
   eyebrow: "The Residence"
   title: "An authentic corner of Gallura"

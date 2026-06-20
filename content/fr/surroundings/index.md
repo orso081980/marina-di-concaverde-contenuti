@@ -23,10 +23,10 @@ hero:
     href: "#"
   primaryCta:
     label: "Destinations préférées"
-    href: "/surroundings/top-spots"
+    href: "/surroundings/top-spots/"
   secondaryCta:
     label: "Itinéraires"
-    href: "/surroundings/routes"
+    href: "/surroundings/routes/"
 textBlock:
   eyebrow: "Les Environs"
   title: "Un territoire riche à explorer"
@@ -61,9 +61,9 @@ Le port le plus glamour d'Italie, mondialement célèbre. Vaut le détour rien q
 
 ## Explorer par catégorie
 
-- [Restaurants](/surroundings/restaurants) → Les meilleurs restaurants de la région
-- [Agritourisme](/surroundings/farm-stays) → Cuisine gallurese authentique
-- [Vie nocturne](/surroundings/nightlife) → Sorties nocturnes en Gallura
-- [Destinations préférées](/surroundings/top-spots) → Les plus belles plages et îles
-- [Parc naturel](/surroundings/park) → Parc national La Maddalena
-- [Sentiers](/surroundings/trails) → Suggestions de randonnées
+- [Restaurants](/fr/surroundings/restaurants/) → Les meilleurs restaurants de la région
+- [Agritourisme](/fr/surroundings/farm-stays/) → Cuisine gallurese authentique
+- [Vie nocturne](/fr/surroundings/nightlife/) → Sorties nocturnes en Gallura
+- [Destinations préférées](/fr/surroundings/top-spots/) → Les plus belles plages et îles
+- [Parc naturel](/fr/surroundings/park/) → Parc national La Maddalena
+- [Sentiers](/fr/surroundings/trails/) → Suggestions de randonnées

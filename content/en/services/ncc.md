@@ -14,10 +14,10 @@ hero:
   imageAlt: "Transfer service Sardinia"
   primaryCta:
     label: "Contact Us"
-    href: "/residence/contacts"
+    href: "/residence/contacts/"
   secondaryCta:
     label: "All Services"
-    href: "/services"
+    href: "/services/"
 textBlock:
   eyebrow: "NCC / Transfer"
   title: "Get around Sardinia without stress"

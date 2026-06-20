@@ -14,10 +14,10 @@ hero:
   imageAlt: "Villa Marina di Conca Verde"
   primaryCta:
     label: "Request Availability"
-    href: "/residence/contacts"
+    href: "/residence/contacts/"
   secondaryCta:
     label: "Discover the Villas"
-    href: "/villas"
+    href: "/villas/"
 textBlock:
   eyebrow: "Summer Rates"
   title: "Transparent prices, no surprises"

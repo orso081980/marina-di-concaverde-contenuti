@@ -14,10 +14,10 @@ hero:
   imageAlt: "Mountainbike Trails Gallura Sardinien"
   primaryCta:
     label: "Verleih buchen"
-    href: "/residenz/kontakt"
+    href: "/residenz/kontakt/"
   secondaryCta:
     label: "Die Wege"
-    href: "/umgebung/wege"
+    href: "/umgebung/wege/"
 textBlock:
   eyebrow: "Mountainbike"
   title: "Gallura vom Sattel aus"

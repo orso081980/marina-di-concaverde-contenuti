@@ -14,10 +14,10 @@ hero:
   imageAlt: "Diving seabeds Gallura Sardinia"
   primaryCta:
     label: "Contact Us"
-    href: "/residence/contacts"
+    href: "/residence/contacts/"
   secondaryCta:
     label: "All Services"
-    href: "/services"
+    href: "/services/"
 textBlock:
   eyebrow: "Diving"
   title: "Explore the seabeds of Gallura"

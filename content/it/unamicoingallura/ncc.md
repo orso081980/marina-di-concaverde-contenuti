@@ -14,10 +14,10 @@ hero:
   imageAlt: "Servizio transfer Sardegna"
   primaryCta:
     label: "Contattaci"
-    href: "/residence/contatti"
+    href: "/residence/contatti/"
   secondaryCta:
     label: "Tutti i Servizi"
-    href: "/servizi"
+    href: "/unamicoingallura/"
 textBlock:
   eyebrow: "NCC / Transfer"
   title: "Spostati in Sardegna senza stress"

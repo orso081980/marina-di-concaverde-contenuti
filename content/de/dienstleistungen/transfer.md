@@ -14,10 +14,10 @@ hero:
   imageAlt: "Transferservice Sardinien"
   primaryCta:
     label: "Angebot anfordern"
-    href: "/residenz/kontakt"
+    href: "/residenz/kontakt/"
   secondaryCta:
     label: "Alle Dienstleistungen"
-    href: "/dienstleistungen"
+    href: "/dienstleistungen/"
 textBlock:
   eyebrow: "NCC / Transfer"
   title: "Stressfrei in Sardinien unterwegs"

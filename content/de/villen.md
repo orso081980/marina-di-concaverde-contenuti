@@ -14,10 +14,10 @@ hero:
   imageAlt: "Villen Marina di Conca Verde"
   primaryCta:
     label: "Preise & Verfügbarkeit"
-    href: "/residenz/preise"
+    href: "/residenz/preise/"
   secondaryCta:
     label: "Kontakt"
-    href: "/residenz/kontakt"
+    href: "/residenz/kontakt/"
 textBlock:
   eyebrow: "Die Villen"
   title: "Gallurese Tradition und moderner Komfort"

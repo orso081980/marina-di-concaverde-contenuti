@@ -17,7 +17,7 @@ hero:
     href: "https://www.traghetti.com"
   secondaryCta:
     label: "Mietwagen / Transfer"
-    href: "/dienstleistungen/transfer"
+    href: "/dienstleistungen/transfer/"
 textBlock:
   eyebrow: "Fähren"
   title: "Sardinien auf dem Seeweg"

@@ -14,10 +14,10 @@ hero:
   imageAlt: "Nachtleben Gallura Costa Smeralda Sardinien"
   primaryCta:
     label: "Zurück zur Umgebung"
-    href: "/umgebung"
+    href: "/umgebung/"
   secondaryCta:
     label: "Lieblingsausflugsziele"
-    href: "/umgebung/sehenswuerdigkeiten"
+    href: "/umgebung/sehenswuerdigkeiten/"
 textBlock:
   eyebrow: "Nachtleben"
   title: "Die Nächte in Gallura enttäuschen nie"

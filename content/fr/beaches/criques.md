@@ -14,10 +14,10 @@ hero:
   imageAlt: "Criques de Conca Verde Porto Pozzo Gallura"
   primaryCta:
     label: "Louer un Pneumatique"
-    href: "/services/reception"
+    href: "/services/reception/"
   secondaryCta:
     label: "Excursions en bateau"
-    href: "/services/excursions"
+    href: "/services/excursions/"
 textBlock:
   eyebrow: "Le Fjord de Porto Pozzo"
   title: "Des criques cachées à deux pas"

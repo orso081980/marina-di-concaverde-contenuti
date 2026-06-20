@@ -14,10 +14,10 @@ hero:
   imageAlt: "Maddalena-Archipel Sardinien"
   primaryCta:
     label: "Bootsausflüge"
-    href: "/dienstleistungen/ausfluege"
+    href: "/dienstleistungen/ausfluege/"
   secondaryCta:
     label: "Fähren"
-    href: "/dienstleistungen/faehren"
+    href: "/dienstleistungen/faehren/"
 textBlock:
   eyebrow: "Sehenswürdigkeiten"
   title: "Das Beste Nordsardiniens"

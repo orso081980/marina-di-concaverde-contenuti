@@ -14,10 +14,10 @@ hero:
   imageAlt: "Fischrestaurant Gallura Sardinien"
   primaryCta:
     label: "Zurück zur Umgebung"
-    href: "/umgebung"
+    href: "/umgebung/"
   secondaryCta:
     label: "Landgasthäuser"
-    href: "/umgebung/landleben"
+    href: "/umgebung/landleben/"
 textBlock:
   eyebrow: "Restaurants"
   title: "Authentische Aromen aus Gallura"

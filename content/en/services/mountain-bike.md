@@ -14,10 +14,10 @@ hero:
   imageAlt: "Mountain bike trails Gallura Sardinia"
   primaryCta:
     label: "Contact Us"
-    href: "/residence/contacts"
+    href: "/residence/contacts/"
   secondaryCta:
     label: "Routes"
-    href: "/services"
+    href: "/services/"
 textBlock:
   eyebrow: "Mountain Bike"
   title: "Gallura seen from the saddle"

@@ -17,7 +17,7 @@ hero:
     href: "mailto:mcv@marinadiconcaverde.it"
   secondaryCta:
     label: "Tariffe"
-    href: "/residence/tariffe"
+    href: "/residence/tariffe/"
 textBlock:
   eyebrow: "Contatti"
   title: "Prenota o chiedi informazioni"

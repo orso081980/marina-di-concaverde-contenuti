@@ -14,10 +14,10 @@ hero:
   imageAlt: "Agriturismo Gallurese countryside Sardinia"
   primaryCta:
     label: "Book a Visit"
-    href: "/residence/contacts"
+    href: "/residence/contacts/"
   secondaryCta:
     label: "Restaurants"
-    href: "/surroundings/restaurants"
+    href: "/surroundings/restaurants/"
 textBlock:
   eyebrow: "Farm Stays"
   title: "Authentic Gallura, at the table"

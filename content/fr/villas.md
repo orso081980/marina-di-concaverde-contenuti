@@ -14,10 +14,10 @@ hero:
   imageAlt: "Villas du résidence Marina di Conca Verde"
   primaryCta:
     label: "Tarifs & Disponibilités"
-    href: "/residence/tarifs"
+    href: "/residence/tarifs/"
   secondaryCta:
     label: "Nous contacter"
-    href: "/residence/contact"
+    href: "/residence/contact/"
 textBlock:
   eyebrow: "Les Villas"
   title: "Tradition gallurese et confort moderne"

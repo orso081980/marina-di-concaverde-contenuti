@@ -14,10 +14,10 @@ hero:
   imageAlt: "Calette di Conca Verde Porto Pozzo Gallura"
   primaryCta:
     label: "Tariffe e Disponibilità"
-    href: "/residence/tariffe"
+    href: "/residence/tariffe/"
   secondaryCta:
     label: "Contattaci"
-    href: "/residence/contatti"
+    href: "/residence/contatti/"
 
 textBlock:
   eyebrow: "Il Fiordo di Porto Pozzo"

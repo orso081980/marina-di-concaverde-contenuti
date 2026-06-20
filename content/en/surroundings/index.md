@@ -23,10 +23,10 @@ hero:
     href: "#"
   primaryCta:
     label: "Preferred Destinations"
-    href: "/surroundings/top-spots"
+    href: "/surroundings/top-spots/"
   secondaryCta:
     label: "Itineraries"
-    href: "/surroundings/routes"
+    href: "/surroundings/routes/"
 textBlock:
   eyebrow: "The Surroundings"
   title: "A very rich territory to explore"
@@ -61,8 +61,8 @@ Italy's most glamorous port, famous worldwide. Worth a visit just to stroll alon
 
 ## Explore by Category
 
-- [Restaurants](/surroundings/restaurants) → The best places in the area
-- [Farm Stays](/surroundings/farm-stays) → Authentic Gallurese cuisine
-- [Nightlife](/surroundings/nightlife) → Nightlife in Gallura
-- [Preferred Spots](/surroundings/top-spots) → Beaches and islands not to miss
-- [Itineraries](/surroundings/routes) → Travel suggestions
+- [Restaurants](/en/surroundings/restaurants/) → The best places in the area
+- [Farm Stays](/en/surroundings/farm-stays/) → Authentic Gallurese cuisine
+- [Nightlife](/en/surroundings/nightlife/) → Nightlife in Gallura
+- [Preferred Spots](/en/surroundings/top-spots/) → Beaches and islands not to miss
+- [Itineraries](/en/surroundings/routes/) → Travel suggestions

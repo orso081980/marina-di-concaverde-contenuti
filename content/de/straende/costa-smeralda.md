@@ -14,10 +14,10 @@ hero:
   imageAlt: "Costa Smeralda Porto Cervo Sardinien"
   primaryCta:
     label: "Mietwagen / Transfer"
-    href: "/dienstleistungen/transfer"
+    href: "/dienstleistungen/transfer/"
   secondaryCta:
     label: "Organisierte Ausflüge"
-    href: "/dienstleistungen/ausfluege"
+    href: "/dienstleistungen/ausfluege/"
 textBlock:
   eyebrow: "Italiens Berühmteste Küste"
   title: "Ein Erlebnis, das man mindestens einmal haben sollte"
@@ -66,4 +66,4 @@ In der Hochsaison kann es schwierig sein, in der Nähe der berühmtesten Stränd
 - Unseren **NCC-Transferservice** zu nutzen
 - Einen **Bootsausflug** zu organisieren, um die Buchten vom Meer aus zu erreichen
 
-[Transfer buchen →](/dienstleistungen/transfer)
+[Transfer buchen →](/de/dienstleistungen/transfer/)

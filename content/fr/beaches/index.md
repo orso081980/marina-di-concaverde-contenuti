@@ -23,10 +23,10 @@ hero:
     href: "#"
   primaryCta:
     label: "Découvrir les Criques"
-    href: "/beaches/criques"
+    href: "/beaches/criques/"
   secondaryCta:
     label: "Excursions en bateau"
-    href: "/services/excursions"
+    href: "/services/excursions/"
 textBlock:
   eyebrow: "La Mer de la Gallura"
   title: "Eaux cristallines à deux pas de la résidence"
@@ -47,22 +47,22 @@ Séjourner à Marina di Conca Verde, c'est avoir le privilège d'être au cœur 
 
 Le fjord de Porto Pozzo est parsemé de criques cachées, accessibles à pied ou par la mer. Eaux cristallines, fonds peu profonds et sable fin : parfaites pour les familles et ceux qui cherchent la tranquillité.
 
-[Découvrir les criques →](/beaches/criques)
+[Découvrir les criques →](/fr/beaches/criques/)
 
 ## Archipel de La Maddalena
 
 À seulement **10 minutes en pneumatique** de la résidence, le Parc National de l'Archipel de La Maddalena : Spargi, Budelli avec sa célèbre plage rose, Santa Maria, Razzoli. Un paradis protégé d'une rare beauté.
 
-[Découvrir l'Archipel →](/beaches/maddalena)
+[Découvrir l'Archipel →](/fr/beaches/maddalena/)
 
 ## Plages de la Gallura
 
 La Gallura offre des kilomètres de plages parmi les plus belles de la Méditerranée. Du littoral de Porto Pozzo vers Santa Teresa Gallura et Palau : chaque plage a son caractère, entre granit rose et eau turquoise.
 
-[Découvrir les plages →](/beaches/gallura)
+[Découvrir les plages →](/fr/beaches/gallura/)
 
 ## Costa Smeralda
 
 À seulement 30 minutes en voiture, la mythique **Costa Smeralda** : Porto Cervo, Cala di Volpe, Capriccioli. Une excursion incontournable, ne serait-ce que pour une journée.
 
-[Découvrir la Costa Smeralda →](/beaches/costa-smeralda)
+[Découvrir la Costa Smeralda →](/fr/beaches/costa-smeralda/)

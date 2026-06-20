@@ -23,10 +23,10 @@ hero:
     href: "#"
   primaryCta:
     label: "Buchten entdecken"
-    href: "/straende/buchten"
+    href: "/straende/buchten/"
   secondaryCta:
     label: "Bootsausflüge"
-    href: "/dienstleistungen/ausfluege"
+    href: "/dienstleistungen/ausfluege/"
 textBlock:
   eyebrow: "Das Meer der Gallura"
   title: "Kristallklares Wasser nur wenige Schritte von der Anlage"
@@ -47,22 +47,22 @@ Ein Aufenthalt in Marina di Conca Verde bedeutet, im Herzen eines der außergew�
 
 Der Fjord von Porto Pozzo ist übersät mit versteckten Buchten, zu Fuß oder über das Meer erreichbar. Kristallklares Wasser, flache Böden und feiner Sand: perfekt für Familien und alle, die Ruhe abseits der Massen suchen.
 
-[Die Buchten entdecken →](/straende/buchten)
+[Die Buchten entdecken →](/de/straende/buchten/)
 
 ## Maddalena-Archipel
 
 Nur **10 Minuten mit dem Schlauchboot** von der Anlage entfernt öffnet sich der Nationalpark des Maddalena-Archipels: Spargi, Budelli mit dem berühmten rosafarbenen Strand, Santa Maria, Razzoli. Ein geschütztes Paradies von seltener Schönheit.
 
-[Den Archipel entdecken →](/straende/maddalena)
+[Den Archipel entdecken →](/de/straende/maddalena/)
 
 ## Strände der Gallura
 
 Die Gallura bietet Kilometer von Stränden, die zu den schönsten des Mittelmeers gehören. Von der Küste Porto Pozzos Richtung Santa Teresa Gallura und Palau: jeder Strand hat seinen eigenen Charakter, zwischen rosa Granit und türkisem Wasser.
 
-[Die Strände entdecken →](/straende/gallura)
+[Die Strände entdecken →](/de/straende/gallura/)
 
 ## Costa Smeralda
 
 Nur 30 Minuten mit dem Auto erreicht man die legendäre **Costa Smeralda**: Porto Cervo, Cala di Volpe, Capriccioli. Ein unverzichtbarer Ausflug, auch nur für einen Tag.
 
-[Costa Smeralda entdecken →](/straende/costa-smeralda)
+[Costa Smeralda entdecken →](/de/straende/costa-smeralda/)

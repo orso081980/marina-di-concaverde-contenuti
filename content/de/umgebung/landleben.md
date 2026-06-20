@@ -14,10 +14,10 @@ hero:
   imageAlt: "Agriturismus gallurese Landschaft Sardinien"
   primaryCta:
     label: "Besuch anfragen"
-    href: "/residenz/kontakt"
+    href: "/residenz/kontakt/"
   secondaryCta:
     label: "Restaurants"
-    href: "/umgebung/restaurants"
+    href: "/umgebung/restaurants/"
 textBlock:
   eyebrow: "Landgasthäuser"
   title: "Das authentische Gallura bei Tisch"

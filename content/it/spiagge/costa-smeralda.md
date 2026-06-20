@@ -14,10 +14,10 @@ hero:
   imageAlt: "Costa Smeralda Porto Cervo Sardegna"
   primaryCta:
     label: "Tariffe e Disponibilità"
-    href: "/residence/tariffe"
+    href: "/residence/tariffe/"
   secondaryCta:
     label: "Contattaci"
-    href: "/residence/contatti"
+    href: "/residence/contatti/"
 
 textBlock:
   eyebrow: "La Costa più famosa d'Italia"

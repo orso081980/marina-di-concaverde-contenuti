@@ -22,10 +22,10 @@ hero:
     href: "#"
   primaryCta:
     label: "Découvrir les Villas"
-    href: "/villas"
+    href: "/villas/"
   secondaryCta:
     label: "Tarifs"
-    href: "/residence/tarifs"
+    href: "/residence/tarifs/"
 textBlock:
   eyebrow: "La Résidence"
   title: "Votre maison sur la côte gallurese"

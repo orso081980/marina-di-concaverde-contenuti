@@ -14,10 +14,10 @@ hero:
   imageAlt: "Excursion en bateau archipel de La Maddalena"
   primaryCta:
     label: "Réserver une excursion"
-    href: "/residence/contact"
+    href: "/residence/contact/"
   secondaryCta:
     label: "Informations Ferries"
-    href: "/services/ferries"
+    href: "/services/ferries/"
 textBlock:
   eyebrow: "Excursions"
   title: "La Gallura : un éventail d'expériences"

@@ -22,7 +22,7 @@ hero:
     href: "#"
   primaryCta:
     label: "Die Villen"
-    href: "/villen"
+    href: "/villen/"
 textBlock:
   eyebrow: "Die Residenz"
   title: "Eine authentische Ecke Galluras"

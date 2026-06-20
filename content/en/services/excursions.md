@@ -14,10 +14,10 @@ hero:
   imageAlt: "Boat excursion La Maddalena archipelago"
   primaryCta:
     label: "Contact Us"
-    href: "/residence/contacts"
+    href: "/residence/contacts/"
   secondaryCta:
     label: "Ferry Information"
-    href: "/ferries"
+    href: "/ferries/"
 textBlock:
   eyebrow: "Excursions"
   title: "Gallura: a range of experiences"

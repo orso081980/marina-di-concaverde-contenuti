@@ -18,7 +18,7 @@ hero:
     target: "_blank"
   secondaryCta:
     label: "Car Rental"
-    href: "/services/ncc"
+    href: "/services/ncc/"
 textBlock:
   eyebrow: "Ferries"
   title: "To Sardinia by sea"

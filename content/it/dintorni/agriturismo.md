@@ -14,10 +14,10 @@ hero:
   imageAlt: "Agriturismo campagna gallurese Sardegna"
   primaryCta:
     label: "Prenota una Visita"
-    href: "/residence/contatti"
+    href: "/residence/contatti/"
   secondaryCta:
     label: "Ristoranti"
-    href: "/dintorni/ristoranti"
+    href: "/dintorni/ristoranti/"
 textBlock:
   eyebrow: "Agriturismo"
   title: "La Gallura autentica, a tavola"

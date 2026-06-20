@@ -14,10 +14,10 @@ hero:
   imageAlt: "Dienstleistungen Marina di Conca Verde"
   primaryCta:
     label: "Urlaub buchen"
-    href: "/residenz/preise"
+    href: "/residenz/preise/"
   secondaryCta:
     label: "Kontakt aufnehmen"
-    href: "/residenz/kontakt"
+    href: "/residenz/kontakt/"
 textBlock:
   eyebrow: "Unsere Dienstleistungen"
   title: "Urlaub ohne Sorgen"

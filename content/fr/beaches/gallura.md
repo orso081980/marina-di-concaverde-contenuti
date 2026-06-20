@@ -14,10 +14,10 @@ hero:
   imageAlt: "Plages de la Gallura Sardaigne"
   primaryCta:
     label: "Rent a Car / NCC"
-    href: "/services/ncc"
+    href: "/services/ncc/"
   secondaryCta:
     label: "Excursions en bateau"
-    href: "/services/excursions"
+    href: "/services/excursions/"
 textBlock:
   eyebrow: "Le Littoral de la Gallura"
   title: "Sable blanc, granit rose, eau turquoise"
@@ -60,4 +60,4 @@ Ville animée avec des plages équipées, un port de plaisance et le départ des
 
 La plupart de ces plages sont accessibles **en voiture en 15–25 minutes** depuis la résidence. Pour ceux qui préfèrent ne pas conduire, nous organisons des **transferts et locations de voiture** sur demande.
 
-[Rent a Car / NCC →](/services/ncc)
+[Rent a Car / NCC →](/fr/services/ncc/)

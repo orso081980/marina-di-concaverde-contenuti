@@ -14,10 +14,10 @@ hero:
   imageAlt: "Nightlife Gallura Costa Smeralda Sardinia"
   primaryCta:
     label: "Back to Surroundings"
-    href: "/surroundings"
+    href: "/surroundings/"
   secondaryCta:
     label: "Preferred Spots"
-    href: "/surroundings/top-spots"
+    href: "/surroundings/top-spots/"
 textBlock:
   eyebrow: "Nightlife"
   title: "The night in Gallura never disappoints"

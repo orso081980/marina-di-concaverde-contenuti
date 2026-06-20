@@ -14,10 +14,10 @@ hero:
   imageAlt: "Restaurant de poisson Gallura Sardaigne"
   primaryCta:
     label: "Retour aux environs"
-    href: "/surroundings"
+    href: "/surroundings/"
   secondaryCta:
     label: "Agritourisme"
-    href: "/surroundings/farm-stays"
+    href: "/surroundings/farm-stays/"
 textBlock:
   eyebrow: "Restaurants"
   title: "Saveurs authentiques de la Gallura"

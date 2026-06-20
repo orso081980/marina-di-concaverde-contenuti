@@ -18,7 +18,7 @@ hero:
     target: "_blank"
   secondaryCta:
     label: "Noleggio Auto"
-    href: "/servizi/ncc"
+    href: "/unamicoingallura/ncc/"
 textBlock:
   eyebrow: "Traghetti"
   title: "In Sardegna via mare"

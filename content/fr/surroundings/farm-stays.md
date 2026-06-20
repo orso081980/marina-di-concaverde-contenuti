@@ -14,10 +14,10 @@ hero:
   imageAlt: "Agritourisme campagne gallurese Sardaigne"
   primaryCta:
     label: "Réserver une visite"
-    href: "/residence/contact"
+    href: "/residence/contact/"
   secondaryCta:
     label: "Restaurants"
-    href: "/surroundings/restaurants"
+    href: "/surroundings/restaurants/"
 textBlock:
   eyebrow: "Agritourisme"
   title: "La Gallura authentique, à table"

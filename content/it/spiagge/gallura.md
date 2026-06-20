@@ -14,10 +14,10 @@ hero:
   imageAlt: "Spiagge della Gallura Sardegna"
   primaryCta:
     label: "Tariffe e Disponibilità"
-    href: "/residence/tariffe"
+    href: "/residence/tariffe/"
   secondaryCta:
     label: "Contattaci"
-    href: "/residence/contatti"
+    href: "/residence/contatti/"
 textBlock:
   eyebrow: "Da EST a OVEST la costa della Gallura"
   title: "Sabbia bianca, granito rosa, acqua turchese"

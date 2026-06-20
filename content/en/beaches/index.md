@@ -23,10 +23,10 @@ hero:
     href: "#"
   primaryCta:
     label: "Discover the Coves"
-    href: "/beaches/coves"
+    href: "/beaches/coves/"
   secondaryCta:
     label: "Rates & Availability"
-    href: "/residence/rates"
+    href: "/residence/rates/"
 textBlock:
   eyebrow: "Gallura's Sea"
   title: "Crystal-clear waters just steps away from the residence"
@@ -47,22 +47,22 @@ Staying at Marina di Conca Verde means having the privilege of being at the hear
 
 The Porto Pozzo fjord is dotted with hidden coves, reachable on foot or by sea. Crystal-clear waters, shallow sandy bottoms: perfect for families and those seeking peace away from the crowds.
 
-[Discover the coves →](/beaches/coves)
+[Discover the coves →](/en/beaches/coves/)
 
 ## La Maddalena Archipelago
 
 Just **15 minutes by dinghy** from the residence opens the La Maddalena Archipelago National Park: Spargi, Budelli with the famous pink beach, Santa Maria, Razzoli. A pristine paradise of rare beauty.
 
-[Discover the Archipelago →](/beaches/maddalena)
+[Discover the Archipelago →](/en/beaches/maddalena/)
 
 ## Gallura Beaches
 
 Gallura offers miles of beaches among the most beautiful in the Mediterranean. From the dunes of Rena Majore through the protected marine area of Capo Testa to Palau at the gateway to the Costa Smeralda: each beach has its own character, between pink granite, turquoise water and untouched nature.
 
-[Discover the beaches →](/beaches/gallura)
+[Discover the beaches →](/en/beaches/gallura/)
 
 ## Costa Smeralda
 
 Just 45 minutes by car brings you to the renowned **Costa Smeralda**: Porto Cervo, Cala di Volpe, Capriccioli. An unmissable excursion even just for a day.
 
-[Discover the Costa Smeralda →](/beaches/costa-smeralda)
+[Discover the Costa Smeralda →](/en/beaches/costa-smeralda/)

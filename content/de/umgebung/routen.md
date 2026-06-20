@@ -14,10 +14,10 @@ hero:
   imageAlt: "Routen Gallura Nordsardinien"
   primaryCta:
     label: "Organisierte Ausflüge"
-    href: "/dienstleistungen/ausfluege"
+    href: "/dienstleistungen/ausfluege/"
   secondaryCta:
     label: "Mietwagen / NCC"
-    href: "/dienstleistungen/transfer"
+    href: "/dienstleistungen/transfer/"
 textBlock:
   eyebrow: "Routen"
   title: "Wie man Gallura im Urlaub entdeckt"

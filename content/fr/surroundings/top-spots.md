@@ -14,10 +14,10 @@ hero:
   imageAlt: "Archipel de La Maddalena Sardaigne"
   primaryCta:
     label: "Excursions en bateau"
-    href: "/services/excursions"
+    href: "/services/excursions/"
   secondaryCta:
     label: "Ferries"
-    href: "/services/ferries"
+    href: "/services/ferries/"
 textBlock:
   eyebrow: "Destinations Préférées"
   title: "Le meilleur du nord de la Sardaigne"

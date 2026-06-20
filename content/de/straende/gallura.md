@@ -14,10 +14,10 @@ hero:
   imageAlt: "Strände der Gallura Sardinien"
   primaryCta:
     label: "Mietwagen / Transfer"
-    href: "/dienstleistungen/transfer"
+    href: "/dienstleistungen/transfer/"
   secondaryCta:
     label: "Bootsausflüge"
-    href: "/dienstleistungen/ausfluege"
+    href: "/dienstleistungen/ausfluege/"
 textBlock:
   eyebrow: "Die Küste der Gallura"
   title: "Weißer Sand, rosa Granit, türkises Wasser"
@@ -60,4 +60,4 @@ Eine lebhafte Stadt mit ausgestatteten Stränden, Yachthafen und Abfahrt der Fä
 
 Die meisten dieser Strände sind **mit dem Auto in 15–25 Minuten** von der Anlage erreichbar. Für diejenigen, die lieber nicht selbst fahren, organisieren wir **Transfers und Autovermietung** auf Anfrage.
 
-[Mietwagen / Transfer →](/dienstleistungen/transfer)
+[Mietwagen / Transfer →](/de/dienstleistungen/transfer/)

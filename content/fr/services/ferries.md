@@ -17,7 +17,7 @@ hero:
     href: "https://www.traghetti.com"
   secondaryCta:
     label: "Location Voiture / Transfert"
-    href: "/services/ncc"
+    href: "/services/ncc/"
 textBlock:
   eyebrow: "Ferries"
   title: "La Sardaigne par la mer"

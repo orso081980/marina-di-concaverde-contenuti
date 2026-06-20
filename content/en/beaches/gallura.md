@@ -14,10 +14,10 @@ hero:
   imageAlt: "Beaches of Gallura Sardinia"
   primaryCta:
     label: "Rates & Availability"
-    href: "/residence/rates"
+    href: "/residence/rates/"
   secondaryCta:
     label: "Contact Us"
-    href: "/residence/contacts"
+    href: "/residence/contacts/"
 textBlock:
   eyebrow: "From EAST to WEST the Gallura coastline"
   title: "White sand, pink granite, turquoise water"
