@@ -25,7 +25,7 @@ textBlock:
 
 ## INFORMATION SUR LE TRAITEMENT DES DONNÉES PERSONNELLES (Art. 13 du Décret Législatif n° 196 du 30 juin 2003)
 
-Cette page décrit les modalités de gestion du site www.marinadiconcaverde.it en ce qui concerne le traitement des données personnelles des utilisateurs qui le consultent. Cette information est également fournie conformément à l'art. 13 du D.lgs. n° 196/2003 — Code en matière de protection des données personnelles. L'information s'applique uniquement au site de CCST s.r.l. et non aux autres sites web éventuellement consultés par l'utilisateur via des liens.
+Cette page décrit les modalités de gestion du site https://www.marinadiconcaverde.it en ce qui concerne le traitement des données personnelles des utilisateurs qui le consultent. Cette information est également fournie conformément à l'art. 13 du D.lgs. n° 196/2003 — Code en matière de protection des données personnelles. L'information s'applique uniquement au site de CCST s.r.l. et non aux autres sites web éventuellement consultés par l'utilisateur via des liens.
 
 Chez CCST s.r.l., vos données sont gérées en toute sécurité et dans la plus stricte confidentialité. CCST s.r.l. vérifie attentivement le respect des dispositions légales en vigueur en matière de protection des données personnelles.
 

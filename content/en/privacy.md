@@ -25,7 +25,7 @@ textBlock:
 
 ## INFORMATION ON PERSONAL DATA PROCESSING (Art. 13 of Legislative Decree no. 196 of 30 June 2003)
 
-This page describes how the website www.marinadiconcaverde.it is managed with regard to the processing of personal data of users who visit it. This notice is also provided pursuant to Art. 13 of Legislative Decree no. 196/2003 — the Personal Data Protection Code. The notice applies solely to the CCST s.r.l. website and not to any other websites that users may visit through external links.
+This page describes how the website https://www.marinadiconcaverde.it is managed with regard to the processing of personal data of users who visit it. This notice is also provided pursuant to Art. 13 of Legislative Decree no. 196/2003 — the Personal Data Protection Code. The notice applies solely to the CCST s.r.l. website and not to any other websites that users may visit through external links.
 
 At CCST s.r.l. your data is handled with security and absolute confidentiality. CCST s.r.l. carefully verifies compliance with legal provisions under applicable personal data protection legislation.
 

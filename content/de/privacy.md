@@ -25,7 +25,7 @@ textBlock:
 
 ## INFORMATION ÜBER DIE VERARBEITUNG PERSONENBEZOGENER DATEN (Art. 13 des gesetzesvertretenden Dekrets Nr. 196 vom 30. Juni 2003)
 
-Diese Seite beschreibt die Verwaltung der Website www.marinadiconcaverde.it in Bezug auf die Verarbeitung personenbezogener Daten von Besuchern. Diese Information wird auch gemäß Art. 13 des Gesetzesdekrets Nr. 196/2003 — Kodex zum Schutz personenbezogener Daten — bereitgestellt. Die Information gilt ausschließlich für die Website der CCST s.r.l. und nicht für andere Websites, die der Benutzer über Links aufrufen könnte.
+Diese Seite beschreibt die Verwaltung der Website https://www.marinadiconcaverde.it in Bezug auf die Verarbeitung personenbezogener Daten von Besuchern. Diese Information wird auch gemäß Art. 13 des Gesetzesdekrets Nr. 196/2003 — Kodex zum Schutz personenbezogener Daten — bereitgestellt. Die Information gilt ausschließlich für die Website der CCST s.r.l. und nicht für andere Websites, die der Benutzer über Links aufrufen könnte.
 
 Bei CCST s.r.l. werden Ihre Daten sicher und in absoluter Vertraulichkeit verwaltet. CCST s.r.l. überprüft sorgfältig die Einhaltung der gesetzlichen Bestimmungen gemäß den geltenden Datenschutzvorschriften.
 
