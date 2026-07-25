@@ -38,7 +38,7 @@ Escursioni a **cavallo**, in **mountain bike**, in **kyak**, in **barca a vela**
 
 <div style="margin: 2rem 0;"></div>
 
-## 🌟 Le Nostre Attività
+## 🌟 Ti suggeriamo alcune attività in zona:
 
 - **🏄‍♂️ Scuole di wind surf e kite surf**  
   Impara gli sport acquatici con istruttori certificati nelle acque cristalline della Gallura
@@ -49,8 +49,4 @@ Escursioni a **cavallo**, in **mountain bike**, in **kyak**, in **barca a vela**
 - **🏛️ Una passeggiata al parco archeologico ed alle tombe dei giganti**  
   Scopri la storia nuragica della Sardegna in un contesto naturalistico unico
 
-- **🍽️ Gite organizzate in centro Sardegna**  
-  Gustare i sapori forti e la vita autentica di chi questi posti li vive
 
-- **🌆 Cene a Porto Cervo nei ristoranti più rinomati**  
-  Serate nei club più esclusivi della Costa Smeralda
