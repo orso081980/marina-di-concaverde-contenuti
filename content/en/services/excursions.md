@@ -38,7 +38,7 @@ Excursions **on horseback**, **mountain biking**, **kayaking**, **sailing** or a
 
 <div style="margin: 2rem 0;"></div>
 
-## 🌟 Our Activities
+## 🌟 We can suggest you to have a look at:
 
 - **🏄‍♂️ Windsurfing and kitesurfing schools**  
   Learn water sports with certified instructors in the crystal-clear waters of Gallura
@@ -49,8 +49,3 @@ Excursions **on horseback**, **mountain biking**, **kayaking**, **sailing** or a
 - **🏛️ A stroll through the archaeological park and giants' tombs**  
   Discover the Nuragic history of Sardinia in a unique natural setting
 
-- **🍽️ Organized trips to central Sardinia**  
-  Taste the strong flavors and authentic life of those who live these places
-
-- **🌆 Dinners in Porto Cervo's most renowned restaurants**  
-  Evenings in the most exclusive Costa Smeralda clubs
