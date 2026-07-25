@@ -38,7 +38,7 @@ Escursioni a **cavallo**, in **mountain bike**, in **kyak**, in **barca a vela**
 
 <div style="margin: 2rem 0;"></div>
 
-## 🌟 Ti suggeriamo alcune attività in zona!:
+## 🌟 Ti suggeriamo alcune attività in zona:
 
 - **🏄‍♂️ Scuole di wind surf e kite surf**  
   Impara gli sport acquatici con istruttori certificati nelle acque cristalline della Gallura
