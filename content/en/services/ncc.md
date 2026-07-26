@@ -1,15 +1,15 @@
 ---
 title: "NCC / Transfer — Marina di Conca Verde, Porto Pozzo"
-description: "Car rentals, NCC services and local transportation."
+description: "Our local knowledge on Car rentals, NCC services and local transportation."
 translations:
   it: "/unamicoingallura/ncc"
   en: "/services/ncc"
   de: "/dienstleistungen/transfer"
   fr: "/services/ncc"
 hero:
-  eyebrow: "Services · Transfer"
-  title: "Getting Around the Island"
-  subtitle: "Car and motorcycle rentals. NCC and taxis throughout Sardinia."
+  eyebrow: "Where to look for transportation"
+  title: "How local knowledge to move around the Island"
+  subtitle: "we pprovide info on local Car and motorcycle rentals. NCC and taxis."
   image: "https://cdn.marinadiconcaverde.it/img/FIAT_500_F_1966.jpg"
   imageAlt: "Transfer service Sardinia"
   primaryCta:
@@ -32,4 +32,4 @@ stats:
     label: "rentals in Santa Teresa"
 ---
 
-In Santa Teresa Gallura there are several car rental and taxi/NCC transfer activities. We strongly recommend arriving with your own car or renting one locally for the duration of your vacation.
+In Santa Teresa Gallura there are several car rental and taxi/NCC transfer activities. We strongly recommend arriving with your own car or renting one locally for the duration of your vacation. Let us know if you need info on local transportation providers.
