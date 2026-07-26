@@ -1,15 +1,15 @@
 ---
 title: "NCC / Transfer — Marina di Conca Verde, Porto Pozzo"
-description: "Autonoleggi, servizi NCC e trasporto locale."
+description: "Info Autonoleggi, servizi NCC e trasporto locale."
 translations:
   it: "/unamicoingallura/ncc"
   en: "/services/ncc"
   de: "/dienstleistungen/transfer"
   fr: "/services/ncc"
 hero:
-  eyebrow: "Servizi · Transfer"
+  eyebrow: "info utili per Transfer"
   title: "Muoversi nell'isola"
-  subtitle: "Noleggio auto e moto. NCC e taxi per tutta la Sardegna."
+  subtitle: "i nostri suggerimenti per noleggio auto e moto. NCC e taxi."
   image: "https://cdn.marinadiconcaverde.it/img/FIAT_500_F_1966.jpg"
   imageAlt: "Servizio transfer Sardegna"
   primaryCta:
@@ -20,7 +20,7 @@ hero:
     href: "/unamicoingallura/"
 textBlock:
   eyebrow: "NCC / Transfer"
-  title: "Spostati in Sardegna senza stress"
+  title: "Ti suggeriamo come muoverti in Sardegna senza stress"
 stats:
   - value: "Aeroporto Olbia"
     label: "60 min dal residence"
@@ -32,4 +32,4 @@ stats:
     label: "noleggi a Santa Teresa"
 ---
 
-A Santa Teresa Gallura ci sono diverse attivita di noleggio e transfer/taxi. Consigliamo vivamente di venire automuniti o di noleggiare un'auto in loco per tutta la durata della vostra vacanza.
+A Santa Teresa Gallura ci sono diverse attivita di noleggio e transfer/taxi. Consigliamo vivamente di venire automuniti o di noleggiare un'auto in loco per tutta la durata della vostra vacanza. Se hai bisogno di qualche informazione non esitare a chiederci informazioni su quali attività sono presenti sul territorio.
